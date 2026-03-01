@@ -1,0 +1,4 @@
+[04-Dec-2025 07:54:22 Australia/Sydney] PHP Fatal error:  Class 'WpOrg\Requests\Exception\Transport' not found in /home/mukcorga/public_html/wordpress/wp-includes/Requests/src/Exception/Transport/Curl.php on line 17
+[05-Dec-2025 05:23:35 Australia/Sydney] PHP Fatal error:  Class 'WpOrg\Requests\Exception\Transport' not found in /home/mukcorga/public_html/wordpress/wp-includes/Requests/src/Exception/Transport/Curl.php on line 17
+[08-Dec-2025 16:13:32 Australia/Sydney] PHP Fatal error:  Class 'WpOrg\Requests\Exception\Transport' not found in /home/mukcorga/public_html/wordpress/wp-includes/Requests/src/Exception/Transport/Curl.php on line 17
+[09-Dec-2025 08:14:22 Australia/Sydney] PHP Fatal error:  Class 'WpOrg\Requests\Exception\Transport' not found in /home/mukcorga/public_html/wordpress/wp-includes/Requests/src/Exception/Transport/Curl.php on line 17

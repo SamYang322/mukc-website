@@ -1,0 +1,6 @@
+[20-Nov-2023 23:55:29 Australia/Sydney] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home/mukcorga/public_html/wordpress/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[03-Nov-2024 11:24:44 Australia/Sydney] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home/mukcorga/public_html/wordpress/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[04-Dec-2025 07:54:29 Australia/Sydney] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home/mukcorga/public_html/wordpress/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[05-Dec-2025 05:23:57 Australia/Sydney] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home/mukcorga/public_html/wordpress/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[08-Dec-2025 16:12:24 Australia/Sydney] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home/mukcorga/public_html/wordpress/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[09-Dec-2025 08:13:21 Australia/Sydney] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home/mukcorga/public_html/wordpress/wp-includes/rest-api/class-wp-rest-response.php on line 17

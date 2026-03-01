@@ -1,0 +1,4 @@
+[04-Dec-2025 07:54:24 Australia/Sydney] PHP Fatal error:  Class 'WpOrg\Requests\Utility\CaseInsensitiveDictionary' not found in /home/mukcorga/public_html/wordpress/wp-includes/Requests/src/Response/Headers.php on line 20
+[05-Dec-2025 05:23:24 Australia/Sydney] PHP Fatal error:  Class 'WpOrg\Requests\Utility\CaseInsensitiveDictionary' not found in /home/mukcorga/public_html/wordpress/wp-includes/Requests/src/Response/Headers.php on line 20
+[08-Dec-2025 16:13:30 Australia/Sydney] PHP Fatal error:  Class 'WpOrg\Requests\Utility\CaseInsensitiveDictionary' not found in /home/mukcorga/public_html/wordpress/wp-includes/Requests/src/Response/Headers.php on line 20
+[09-Dec-2025 08:14:28 Australia/Sydney] PHP Fatal error:  Class 'WpOrg\Requests\Utility\CaseInsensitiveDictionary' not found in /home/mukcorga/public_html/wordpress/wp-includes/Requests/src/Response/Headers.php on line 20

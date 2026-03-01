@@ -1,0 +1,12 @@
+[04-Dec-2025 07:54:10 Australia/Sydney] PHP Fatal error:  Class 'WpOrg\Requests\Exception' not found in /home/mukcorga/public_html/wordpress/wp-includes/Requests/src/Exception/ArgumentCount.php on line 20
+[04-Dec-2025 07:54:11 Australia/Sydney] PHP Fatal error:  Class 'WpOrg\Requests\Exception' not found in /home/mukcorga/public_html/wordpress/wp-includes/Requests/src/Exception/Http.php on line 18
+[04-Dec-2025 07:54:11 Australia/Sydney] PHP Fatal error:  Class 'WpOrg\Requests\Exception' not found in /home/mukcorga/public_html/wordpress/wp-includes/Requests/src/Exception/Transport.php on line 17
+[05-Dec-2025 05:23:27 Australia/Sydney] PHP Fatal error:  Class 'WpOrg\Requests\Exception' not found in /home/mukcorga/public_html/wordpress/wp-includes/Requests/src/Exception/ArgumentCount.php on line 20
+[05-Dec-2025 05:23:27 Australia/Sydney] PHP Fatal error:  Class 'WpOrg\Requests\Exception' not found in /home/mukcorga/public_html/wordpress/wp-includes/Requests/src/Exception/Transport.php on line 17
+[05-Dec-2025 05:23:27 Australia/Sydney] PHP Fatal error:  Class 'WpOrg\Requests\Exception' not found in /home/mukcorga/public_html/wordpress/wp-includes/Requests/src/Exception/Http.php on line 18
+[08-Dec-2025 16:13:31 Australia/Sydney] PHP Fatal error:  Class 'WpOrg\Requests\Exception' not found in /home/mukcorga/public_html/wordpress/wp-includes/Requests/src/Exception/Http.php on line 18
+[08-Dec-2025 16:13:31 Australia/Sydney] PHP Fatal error:  Class 'WpOrg\Requests\Exception' not found in /home/mukcorga/public_html/wordpress/wp-includes/Requests/src/Exception/Transport.php on line 17
+[08-Dec-2025 16:13:32 Australia/Sydney] PHP Fatal error:  Class 'WpOrg\Requests\Exception' not found in /home/mukcorga/public_html/wordpress/wp-includes/Requests/src/Exception/ArgumentCount.php on line 20
+[09-Dec-2025 08:14:21 Australia/Sydney] PHP Fatal error:  Class 'WpOrg\Requests\Exception' not found in /home/mukcorga/public_html/wordpress/wp-includes/Requests/src/Exception/Transport.php on line 17
+[09-Dec-2025 08:14:22 Australia/Sydney] PHP Fatal error:  Class 'WpOrg\Requests\Exception' not found in /home/mukcorga/public_html/wordpress/wp-includes/Requests/src/Exception/Http.php on line 18
+[09-Dec-2025 08:14:22 Australia/Sydney] PHP Fatal error:  Class 'WpOrg\Requests\Exception' not found in /home/mukcorga/public_html/wordpress/wp-includes/Requests/src/Exception/ArgumentCount.php on line 20

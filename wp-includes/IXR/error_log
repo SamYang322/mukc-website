@@ -1,0 +1,10 @@
+[20-Nov-2023 23:55:00 Australia/Sydney] PHP Fatal error:  Class 'IXR_Client' not found in /home/mukcorga/public_html/wordpress/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[20-Nov-2023 23:55:01 Australia/Sydney] PHP Fatal error:  Class 'IXR_Server' not found in /home/mukcorga/public_html/wordpress/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[04-Dec-2025 07:53:49 Australia/Sydney] PHP Fatal error:  Class 'IXR_Client' not found in /home/mukcorga/public_html/wordpress/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[04-Dec-2025 07:53:50 Australia/Sydney] PHP Fatal error:  Class 'IXR_Server' not found in /home/mukcorga/public_html/wordpress/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[05-Dec-2025 05:22:47 Australia/Sydney] PHP Fatal error:  Class 'IXR_Client' not found in /home/mukcorga/public_html/wordpress/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[05-Dec-2025 05:22:48 Australia/Sydney] PHP Fatal error:  Class 'IXR_Server' not found in /home/mukcorga/public_html/wordpress/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[08-Dec-2025 16:12:41 Australia/Sydney] PHP Fatal error:  Class 'IXR_Server' not found in /home/mukcorga/public_html/wordpress/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[08-Dec-2025 16:12:41 Australia/Sydney] PHP Fatal error:  Class 'IXR_Client' not found in /home/mukcorga/public_html/wordpress/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[09-Dec-2025 08:14:55 Australia/Sydney] PHP Fatal error:  Class 'IXR_Server' not found in /home/mukcorga/public_html/wordpress/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[09-Dec-2025 08:14:56 Australia/Sydney] PHP Fatal error:  Class 'IXR_Client' not found in /home/mukcorga/public_html/wordpress/wp-includes/IXR/class-IXR-clientmulticall.php on line 8

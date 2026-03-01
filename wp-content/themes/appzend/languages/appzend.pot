@@ -1,0 +1,3418 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Appzend\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-19 08:13+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.1; wp-5.7\n"
+"X-Domain: appzend"
+
+#: inc/woocommerce.php:456
+msgid "%"
+msgstr ""
+
+#: welcome/welcome.php:104
+#, php-format
+msgid ""
+"%1$s is now installed and ready to use. You can start either by importing "
+"the ready made demo or get started by customizing it your self."
+msgstr ""
+
+#: welcome/welcome.php:150
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: welcome/sections/getting_started.php:25
+#, php-format
+msgid "%s Demo"
+msgstr ""
+
+#: patterns/contact/contact-section-three.php:35
+#: patterns/contact/contact-section-one.php:58
+#: patterns/contact/contact-section-two.php:57
+msgid "( Give us a free any time )"
+msgstr ""
+
+#: inc/template-tags.php:95
+msgid ", "
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:37
+msgid "10 Demo Only"
+msgstr ""
+
+#: patterns/contact/contact-section-three.php:21
+msgid "1010 Avenue, New York NY 10018 US & Koteshwor - 32, Kathmandu, Nepal"
+msgstr ""
+
+#: patterns/contact/contact-section-two.php:39
+msgid "1010 Avenue, New York NY 10018 US And Koteshwor - 32, Kathmandu, Nepal"
+msgstr ""
+
+#: patterns/contact/contact-section-one.php:40
+msgid "1010 Avenue, New York x 10018 US And Koteshwor - 32, Kathmandu, Nepal"
+msgstr ""
+
+#: patterns/testimonial/testimonial-one.php:19
+msgid "20k+ Satisfied Clients World Wide"
+msgstr ""
+
+#: patterns/contact/contact-section-three.php:31
+#: patterns/contact/contact-section-one.php:54
+#: patterns/contact/contact-section-two.php:53
+msgid "24 / 7 Call Support"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:143
+msgid "4 Attractive Blog Layouts"
+msgstr ""
+
+#: 404.php:21
+msgid "404"
+msgstr ""
+
+#: inc/breadcrumbs.php:267
+msgid "404 Not Found"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:38
+msgid "50+ Demos"
+msgstr ""
+
+#: patterns/abouts/about-section-five.php:38
+#: patterns/abouts/about-section-one.php:29
+msgid "A fast & easy application"
+msgstr ""
+
+#: patterns/abouts/about-section-one.php:15
+msgid "About Fitness Park"
+msgstr ""
+
+#: inc/customizer/home-page/about-us.php:6
+msgid "About Us Section"
+msgstr ""
+
+#: welcome/welcome.php:140
+msgid "Action Failed. Something is Wrong."
+msgstr ""
+
+#: welcome/sections/recommended_plugins.php:28
+msgid "Activate"
+msgstr ""
+
+#: welcome/welcome.php:278
+msgid "Activate Demo Importer Plugin"
+msgstr ""
+
+#: welcome/welcome.php:182
+msgid "Activating Demo Importer Plugin"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:174
+msgid "Adapts to any screen size and display beautifully."
+msgstr ""
+
+#: inc/customizer/home-page/slider.php:100
+#: inc/customizer/home-page/our-service.php:80
+#: inc/customizer/home-page/featured-service.php:82
+#: inc/customizer/home-page/how-it-works.php:90
+#: inc/customizer/home-page/portfolio.php:78
+#: inc/customizer/home-page/highlight-service.php:93
+msgid "Add New"
+msgstr ""
+
+#: functions.php:162 functions.php:172 functions.php:182
+msgid "Add widgets here."
+msgstr ""
+
+#: patterns/services/fservice-section-two.php:86
+msgid "Admission Guidance"
+msgstr ""
+
+#: inc/customizer/home-page/our-service.php:50
+#: inc/customizer/home-page/featured-service.php:50
+#: inc/customizer/home-page/product-hotoffer.php:51
+#: inc/customizer/home-page/product-type-settings.php:53
+#: inc/customizer/home-page/how-it-works.php:48
+#: inc/customizer/home-page/portfolio.php:48
+#: inc/customizer/home-page/product-category-settings.php:54
+#: inc/customizer/home-page/about-us.php:48
+msgid "Advance"
+msgstr ""
+
+#: inc/customizer/home-page/featured-service.php:119
+msgid "Advance features items"
+msgstr ""
+
+#: inc/customizer/home-page/product-hotoffer.php:185
+#: inc/customizer/home-page/product-type-settings.php:189
+#: inc/customizer/home-page/how-it-works.php:122
+#: inc/customizer/home-page/product-category-settings.php:176
+msgid "Advance Option - Directly Change Content from customizer"
+msgstr ""
+
+#: inc/customizer/home-page/our-service.php:137
+msgid "Advance service items"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:53 welcome/sections/free_vs_pro.php:60
+#: welcome/sections/free_vs_pro.php:82 welcome/sections/free_vs_pro.php:102
+#: welcome/sections/free_vs_pro.php:109 welcome/sections/free_vs_pro.php:131
+msgid "Advanced"
+msgstr ""
+
+#: welcome/sections/footer.php:79
+msgid "Agency One"
+msgstr ""
+
+#: welcome/sections/footer.php:92
+msgid "Agency Two"
+msgstr ""
+
+#: inc/customizer/header-settings.php:142
+#: inc/customizer/home-page/slider.php:124
+#: inc/customizer/home-page/common-settings.php:274
+msgid "Alignment"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:66
+msgid ""
+"All our premium themes are GDPR compliant, so you don’t have to stress any "
+"warning, suspension, or legal lawsuit. We have added necessary GDPR "
+"enhancements to make sure all our themes are GDPR complaints."
+msgstr ""
+
+#: patterns/services/fservice-section-four.php:18
+#: patterns/services/fservice-section-two.php:18
+msgid "Almost 35+ Years of Experience in Providing Consulting Services"
+msgstr ""
+
+#: patterns/services/fservice-section-five.php:18
+msgid "Almost 35+ Years of Experience Providing Services"
+msgstr ""
+
+#: patterns/how-it-works/how-it-work-two.php:18
+msgid "Almost 35+ Years of Working Experience in Consulting"
+msgstr ""
+
+#: inc/customizer/home-page/slider.php:164
+msgid "And more..."
+msgstr ""
+
+#: welcome/sections/footer.php:14
+msgid "AppsZend Agency"
+msgstr ""
+
+#. Name of the theme
+msgid "Appzend"
+msgstr ""
+
+#: welcome/welcome.php:108
+msgid "Appzend Demo"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Appzend is a clean and fully customizable, responsive business WordPress "
+"theme, also appzend business theme help to develop awesome and modern "
+"different types of business websites. appzend theme is also fully compatible "
+"with the latest page builders plugins ( Elementor, SiteOrigin, Visual "
+"Composer ) and also created 10+ different widget, which you can easily "
+"implement in any page or post to create, edit and update beautifully page "
+"design, also theme has some exciting features like ( reorder each home "
+"section ), cross-browser compatible, translation ready, site speed optimized,"
+" SEO friendly theme and also supports WooCommerce and some other external "
+"plugins like Jetpack, Polylang, Yoast SEO, Contact Form 7 and many more "
+"plugins."
+msgstr ""
+
+#: inc/meta-boxes/post-meta.php:159
+msgid "AppZend Meta Settings"
+msgstr ""
+
+#: welcome/sections/footer.php:3
+#, php-format
+msgid "Appzend Pro Demos - Premium Version of %s"
+msgstr ""
+
+#: functions.php:350
+msgid "Appzend Themes"
+msgstr ""
+
+#: inc/breadcrumbs.php:268
+msgid "Archives"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:214
+msgid "Attachment"
+msgstr ""
+
+#: welcome/sections/footer.php:66
+msgid "Auto Dealer"
+msgstr ""
+
+#: 404.php:31
+msgid "Back To Home"
+msgstr ""
+
+#: inc/customizer/home-page/slider.php:137
+msgid "Background"
+msgstr ""
+
+#: inc/customizer/header-settings.php:305
+#: inc/customizer/header-settings.php:307
+#: inc/customizer/home-page/common-settings.php:94
+#: inc/customizer/home-page/common-settings.php:188
+#: inc/customizer/home-page/common-settings.php:192
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer/home-page/slider.php:179
+msgid "Background Overlay Color"
+msgstr ""
+
+#: inc/customizer/home-page/slider.php:133
+msgid "Banner Position"
+msgstr ""
+
+#: inc/customizer/home-page/slider.php:162
+msgid "Banner Settings"
+msgstr ""
+
+#: inc/customizer/home-page/slider.php:96
+msgid "Banner Slider Settings"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:52 welcome/sections/free_vs_pro.php:59
+#: welcome/sections/free_vs_pro.php:81 welcome/sections/free_vs_pro.php:101
+#: welcome/sections/free_vs_pro.php:108 welcome/sections/free_vs_pro.php:130
+msgid "Basic"
+msgstr ""
+
+#: inc/customizer/customizer.php:186
+msgid "Blog Archive Sidebar"
+msgstr ""
+
+#. Name of the template
+#: template-blog.php:2
+msgid "Blog Template"
+msgstr ""
+
+#: inc/customizer/customizer.php:284
+msgid "Blog Template Layout Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:256
+msgid "Blog Template Settings"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:144
+msgid ""
+"Blogs are a great way to attract new website visitors and built trust. "
+"Sparklstore Pro comes with 4 beautifully designed blog layout posts."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:151
+msgid "Both free and pro version are fully translation ready."
+msgstr ""
+
+#: inc/customizer/customizer.php:150
+msgid "Boxed"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:99
+msgid "Breadcrumb Layout and Option"
+msgstr ""
+
+#: inc/meta-boxes/post-meta.php:14
+msgid "Breadcrumb Setting"
+msgstr ""
+
+#: inc/customizer/customizer.php:235
+msgid "Breadcrumb Settings"
+msgstr ""
+
+#: inc/breadcrumbs.php:265
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/breadcrumbs.php:264
+msgid "Browse:"
+msgstr ""
+
+#: patterns/blog/blog-section-two.php:18 patterns/blog/blog-section-one.php:18
+msgid "Business News & Articles"
+msgstr ""
+
+#: patterns/services/fservice-section-two.php:129
+#: patterns/services/fservice-section-two.php:169
+msgid ""
+"Business Roy is a clean, beautiful, and fully customizable responsive modern "
+"free WordPress business theme, especially landing pages."
+msgstr ""
+
+#: patterns/services/fservice-section-one.php:48
+msgid ""
+"Business Roy is a clean, beautiful, and fully customizable responsive modern "
+"free WordPress business theme."
+msgstr ""
+
+#: patterns/hero/slider-one.php:20
+msgid ""
+"Business WordPress themes have been optimized to give our visitors the best "
+"experience in terms of theme support. The Perfect Clean Design Framework for "
+"Startup Your Businesses."
+msgstr ""
+
+#: inc/customizer/home-page/slider.php:245
+#: inc/customizer/home-page/slider.php:248
+msgid "Button Background Color"
+msgstr ""
+
+#: inc/customizer/home-page/slider.php:246
+#: inc/customizer/home-page/slider.php:249
+msgid "Button Border Color"
+msgstr ""
+
+#: inc/customizer/header-settings.php:295
+msgid "Button Color"
+msgstr ""
+
+#: inc/customizer/header-settings.php:229
+msgid "Button CSS Class "
+msgstr ""
+
+#: inc/customizer/header-settings.php:177
+msgid "Button Text"
+msgstr ""
+
+#: inc/customizer/home-page/slider.php:247
+#: inc/customizer/home-page/slider.php:250
+msgid "Button Text Color"
+msgstr ""
+
+#: inc/customizer/header-settings.php:194
+msgid "Button URL"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:25
+msgid "Buy Now ($55 only)"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:206
+msgid "Buy Now ($59 only)"
+msgstr ""
+
+#: patterns/hero/slider-one.php:33
+msgid "Buy Themes"
+msgstr ""
+
+#: inc/customizer/home-page/cta.php:6
+msgid "Call To Action Section"
+msgstr ""
+
+#: inc/customizer/home-page/slider.php:233
+msgid "Caption Button Colors"
+msgstr ""
+
+#: inc/themes-functions.php:319 inc/customizer/home-page/slider.php:127
+msgid "Center"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:246
+msgid "Center Bottom"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:245
+msgid "Center Center"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:244
+msgid "Center Top"
+msgstr ""
+
+#: patterns/testimonial/testimonial-one.php:68
+msgid "CEO / Founder"
+msgstr ""
+
+#: patterns/hero/slider-one.php:12
+msgid "Challenges Are Our Passion"
+msgstr ""
+
+#: inc/customizer/home-page/our-service.php:136
+#: inc/customizer/home-page/highlight-service.php:139
+msgid "Change column number"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:195
+msgid "Change Image"
+msgstr ""
+
+#: inc/customizer/home-page/product-hotoffer.php:183
+#: inc/customizer/home-page/product-type-settings.php:187
+#: inc/customizer/home-page/how-it-works.php:120
+#: inc/customizer/home-page/cta.php:131
+#: inc/customizer/home-page/product-category-settings.php:174
+msgid "Change number of columns"
+msgstr ""
+
+#: inc/customizer/home-page/product-hotoffer.php:181
+#: inc/customizer/home-page/product-type-settings.php:185
+#: inc/customizer/home-page/how-it-works.php:118
+#: inc/customizer/home-page/cta.php:129
+#: inc/customizer/home-page/product-category-settings.php:172
+msgid "Change title styles"
+msgstr ""
+
+#: functions.php:368
+msgid "Check Mark"
+msgstr ""
+
+#: welcome/sections/footer.php:4
+#, php-format
+msgid ""
+"Check out the demos that you can create with the premium version of the %s "
+"theme. 20+ Pre-defined demos can be imported with just one click in the "
+"premium version."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:180
+msgid "Child Theme Support"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:181
+msgid ""
+"Child theme support makes it easy for you to transfer your settings and "
+"options when you update and change you themes."
+msgstr ""
+
+#: inc/customizer/home-page/highlight-service.php:140
+msgid "Choose between default and advance items"
+msgstr ""
+
+#: inc/customizer/home-page/our-service.php:138
+#: inc/customizer/home-page/highlight-service.php:143
+msgid "Choose from Color/Gradient/Image background"
+msgstr ""
+
+#: inc/customizer/home-page/about-us.php:111
+msgid "Choose from five different title styles"
+msgstr ""
+
+#: inc/customizer/home-page/our-service.php:91
+#: inc/customizer/home-page/featured-service.php:93
+msgid "Choose Icon"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:200
+msgid "Choose Image"
+msgstr ""
+
+#: patterns/services/fservice-section-two.php:164
+msgid "Choose Variations Insurance"
+msgstr ""
+
+#: functions.php:409
+msgid "Circle List"
+msgstr ""
+
+#: inc/custom-controller/alpha-color/class-alpha-color.php:106
+msgid "Clear"
+msgstr ""
+
+#: inc/custom-controller/alpha-color/class-alpha-color.php:107
+msgid "Clear color"
+msgstr ""
+
+#: welcome/welcome.php:114
+msgid ""
+"Click below to install and active One Click Demo Importer Plugin, It's help "
+"you to import demo."
+msgstr ""
+
+#: welcome/sections/getting_started.php:30
+#, php-format
+msgid ""
+"Click on the button below to install and activate the One Click Demo "
+"Importer Plugin. For more detailed documentation on how the demo importer "
+"works, click %s."
+msgstr ""
+
+#: inc/mobile-menu/mobile-menu.php:7
+#: inc/custom-controller/repeater/class-repeater.php:270
+msgid "Close"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Black"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Error"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "foreground"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Link"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Link Hover"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Shadow Opacity"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Success"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Triadic "
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "White"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Yellow"
+msgstr ""
+
+#: inc/custom-controller/alpha-color/class-alpha-color.php:111
+msgid "Color value"
+msgstr ""
+
+#: inc/customizer/home-page/portfolio.php:113
+msgid "Column"
+msgstr ""
+
+#. %s is the page number.
+#: inc/breadcrumbs.php:274
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns/portfolio/portfolio-three.php:127
+#: patterns/portfolio/portfolio-three.php:145
+#: patterns/portfolio/portfolio-three.php:199
+msgid "Committed and creative"
+msgstr ""
+
+#: inc/woocommerce.php:492
+msgid "Compare"
+msgstr ""
+
+#: patterns/counter/counter-three.php:50
+msgid "Complete Project"
+msgstr ""
+
+#: welcome/welcome.php:103
+msgid "Congratulations!"
+msgstr ""
+
+#: welcome/sections/footer.php:27
+msgid "Construction"
+msgstr ""
+
+#: patterns/services/fservice-section-five.php:40
+#: patterns/services/fservice-section-five.php:192
+msgid ""
+"Construction is a clean, beautiful, and fully customizable responsive modern "
+"free WordPress business theme, especially for App-related"
+msgstr ""
+
+#: patterns/testimonial/testimonial-one.php:55
+msgid ""
+"Construction is a clean, beautiful, and fully customizable responsive modern "
+"free WordPress business theme, especially for App-related landing pages. And "
+"of course, the premium version for additional features and better support, "
+"Unlock all the possibilities."
+msgstr ""
+
+#: patterns/how-it-works/how-it-work-two.php:42
+#: patterns/how-it-works/how-it-work-one.php:37
+msgid ""
+"Construction is a clean, beautiful, and fully customizable responsive modern "
+"free WordPress business theme, especially for App-related."
+msgstr ""
+
+#: patterns/team/team-one.php:46 patterns/team/team-one.php:156
+msgid ""
+"Construction is a clean, beautiful, and fully customizable responsive modern "
+"free WordPress business theme, especially for landing pages."
+msgstr ""
+
+#: patterns/services/fservice-section-one.php:220
+msgid ""
+"Construction is a clean, beautiful, and fully customizable responsive modern "
+"free WordPress business theme."
+msgstr ""
+
+#: patterns/testimonial/testimonial-one.php:23
+msgid ""
+"Construction is a clean, beautiful, and fully customizable responsive "
+"WordPress theme"
+msgstr ""
+
+#: section/section-aboutus.php:37 patterns/abouts/about-section-three.php:69
+msgid "Contact Us"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:235
+msgid "Contain"
+msgstr ""
+
+#: inc/customizer/header-settings.php:33 inc/customizer/home-page/slider.php:54
+#: inc/customizer/home-page/our-service.php:27
+#: inc/customizer/home-page/featured-service.php:29
+#: inc/customizer/home-page/product-hotoffer.php:22
+#: inc/customizer/home-page/product-type-settings.php:22
+#: inc/customizer/home-page/how-it-works.php:26
+#: inc/customizer/home-page/cta.php:27
+#: inc/customizer/home-page/portfolio.php:26
+#: inc/customizer/home-page/highlight-service.php:26
+#: inc/customizer/home-page/product-category-settings.php:22
+#: inc/customizer/home-page/about-us.php:25
+msgid "Content"
+msgstr ""
+
+#: inc/customizer/customizer.php:173 inc/customizer/customizer.php:190
+#: inc/customizer/customizer.php:207 inc/customizer/customizer.php:224
+#: inc/customizer/customizer.php:289
+msgid "Content / Sidebar"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content-search.php:46 template-parts/content-search.php:67
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/themes-functions.php:158
+msgid "Copyright  &copy; "
+msgstr ""
+
+#. %1s: file name; %2s: slug value found.
+#: inc/block-patterns.php:81
+#, php-format
+msgid "Could not register file \"%1$s\" as a block pattern"
+msgstr ""
+
+#. %s: file name.
+#. %1s: file name; %2s: slug value found.
+#: inc/block-patterns.php:68 inc/block-patterns.php:99
+#, php-format
+msgid "Could not register file \"%s\" as a block pattern"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:234
+msgid "Cover"
+msgstr ""
+
+#: welcome/sections/getting_started.php:14
+msgid ""
+"Create a new page and edit with Elementor. Drag and drop the elements in the "
+"Elementor to create your own design."
+msgstr ""
+
+#: welcome/sections/support.php:13 welcome/sections/support.php:15
+msgid "Create Support Tickets"
+msgstr ""
+
+#: patterns/counter/counter-three.php:82
+msgid "Cup Of Coffee"
+msgstr ""
+
+#: inc/custom-controller/gradient/class-gradient.php:65
+msgid "Custom Angle Spread"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:85
+msgid "Custom Elementor Block"
+msgstr ""
+
+#: inc/customizer/home-page/slider.php:161
+msgid "Custom image upload with advanced settings"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Custom template name"
+msgid "Blank Templates"
+msgstr ""
+
+#: inc/breadcrumbs.php:790 inc/breadcrumbs.php:1219
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: patterns/team/team-one.php:109 patterns/team/team-three.php:199
+msgid "Daniel Patrick"
+msgstr ""
+
+#: section/section-producthotoffer.php:103
+msgid "Days"
+msgstr ""
+
+#: inc/custom-controller/alpha-color/class-alpha-color.php:108
+#: inc/custom-controller/background-control/background-control.php:197
+#: inc/custom-controller/background-control/background-control.php:233
+msgid "Default"
+msgstr ""
+
+#: inc/custom-controller/gradient/class-gradient.php:71
+msgid "Define Custom Angle"
+msgstr ""
+
+#: inc/custom-controller/gradient/class-gradient.php:48
+msgid "Define Gradient Colors"
+msgstr ""
+
+#: inc/custom-controller/gradient/class-gradient.php:50
+msgid "Define Gradient Direction"
+msgstr ""
+
+#: inc/custom-controller/repeater/class-repeater.php:269
+msgid "Delete"
+msgstr ""
+
+#: inc/customizer/home-page/slider.php:199
+#: inc/customizer/home-page/common-settings.php:124
+msgid "Description Color"
+msgstr ""
+
+#: patterns/team/team-one.php:41 patterns/team/team-three.php:139
+#: patterns/team/team-two.php:41
+msgid "Developer"
+msgstr ""
+
+#: inc/customizer/home-page/product-hotoffer.php:182
+#: inc/customizer/home-page/product-type-settings.php:186
+#: inc/customizer/home-page/how-it-works.php:119
+#: inc/customizer/home-page/cta.php:130
+#: inc/customizer/home-page/product-category-settings.php:173
+msgid "Different types of layout"
+msgstr ""
+
+#: welcome/sections/footer.php:144
+msgid "Digital Agency"
+msgstr ""
+
+#: patterns/abouts/about-section-five.php:60
+#: patterns/abouts/about-section-one.php:59
+msgid "Digital insurance policy"
+msgstr ""
+
+#: patterns/services/fservice-section-two.php:202
+msgid "Discuss & Submit Papers"
+msgstr ""
+
+#: welcome/welcome.php:126
+msgid "Dismiss"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:121
+msgid ""
+"Display deals/offers in an attractive way display product image, time, "
+"product details and price."
+msgstr ""
+
+#: inc/customizer/customizer.php:158
+msgid "Display Sidebar Settings"
+msgstr ""
+
+#: patterns/video-call-action/video-call-action-four.php:12
+#: patterns/video-call-action/video-call-action-three.php:12
+#: patterns/video-call-action/video-call-action-five.php:12
+#: patterns/video-call-action/video-call-section-one.php:12
+msgid "Do you need help for yourself or a loved one?"
+msgstr ""
+
+#: welcome/sections/header.php:20
+msgid "Documentaion"
+msgstr ""
+
+#: welcome/sections/support.php:3
+msgid "Documentation"
+msgstr ""
+
+#: welcome/sections/getting_started.php:19
+msgid "Documentation Page"
+msgstr ""
+
+#: inc/customizer/home-page/init.php:8
+msgid "Drag and Drop to Reorder"
+msgstr ""
+
+#: patterns/portfolio/portfolio-three.php:33
+msgid "Dreaming Things off"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Duotone name"
+msgid "Foreground and Background"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Duotone name"
+msgid "Foreground and Secondary"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Duotone name"
+msgid "Foreground and Tertiary"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Duotone name"
+msgid "Primary and Background"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Duotone name"
+msgid "Primary and Secondary"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Duotone name"
+msgid "Primary and Tertiary"
+msgstr ""
+
+#: patterns/how-it-works/how-it-work-two.php:38
+#: patterns/how-it-works/how-it-work-one.php:33
+msgid "Easy Online Booking"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:42
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: patterns/services/fservice-section-two.php:48
+msgid "Educational Counseling"
+msgstr ""
+
+#: inc/customizer/home-page/about-us.php:87
+msgid "Email Address"
+msgstr ""
+
+#: section/section-aboutus.php:34
+msgid "Email Us"
+msgstr ""
+
+#: inc/customizer/home-page/slider.php:26
+#: inc/customizer/home-page/common-settings.php:31
+msgid "Enable"
+msgstr ""
+
+#: inc/customizer/header-settings.php:159
+msgid "Enable Button"
+msgstr ""
+
+#: inc/customizer/customizer.php:38 inc/customizer/customizer.php:52
+msgid "Enable Front Page"
+msgstr ""
+
+#: patterns/team/team-one.php:187 patterns/team/team-three.php:73
+msgid "Engineer"
+msgstr ""
+
+#: patterns/services/fservice-section-two.php:124
+msgid "English Language Class"
+msgstr ""
+
+#: inc/customizer/home-page/cta.php:91
+msgid "Enter Button One Link"
+msgstr ""
+
+#: inc/customizer/home-page/cta.php:78
+msgid "Enter Button One Text"
+msgstr ""
+
+#: inc/customizer/home-page/cta.php:116
+msgid "Enter Button Two Link"
+msgstr ""
+
+#: inc/customizer/home-page/cta.php:104
+msgid "Enter Button Two Text"
+msgstr ""
+
+#: inc/customizer/customizer.php:354
+msgid "Enter Posts Excerpt Length"
+msgstr ""
+
+#: inc/customizer/customizer.php:330
+msgid "Enter Read More Button Text"
+msgstr ""
+
+#: inc/customizer/home-page/our-service.php:113
+msgid "Enter Services Button Text"
+msgstr ""
+
+#: welcome/welcome.php:185
+msgid "Error! Reload the page and try again."
+msgstr ""
+
+#: inc/custom-controller/repeater/class-repeater.php:222
+msgid "Essential Icon"
+msgstr ""
+
+#: patterns/team/team-one.php:18 patterns/team/team-three.php:18
+msgid "Expert Team In the Field"
+msgstr ""
+
+#: patterns/abouts/about-section-five.php:52
+#: patterns/abouts/about-section-one.php:47
+msgid "Expertly crafted policies"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:86
+msgid ""
+"Fan of Pagebuilder? No problem, with premium version you can create your "
+"website with Elementor. Elementor provides you with unlimited possibilities "
+"to create the website of your imagination."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:195
+msgid "Fast and Friendly Support"
+msgstr ""
+
+#: inc/customizer/home-page/featured-service.php:78
+msgid "Feature Items"
+msgstr ""
+
+#: section/section-producttype.php:65
+#: inc/customizer/home-page/product-type-settings.php:83
+msgid "Feature Product"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:29
+msgid "Features"
+msgstr ""
+
+#: inc/customizer/home-page/featured-service.php:6
+msgid "Features Service Section"
+msgstr ""
+
+#: inc/customizer/home-page/slider.php:113
+msgid "First Button Text"
+msgstr ""
+
+#: inc/customizer/home-page/slider.php:119
+msgid "First Button URL"
+msgstr ""
+
+#: welcome/sections/getting_started.php:13
+msgid "Firstly install and activate \"Elementor Website Builder\" plugin from"
+msgstr ""
+
+#: patterns/services/fservice-section-four.php:48
+msgid ""
+"Fitness Park is a clean, beautiful, and fully customizable responsive modern "
+"free WordPress business theme, especially for App-related"
+msgstr ""
+
+#: patterns/services/fservice-section-four.php:220
+msgid ""
+"Fitness Park is a clean, beautiful, and fully customizable responsive modern "
+"free WordPress business theme, especially for App-related."
+msgstr ""
+
+#: patterns/abouts/about-section-four.php:19
+msgid "FitnessPark That Creates Signs of Wealth For Everyone."
+msgstr ""
+
+#: inc/customizer/home-page/highlight-service.php:138
+msgid "Five different title styles"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:249
+msgid "Fixed"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:158
+msgid ""
+"Follows best SEO practices so that your website always rank higher in Search "
+"Engines."
+msgstr ""
+
+#: inc/custom-controller/repeater/class-repeater.php:219
+msgid "Font Awesome"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font family name"
+msgid "Arizonia"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font family name"
+msgid "Exo"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font family name"
+msgid "Lato"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font family name"
+msgid "Open Sans"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font family name"
+msgid "Oswold"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font family name"
+msgid "Poppins"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font family name"
+msgid "Roboto Condensed"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font family name"
+msgid "System Font"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font size name"
+msgid "Huge"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font size name"
+msgid "XLarge"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font size name"
+msgid "XMedium"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font size name"
+msgid "XSmall"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font size name"
+msgid "XXLarge"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font size name"
+msgid "XXXLarge"
+msgstr ""
+
+#: inc/customizer/footer.php:6
+msgid "Footer Setting"
+msgstr ""
+
+#: functions.php:180
+msgid "Footer Widget Area"
+msgstr ""
+
+#: inc/customizer/footer.php:15
+msgid "Footer Widgets"
+msgstr ""
+
+#: inc/custom-controller/gradient/class-gradient.php:49
+msgid ""
+"For a gradient, at least one starting and one end color should be defined."
+msgstr ""
+
+#: welcome/sections/getting_started.php:19
+#, php-format
+msgid "For more detail visit our theme %s."
+msgstr ""
+
+#: inc/customizer/home-page/slider.php:158
+#: inc/customizer/home-page/our-service.php:133
+#: inc/customizer/home-page/featured-service.php:114
+#: inc/customizer/home-page/product-hotoffer.php:179
+#: inc/customizer/home-page/product-type-settings.php:183
+#: inc/customizer/home-page/how-it-works.php:116
+#: inc/customizer/home-page/cta.php:127
+#: inc/customizer/home-page/highlight-service.php:136
+#: inc/customizer/home-page/product-category-settings.php:170
+#: inc/customizer/home-page/about-us.php:109
+msgid "For more settings,"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:196
+msgid "For Premium theme, the user will get a reply in 10 hours or less."
+msgstr ""
+
+#: patterns/testimonial/testimonial-three.php:45
+#: patterns/testimonial/testimonial-three.php:245
+#: patterns/testimonial/testimonial-two.php:43
+#: patterns/testimonial/testimonial-two.php:183
+msgid "Founder"
+msgstr ""
+
+#: inc/customizer/home-page/portfolio.php:120
+msgid "Four Column"
+msgstr ""
+
+#: inc/customizer/home-page/featured-service.php:117
+msgid "Four different layouts to choose from"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:30
+msgid "Free"
+msgstr ""
+
+#: welcome/sections/header.php:18
+msgid "Free Demos"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:13
+msgid "FREE UPDATES FOR LIFETIME"
+msgstr ""
+
+#: welcome/welcome.php:27
+msgid "Free Vs Pro"
+msgstr ""
+
+#: welcome/sections/getting_started.php:6
+msgid "FROM CUSTOMIZER"
+msgstr ""
+
+#: welcome/sections/getting_started.php:11
+msgid "FROM ELEMENTOR"
+msgstr ""
+
+#. Name of the template
+#: full-width.php:2 inc/customizer/customizer.php:149
+#: inc/customizer/customizer.php:175 inc/customizer/customizer.php:192
+#: inc/customizer/customizer.php:209 inc/customizer/customizer.php:226
+#: inc/customizer/customizer.php:291
+msgid "Full Width"
+msgstr ""
+
+#: patterns/how-it-works/how-it-work-one.php:13
+msgid "Fully Customization Theme"
+msgstr ""
+
+#: patterns/services/fservice-section-four.php:182
+#: patterns/services/fservice-section-one.php:182
+#: patterns/services/fservice-section-five.php:158
+msgid "Future Enhancement"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:65
+msgid "GDPR Compliance & Cookies Consent"
+msgstr ""
+
+#: inc/customizer/customizer.php:87
+msgid "General Settings"
+msgstr ""
+
+#: patterns/services/fservice-section-two.php:240
+msgid "Get life insurance Class"
+msgstr ""
+
+#: welcome/welcome.php:120
+msgid "Get Started"
+msgstr ""
+
+#: welcome/welcome.php:24
+msgid "Getting Started"
+msgstr ""
+
+#: welcome/sections/getting_started.php:8
+msgid "Go to Appearance &gt; Customize &gt; Enable Front Page"
+msgstr ""
+
+#: welcome/welcome.php:183 welcome/welcome.php:281
+msgid "Go to Demo Importer Page"
+msgstr ""
+
+#: welcome/sections/getting_started.php:9
+msgid "Go to Home Sections &gt; Customize"
+msgstr ""
+
+#: welcome/welcome.php:122
+msgid "Go to Setting Page"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Gradient name"
+msgid "Diagonal Primary to Triadic"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Gradient name"
+msgid "Diagonal Secondary to tertiary Left"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Gradient name"
+msgid "Vertical Primary to Foreground"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Gradient name"
+msgid "Vertical Secondary to Primary"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Gradient name"
+msgid "Vertical Secondary to Success"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Gradient name"
+msgid "Vertical Tertiary to Primary"
+msgstr ""
+
+#: inc/custom-controller/gradient/class-gradient.php:51
+msgid "Gradient Preview"
+msgstr ""
+
+#: inc/customizer/home-page/product-hotoffer.php:104
+#: inc/customizer/home-page/product-type-settings.php:120
+#: inc/customizer/home-page/product-category-settings.php:129
+msgid "Grid"
+msgstr ""
+
+#: patterns/abouts/about-section-five.php:42
+#: patterns/abouts/about-section-one.php:33
+msgid "Growing your business"
+msgstr ""
+
+#: welcome/sections/footer.php:105
+msgid "Gym Training"
+msgstr ""
+
+#: patterns/client/client-one.php:18
+msgid "Happy To Have These Amazing Clients"
+msgstr ""
+
+#: patterns/testimonial/testimonial-three.php:41
+#: patterns/testimonial/testimonial-three.php:241
+#: patterns/testimonial/testimonial-two.php:39
+#: patterns/testimonial/testimonial-two.php:179
+msgid "Harry Brook"
+msgstr ""
+
+#: patterns/how-it-works/how-it-work-one.php:113
+msgid ""
+"Have a question? Our professional support is ready to answer your questions. "
+"All our team member support requests will be replied in 24 hours or less."
+msgstr ""
+
+#: patterns/team/team-two.php:162
+msgid ""
+"Have a question? Our professional support team is ready to answer your "
+"questions. All our team member quickly support requests will be replied in "
+"24 hours or less."
+msgstr ""
+
+#: patterns/services/fservice-section-four.php:186
+msgid ""
+"Have a question? Our professional support team is ready to answer your "
+"questions. All our team member support requests will be replied"
+msgstr ""
+
+#: patterns/how-it-works/how-it-work-two.php:74 patterns/team/team-one.php:82
+#: patterns/team/team-one.php:192 patterns/team/team-two.php:46
+#: patterns/services/fservice-section-four.php:82
+#: patterns/services/fservice-section-five.php:162
+msgid ""
+"Have a question? Our professional support team is ready to answer your "
+"questions. All our team member support requests will be replied."
+msgstr ""
+
+#: patterns/services/fservice-section-one.php:82
+#: patterns/services/fservice-section-one.php:186
+#: patterns/services/fservice-section-five.php:70
+msgid ""
+"Have a question? Our professional support team is ready to answer your "
+"questions. All our team member support requests."
+msgstr ""
+
+#: patterns/services/fservice-section-two.php:91
+#: patterns/services/fservice-section-two.php:207
+msgid ""
+"Have a question? Our professional support team is ready to answer your "
+"questions. All our team members support in 24 hours or less."
+msgstr ""
+
+#: inc/customizer/header-settings.php:18
+msgid "Header Setting"
+msgstr ""
+
+#: patterns/services/fservice-section-four.php:78
+#: patterns/services/fservice-section-one.php:78
+#: patterns/services/fservice-section-five.php:66
+msgid "Health Insurance"
+msgstr ""
+
+#: inc/customizer/home-page/slider.php:330
+msgid "Height (px)"
+msgstr ""
+
+#: welcome/sections/getting_started.php:30
+msgid "here"
+msgstr ""
+
+#: welcome/welcome.php:121
+#, php-format
+msgid ""
+"Here you will find all the necessary links and information on how to use %s."
+msgstr ""
+
+#: inc/customizer/home-page/product-hotoffer.php:60
+#: inc/customizer/home-page/product-type-settings.php:62
+#: inc/customizer/home-page/product-category-settings.php:62
+msgid "Hidden"
+msgstr ""
+
+#: inc/meta-boxes/post-meta.php:26
+msgid "Hide Breadcrumb"
+msgstr ""
+
+#: inc/customizer/home-page/highlight-service.php:67
+msgid "Highlight Image"
+msgstr ""
+
+#: inc/customizer/home-page/highlight-service.php:6
+msgid "Highlight Service Section"
+msgstr ""
+
+#: inc/customizer/home-page/highlight-service.php:89
+msgid "Highlights"
+msgstr ""
+
+#: inc/breadcrumbs.php:266
+msgid "Home"
+msgstr ""
+
+#: inc/customizer/home-page/init.php:6
+msgid "Home Sections"
+msgstr ""
+
+#: inc/customizer/home-page/slider.php:6
+msgid "Home Slider Settings"
+msgstr ""
+
+#: inc/custom-controller/gradient/class-gradient.php:64
+msgid "Horizontal Spread (Left To Right)"
+msgstr ""
+
+#: inc/customizer/home-page/product-hotoffer.php:6
+msgid "Hot Offer Products"
+msgstr ""
+
+#: inc/breadcrumbs.php:772
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: section/section-producthotoffer.php:104
+msgid "Hours"
+msgstr ""
+
+#: inc/custom-controller/color-tab/color-tab.php:130
+msgid "Hover"
+msgstr ""
+
+#: inc/customizer/home-page/how-it-works.php:86
+msgid "How it Works Items"
+msgstr ""
+
+#: inc/customizer/home-page/how-it-works.php:6
+msgid "How it Works Section"
+msgstr ""
+
+#. URI of the theme
+msgid "http://sparklewpthemes.com/wordpress-themes/appzend/"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://sparklewpthemes.com/"
+msgstr ""
+
+#: inc/custom-controller/repeater/class-repeater.php:216
+msgid "Ico Font"
+msgstr ""
+
+#: inc/customizer/home-page/common-settings.php:189
+#: inc/customizer/home-page/common-settings.php:193
+msgid "Icon Color"
+msgstr ""
+
+#: inc/customizer/home-page/our-service.php:123
+msgid "Icon/Hover Bg Color"
+msgstr ""
+
+#: inc/customizer/home-page/how-it-works.php:66
+msgid "Image"
+msgstr ""
+
+#: welcome/welcome.php:113
+msgid "Import Demo"
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:98
+#, php-format
+msgid "in %1$s"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:72
+msgid "Included Maintenance Mode"
+msgstr ""
+
+#: inc/customizer/customizer.php:169
+msgid "Index Blog Posts Sidebar"
+msgstr ""
+
+#: patterns/portfolio/portfolio-three.php:49
+#: patterns/portfolio/portfolio-three.php:89
+#: patterns/portfolio/portfolio-three.php:161
+msgid "Industries"
+msgstr ""
+
+#: welcome/welcome.php:286
+msgid "Install Demo Importer Plugin"
+msgstr ""
+
+#: welcome/sections/recommended_plugins.php:35
+msgid "Install Now"
+msgstr ""
+
+#: welcome/sections/recommended_plugins.php:31
+msgid "Installed"
+msgstr ""
+
+#: welcome/welcome.php:181
+msgid "Installing Demo Importer Plugin"
+msgstr ""
+
+#: patterns/how-it-works/how-it-work-two.php:70
+msgid "Insured & Bounded"
+msgstr ""
+
+#: 404.php:26
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/customizer/home-page/slider.php:99
+#: inc/customizer/home-page/our-service.php:79
+#: inc/customizer/home-page/featured-service.php:81
+#: inc/customizer/home-page/portfolio.php:77
+#: inc/customizer/home-page/highlight-service.php:92
+msgid "Item #"
+msgstr ""
+
+#: inc/customizer/home-page/how-it-works.php:89
+msgid "Item#"
+msgstr ""
+
+#: patterns/team/team-one.php:219 patterns/team/team-three.php:101
+#: patterns/team/team-two.php:115
+msgid "Jason Thomson"
+msgstr ""
+
+#: welcome/sections/footer.php:40
+msgid "Jimro Agency"
+msgstr ""
+
+#: patterns/abouts/about-section-five.php:85
+msgid "Jon Meacham"
+msgstr ""
+
+#: patterns/testimonial/testimonial-three.php:91
+#: patterns/testimonial/testimonial-three.php:291
+#: patterns/testimonial/testimonial-two.php:67
+#: patterns/testimonial/testimonial-two.php:123
+msgid "Jone Wheel"
+msgstr ""
+
+#: patterns/testimonial/testimonial-three.php:141
+#: patterns/testimonial/testimonial-three.php:191
+#: patterns/testimonial/testimonial-two.php:95
+#: patterns/testimonial/testimonial-two.php:151
+msgid "Joy Richard"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:14
+msgid "Keep up to date"
+msgstr ""
+
+#: inc/custom-controller/repeater/class-repeater.php:134
+#: inc/custom-controller/repeater/class-repeater.php:247
+msgid "Latest Posts"
+msgstr ""
+
+#: section/section-producttype.php:63
+#: inc/customizer/home-page/product-type-settings.php:81
+msgid "Latest Product"
+msgstr ""
+
+#: inc/customizer/home-page/product-type-settings.php:103
+#: inc/customizer/home-page/highlight-service.php:121
+#: inc/customizer/home-page/product-category-settings.php:104
+msgid "Layout"
+msgstr ""
+
+#: inc/customizer/home-page/highlight-service.php:125
+msgid "Layout One"
+msgstr ""
+
+#: inc/customizer/home-page/highlight-service.php:126
+msgid "Layout Two"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:71
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/themes-functions.php:318 inc/customizer/home-page/slider.php:126
+#: inc/customizer/home-page/slider.php:136
+msgid "Left"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:240
+msgid "Left Bottom"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:239
+msgid "Left Center"
+msgstr ""
+
+#: functions.php:170
+msgid "Left Sidebar Widget Area"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:238
+msgid "Left Top"
+msgstr ""
+
+#: patterns/team/team-two.php:124
+msgid ""
+"Leverage agile and our frameworks provide all types of robust synopsis for "
+"overviews, Corporate strategy fosters thinking to further the overall value "
+"proposition."
+msgstr ""
+
+#: patterns/team/team-two.php:84
+msgid ""
+"Leverage agile and our frameworks provide all types of robust synopsis for "
+"overviews, Corporate strategy fosters thinking to further the value."
+msgstr ""
+
+#: patterns/abouts/about-section-three.php:51
+msgid "Leverage agile framework"
+msgstr ""
+
+#: patterns/testimonial/testimonial-three.php:100
+#: patterns/testimonial/testimonial-three.php:300
+#: patterns/testimonial/testimonial-two.php:57
+#: patterns/testimonial/testimonial-two.php:113
+msgid ""
+"Leverage for agile frameworks to provide robust synopsis support for high "
+"overview Iterative approaches to corporate strategy foster collaborative "
+"thinking to further the overall level value proposition."
+msgstr ""
+
+#: patterns/how-it-works/how-it-work-one.php:75
+msgid ""
+"Leverage framework agile to provide a robust synopsis for overviews. "
+"Corporate strategy fosters thinking to further the overall value proposition."
+msgstr ""
+
+#: patterns/team/team-one.php:118 patterns/team/team-one.php:228
+#: patterns/services/fservice-section-five.php:100
+#: patterns/services/fservice-section-five.php:132
+msgid ""
+"Leverage frameworks agile to provide a robust synopsis for overviews. "
+"Corporate strategy fosters thinking to further the overall value proposition."
+msgstr ""
+
+#: patterns/how-it-works/how-it-work-two.php:106
+#: patterns/services/fservice-section-four.php:116
+#: patterns/services/fservice-section-four.php:152
+msgid ""
+"Leverage frameworks agile to provide a robust synopsis for overviews. "
+"Corporate strategy fosters thinking to further the value proposition."
+msgstr ""
+
+#: patterns/services/fservice-section-one.php:116
+#: patterns/services/fservice-section-one.php:152
+msgid ""
+"Leverage frameworks agile to provide a robust synopsis for overviews. "
+"Corporate strategy fosters thinking to further."
+msgstr ""
+
+#: patterns/abouts/about-section-five.php:24
+#: patterns/abouts/about-section-three.php:17
+msgid "Life Insurance That Creates Signs of Wealth For Everyone"
+msgstr ""
+
+#: inc/custom-controller/cssbox/class-control-cssbox.php:103
+msgid "Link"
+msgstr ""
+
+#: functions.php:216
+msgctxt "Livvic: on or off"
+msgid "on"
+msgstr ""
+
+#: header.php:55
+msgid "Main Menu"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:165
+msgid "Major Browser Compatible"
+msgstr ""
+
+#: patterns/team/team-one.php:113 patterns/team/team-three.php:203
+#: patterns/testimonial/testimonial-three.php:95
+#: patterns/testimonial/testimonial-three.php:295
+#: patterns/testimonial/testimonial-two.php:71
+#: patterns/testimonial/testimonial-two.php:127
+msgid "Manager"
+msgstr ""
+
+#: welcome/sections/getting_started.php:3
+msgid "Manual Setup"
+msgstr ""
+
+#: inc/customizer/home-page/slider.php:259
+#: inc/customizer/home-page/common-settings.php:207
+msgid "Margin & Padding"
+msgstr ""
+
+#: inc/customizer/home-page/slider.php:274
+#: inc/customizer/home-page/common-settings.php:222
+msgid "Margin (px)"
+msgstr ""
+
+#: patterns/testimonial/testimonial-three.php:145
+#: patterns/testimonial/testimonial-three.php:195
+msgid "Marketing"
+msgstr ""
+
+#: inc/custom-controller/repeater/class-repeater.php:225
+msgid "Material Icon"
+msgstr ""
+
+#: patterns/team/team-two.php:18
+msgid "Meet Our Expert Team Member"
+msgstr ""
+
+#: inc/mobile-menu/init.php:52
+msgid "Menu"
+msgstr ""
+
+#: inc/customizer/header-settings.php:250
+msgid "Menu Background Color"
+msgstr ""
+
+#: inc/customizer/header-settings.php:264
+msgid "Menu Text Color"
+msgstr ""
+
+#: patterns/team/team-one.php:183 patterns/team/team-three.php:69
+msgid "Mesiva Sccot"
+msgstr ""
+
+#: patterns/team/team-one.php:147 patterns/team/team-three.php:37
+#: patterns/team/team-two.php:153
+msgid "Michael Jonathan"
+msgstr ""
+
+#: section/section-producthotoffer.php:105
+msgid "Mins"
+msgstr ""
+
+#. Minute archive title. %s is the minute time format.
+#: inc/breadcrumbs.php:276
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:738
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: inc/breadcrumbs.php:755
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: inc/mobile-menu/mobile-menu.php:24
+msgid "Mobile"
+msgstr ""
+
+#: inc/breadcrumbs.php:789 inc/breadcrumbs.php:845 inc/breadcrumbs.php:1215
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: functions.php:212
+msgctxt "Montserrat: on or off"
+msgid "on"
+msgstr ""
+
+#: patterns/abouts/about-section-three.php:13
+msgid "More About Fitness Park Pro Theme"
+msgstr ""
+
+#: patterns/abouts/about-section-five.php:66
+#: patterns/abouts/about-section-one.php:66
+#: patterns/abouts/about-section-three.php:65
+#: patterns/abouts/about-section-four.php:29
+msgid "More About Us"
+msgstr ""
+
+#: inc/customizer/header-settings.php:230
+msgid "Multiple classes added by space"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:43
+msgid "Multiple Header Layouts and Settings"
+msgstr ""
+
+#: section/section-producttype.php:10
+msgid "New"
+msgstr ""
+
+#: inc/woocommerce.php:520
+msgid "New!"
+msgstr ""
+
+#: index.php:42 archive.php:39 search.php:37 archive-download.php:39
+#: template-blog.php:56
+msgid "Next"
+msgstr ""
+
+#: single.php:54
+msgid "Next Post"
+msgstr ""
+
+#: inc/customizer/sanitize.php:31 inc/customizer/customizer.php:58
+#: inc/customizer/header-settings.php:103
+#: inc/customizer/header-settings.php:122
+#: inc/customizer/header-settings.php:163
+#: inc/customizer/home-page/slider.php:30
+#: inc/customizer/home-page/common-settings.php:35
+msgid "No"
+msgstr ""
+
+#: functions.php:571 functions.php:765
+msgid "No Border"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:198
+#: inc/custom-controller/repeater/class-repeater.php:118
+msgid "No image selected"
+msgstr ""
+
+#: inc/customizer/home-page/product-hotoffer.php:158
+#: inc/customizer/home-page/product-type-settings.php:139
+#: inc/customizer/home-page/product-category-settings.php:148
+msgid "No of Columns"
+msgstr ""
+
+#: inc/customizer/home-page/product-hotoffer.php:135
+#: inc/customizer/home-page/product-type-settings.php:161
+msgid "No of Products"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:4
+msgid "No renewal needed"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:227
+msgid "No Repeat"
+msgstr ""
+
+#: inc/customizer/customizer.php:297
+msgid "None"
+msgstr ""
+
+#: inc/custom-controller/color-tab/color-tab.php:129
+msgid "Normal"
+msgstr ""
+
+#: inc/customizer/customizer.php:55
+msgid ""
+"Note :- Front Page only Works after selecting \"Your latest posts\" Options "
+"& Enabling the check box"
+msgstr ""
+
+#: inc/customizer/customizer.php:287
+msgid ""
+"Note: Blog Template Layout Only Work When you can select page template ( "
+"Blog Template )"
+msgstr ""
+
+#: inc/customizer/customizer.php:271
+msgid ""
+"Note: Selected Category Only Work When you can select page template (\n"
+"\t\t\t    \tBlog Template )"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: welcome/sections/getting_started.php:15
+msgid ""
+"Now go to Appearance &gt; Customize &gt; Homepage Settings and choose \"A "
+"static page\" for \"Your latest posts\" and select the created page for "
+"\"Home Page\" option."
+msgstr ""
+
+#: inc/meta-fields.php:100
+msgid "Off"
+msgstr ""
+
+#: inc/customizer/home-page/product-hotoffer.php:123
+msgid "Offer Text"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:120
+msgid "Offers/Deals Section"
+msgstr ""
+
+#: patterns/portfolio/portfolio-three.php:67
+#: patterns/portfolio/portfolio-three.php:107
+#: patterns/portfolio/portfolio-three.php:179
+msgid "Office"
+msgstr ""
+
+#: patterns/contact/contact-section-three.php:17
+#: patterns/contact/contact-section-one.php:36
+#: patterns/contact/contact-section-two.php:35
+msgid "Office Location"
+msgstr ""
+
+#: inc/meta-fields.php:99
+msgid "On"
+msgstr ""
+
+#: section/section-producttype.php:66
+#: inc/customizer/home-page/product-type-settings.php:84
+msgid "On Sale Product"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:35
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/customizer/home-page/portfolio.php:117
+msgid "One Column"
+msgstr ""
+
+#. 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:3
+msgid "ONE TIME PAYMENT"
+msgstr ""
+
+#: 404.php:22
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: inc/customizer/header-settings.php:212
+msgid "Open link in a new tab"
+msgstr ""
+
+#: patterns/contact/contact-section-three.php:49
+msgid "or Support"
+msgstr ""
+
+#: welcome/sections/getting_started.php:29
+msgid "Or you can get started by importing the demo with just one click."
+msgstr ""
+
+#: patterns/portfolio/portfolio-three.php:13
+msgid "Our Awesome Portfolio"
+msgstr ""
+
+#: patterns/testimonial/testimonial-three.php:14
+msgid "Our Client Review"
+msgstr ""
+
+#: patterns/client/client-one.php:13
+msgid "Our Clients"
+msgstr ""
+
+#: patterns/counter/counter-three.php:13
+msgid "Our Experience"
+msgstr ""
+
+#: patterns/blog/blog-section-two.php:13 patterns/blog/blog-section-one.php:13
+msgid "Our Latest Posts"
+msgstr ""
+
+#: patterns/portfolio/portfolio-three.php:18
+#: patterns/portfolio/portfolio-two.php:18
+msgid "Our Latest Project Gallery"
+msgstr ""
+
+#: patterns/portfolio/portfolio-two.php:13
+msgid "Our Portfolio"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:73
+msgid ""
+"Our premium themes allow you to create ‘under construction‘ and ‘coming "
+"soon‘ page in the simplest way and easily customize the design as per your "
+"need."
+msgstr ""
+
+#: inc/customizer/home-page/our-service.php:6
+msgid "Our Service Section"
+msgstr ""
+
+#: inc/customizer/home-page/our-service.php:76
+msgid "Our Services"
+msgstr ""
+
+#: patterns/team/team-one.php:13 patterns/team/team-three.php:13
+#: patterns/team/team-two.php:14
+msgid "Our Team"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:136
+msgid "Our Team Member Area"
+msgstr ""
+
+#: patterns/how-it-works/how-it-work-two.php:13
+msgid "Our Work Process"
+msgstr ""
+
+#: inc/meta-boxes/post-meta.php:32
+msgid "Overwrite Default Style"
+msgstr ""
+
+#: inc/customizer/home-page/slider.php:296
+#: inc/customizer/home-page/common-settings.php:244
+msgid "Padding (px)"
+msgstr ""
+
+#. %s is the page number.
+#: inc/breadcrumbs.php:272
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/customizer/customizer.php:203
+msgid "Page Sidebar"
+msgstr ""
+
+#: full-width.php:18 template-parts/content-page.php:29
+msgid "Pages:"
+msgstr ""
+
+#: patterns/abouts/about-section-five.php:2
+msgctxt "Pattern title"
+msgid "About Section Five"
+msgstr ""
+
+#: patterns/abouts/about-section-four.php:2
+msgctxt "Pattern title"
+msgid "About Section Four"
+msgstr ""
+
+#: patterns/abouts/about-section-one.php:2
+msgctxt "Pattern title"
+msgid "About Section One"
+msgstr ""
+
+#: patterns/abouts/about-section-three.php:2
+msgctxt "Pattern title"
+msgid "About Section Three"
+msgstr ""
+
+#: patterns/abouts/about.php:2
+msgctxt "Pattern title"
+msgid "About Us"
+msgstr ""
+
+#: patterns/hero/hero.php:2
+msgctxt "Pattern title"
+msgid "Banner - Hero"
+msgstr ""
+
+#: patterns/blog/blog-section-one.php:2
+msgctxt "Pattern title"
+msgid "Blog Section One"
+msgstr ""
+
+#: patterns/blog/blog-section-two.php:2
+msgctxt "Pattern title"
+msgid "Blog Section Two"
+msgstr ""
+
+#: patterns/breadcrumb.php:2
+msgctxt "Pattern title"
+msgid "Breadcrumb"
+msgstr ""
+
+#: patterns/call-to-action.php:2
+msgctxt "Pattern title"
+msgid "Call to Action"
+msgstr ""
+
+#: patterns/client/client-one.php:2
+msgctxt "Pattern title"
+msgid "Client Section One"
+msgstr ""
+
+#: patterns/contact.php:2
+msgctxt "Pattern title"
+msgid "Contact"
+msgstr ""
+
+#: patterns/contact/contact-section-one.php:2
+msgctxt "Pattern title"
+msgid "Contact Area One"
+msgstr ""
+
+#: patterns/contact/contact-section-three.php:2
+msgctxt "Pattern title"
+msgid "Contact Area Three"
+msgstr ""
+
+#: patterns/contact/contact-section-two.php:2
+msgctxt "Pattern title"
+msgid "Contact Area Two"
+msgstr ""
+
+#: patterns/counter/counter-three.php:2
+msgctxt "Pattern title"
+msgid "Counter Three"
+msgstr ""
+
+#: patterns/faq.php:2
+msgctxt "Pattern title"
+msgid "FAQ"
+msgstr ""
+
+#: patterns/features.php:2
+msgctxt "Pattern title"
+msgid "Features"
+msgstr ""
+
+#: patterns/services/fservice-section-five.php:2
+msgctxt "Pattern title"
+msgid "Features Service Five"
+msgstr ""
+
+#: patterns/services/fservice-section-four.php:2
+msgctxt "Pattern title"
+msgid "Features Service Four"
+msgstr ""
+
+#: patterns/services/fservice-section-one.php:2
+msgctxt "Pattern title"
+msgid "Features Service One"
+msgstr ""
+
+#: patterns/services/fservice-section-two.php:2
+msgctxt "Pattern title"
+msgid "Features Service Two"
+msgstr ""
+
+#: patterns/hero/slider-one.php:2
+msgctxt "Pattern title"
+msgid "Hero Slider"
+msgstr ""
+
+#: patterns/how-it-works/how-it-work-one.php:2
+msgctxt "Pattern title"
+msgid "How It Work Section One"
+msgstr ""
+
+#: patterns/how-it-works/how-it-work-two.php:2
+msgctxt "Pattern title"
+msgid "How It Work Section Two"
+msgstr ""
+
+#: patterns/portfolio/portfolio-three.php:2
+msgctxt "Pattern title"
+msgid "Portfolio (Gallery) Three"
+msgstr ""
+
+#: patterns/portfolio/portfolio-two.php:2
+msgctxt "Pattern title"
+msgid "Portfolio Layout Two"
+msgstr ""
+
+#: patterns/service.php:2
+msgctxt "Pattern title"
+msgid "Service"
+msgstr ""
+
+#: patterns/service-list.php:2
+msgctxt "Pattern title"
+msgid "Service List"
+msgstr ""
+
+#: patterns/team.php:2
+msgctxt "Pattern title"
+msgid "Team Member"
+msgstr ""
+
+#: patterns/team/team-one.php:2
+msgctxt "Pattern title"
+msgid "Team Section One"
+msgstr ""
+
+#: patterns/team/team-three.php:2
+msgctxt "Pattern title"
+msgid "Team Section three"
+msgstr ""
+
+#: patterns/team/team-two.php:2
+msgctxt "Pattern title"
+msgid "Team Section Two"
+msgstr ""
+
+#: patterns/testimonial/testimonial-one.php:2
+msgctxt "Pattern title"
+msgid "Testimonial Area One"
+msgstr ""
+
+#: patterns/testimonial/testimonial-three.php:2
+msgctxt "Pattern title"
+msgid "Testimonial Area three"
+msgstr ""
+
+#: patterns/testimonial/testimonial-two.php:2
+msgctxt "Pattern title"
+msgid "Testimonial Area Two"
+msgstr ""
+
+#: patterns/video-call-action/video-call-action-five.php:2
+msgctxt "Pattern title"
+msgid "Video CTA Five"
+msgstr ""
+
+#: patterns/video-call-action/video-call-action-four.php:2
+msgctxt "Pattern title"
+msgid "Video CTA Four"
+msgstr ""
+
+#: patterns/video-call-action/video-call-section-one.php:2
+msgctxt "Pattern title"
+msgid "Video CTA One"
+msgstr ""
+
+#: patterns/video-call-action/video-call-action-three.php:2
+msgctxt "Pattern title"
+msgid "Video CTA Three"
+msgstr ""
+
+#: inc/customizer/home-page/about-us.php:98
+msgid "Phone Number"
+msgstr ""
+
+#: welcome/sections/recommended_plugins.php:7
+msgid ""
+"Please install these free plugins. These plugins are complementary that adds "
+"more features to the theme."
+msgstr ""
+
+#: welcome/welcome.php:265
+#, php-format
+msgid ""
+"Please leave us a %s rating if you like our theme . A huge thank you from "
+"SparkleThemes in advance!"
+msgstr ""
+
+#: patterns/testimonial/testimonial-two.php:99
+#: patterns/testimonial/testimonial-two.php:155
+msgid "Plumber"
+msgstr ""
+
+#: inc/customizer/home-page/portfolio.php:74
+msgid "Portfolio Items"
+msgstr ""
+
+#: inc/customizer/home-page/portfolio.php:6
+msgid "Portfolio Section"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:213
+msgid "Position"
+msgstr ""
+
+#: inc/customizer/customizer.php:299
+msgid "Post Content"
+msgstr ""
+
+#: inc/customizer/customizer.php:316
+msgid "Post Description"
+msgstr ""
+
+#: inc/customizer/customizer.php:298
+msgid "Post Excerpt"
+msgstr ""
+
+#: welcome/sections/header.php:19
+msgid "Premium Demos"
+msgstr ""
+
+#: patterns/abouts/about-section-three.php:38
+msgid "Premium version for additional features & better support."
+msgstr ""
+
+#: index.php:41 archive.php:38 search.php:36 archive-download.php:38
+#: template-blog.php:55
+msgid "Prev"
+msgstr ""
+
+#: welcome/sections/footer.php:16 welcome/sections/footer.php:29
+#: welcome/sections/footer.php:42 welcome/sections/footer.php:55
+#: welcome/sections/footer.php:68 welcome/sections/footer.php:81
+#: welcome/sections/footer.php:94 welcome/sections/footer.php:107
+#: welcome/sections/footer.php:120 welcome/sections/footer.php:133
+#: welcome/sections/footer.php:146
+msgid "Preview"
+msgstr ""
+
+#: single.php:47
+msgid "Previous Post"
+msgstr ""
+
+#: functions.php:451 functions.php:666
+msgid "Primary Button"
+msgstr ""
+
+#: inc/customizer/customizer.php:74
+msgid "Primary Color"
+msgstr ""
+
+#: functions.php:78
+msgid "Primary Menu"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:31
+msgid "Pro"
+msgstr ""
+
+#: patterns/abouts/about-section-three.php:33
+msgid "Procedures where process"
+msgstr ""
+
+#: patterns/abouts/about-section-five.php:56
+#: patterns/abouts/about-section-one.php:51
+msgid "Procedures whereas processes"
+msgstr ""
+
+#: inc/customizer/home-page/product-category-settings.php:6
+msgid "Product Category"
+msgstr ""
+
+#: inc/customizer/home-page/product-type-settings.php:6
+msgid "Product Type (Tab)"
+msgstr ""
+
+#: section/section-productcat.php:48
+msgid "Products"
+msgstr ""
+
+#: patterns/contact/contact-section-three.php:61
+#: patterns/contact/contact-section-one.php:15
+#: patterns/contact/contact-section-two.php:14
+msgid "Quick Get In Touch"
+msgstr ""
+
+#: inc/woocommerce.php:472
+msgid "Quick view"
+msgstr ""
+
+#: welcome/sections/support.php:9
+msgid "Read Full Documentation"
+msgstr ""
+
+#: inc/customizer/customizer.php:325
+#: patterns/how-it-works/how-it-work-two.php:47
+#: patterns/how-it-works/how-it-work-two.php:79
+#: patterns/how-it-works/how-it-work-two.php:111
+#: patterns/how-it-works/how-it-work-one.php:42
+#: patterns/how-it-works/how-it-work-one.php:80
+#: patterns/how-it-works/how-it-work-one.php:118
+#: patterns/services/fservice-section-four.php:53
+#: patterns/services/fservice-section-four.php:87
+#: patterns/services/fservice-section-four.php:121
+#: patterns/services/fservice-section-four.php:157
+#: patterns/services/fservice-section-four.php:191
+#: patterns/services/fservice-section-four.php:225
+#: patterns/services/fservice-section-two.php:58
+#: patterns/services/fservice-section-two.php:96
+#: patterns/services/fservice-section-two.php:134
+#: patterns/services/fservice-section-two.php:174
+#: patterns/services/fservice-section-two.php:212
+#: patterns/services/fservice-section-two.php:250
+#: patterns/services/fservice-section-one.php:53
+#: patterns/services/fservice-section-one.php:87
+#: patterns/services/fservice-section-one.php:121
+#: patterns/services/fservice-section-one.php:157
+#: patterns/services/fservice-section-one.php:191
+#: patterns/services/fservice-section-one.php:225
+#: patterns/services/fservice-section-five.php:45
+#: patterns/services/fservice-section-five.php:75
+#: patterns/services/fservice-section-five.php:105
+#: patterns/services/fservice-section-five.php:137
+#: patterns/services/fservice-section-five.php:167
+#: patterns/services/fservice-section-five.php:197
+#: inc/customizer/home-page/our-service.php:108
+msgid "Read More"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:50 template-parts/content.php:71
+#: template-parts/content-download.php:50
+#: template-parts/content-download.php:71
+#, php-format
+msgid "Read More <span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#. Theme Name
+#: welcome/sections/support.php:7
+#, php-format
+msgid ""
+"Read our theme documentation. our documentation contains all the necessary "
+"information required to set up the %s theme with clean screenshout."
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: welcome/sections/getting_started.php:13
+msgid "Recommended Plugin page."
+msgstr ""
+
+#: welcome/welcome.php:25 welcome/sections/recommended_plugins.php:6
+msgid "Recommended Plugins"
+msgstr ""
+
+#: welcome/sections/footer.php:53
+msgid "Red Apple"
+msgstr ""
+
+#: inc/customizer/header-settings.php:99
+msgid "Relative"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:196
+#: inc/custom-controller/repeater/class-repeater.php:124
+msgid "Remove"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:92
+msgid "Remove Footer Credit Text"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:211
+msgid "Repeat"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:173
+msgid "Responsive - Mobile Friendly"
+msgstr ""
+
+#: inc/themes-functions.php:320 inc/customizer/home-page/slider.php:128
+#: inc/customizer/home-page/slider.php:135
+msgid "Right"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:243
+msgid "Right Bottom"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:242
+msgid "Right Center"
+msgstr ""
+
+#: functions.php:160
+msgid "Right Sidebar Widget Area"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:241
+msgid "Right Top"
+msgstr ""
+
+#: patterns/team/team-one.php:37 patterns/team/team-three.php:135
+#: patterns/team/team-two.php:37
+msgid "Roma De Suzat"
+msgstr ""
+
+#: inc/woocommerce.php:506
+msgid "Sale!"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:250
+msgid "Scroll"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:157
+msgid "Search Engine Optimization"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:57
+msgid "Search Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:220
+msgid "Search Page Sidebar"
+msgstr ""
+
+#: inc/themes-functions.php:190
+msgid "Search Results for:"
+msgstr ""
+
+#. %s is the search query.
+#: inc/breadcrumbs.php:270
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: functions.php:514 functions.php:713
+msgid "Secondary Button"
+msgstr ""
+
+#: section/section-producthotoffer.php:106
+msgid "Secs"
+msgstr ""
+
+#: inc/customizer/home-page/product-hotoffer.php:79
+#: inc/customizer/home-page/product-category-settings.php:81
+#: inc/custom-controller/repeater/class-repeater.php:133
+msgid "Select Category"
+msgstr ""
+
+#: inc/customizer/customizer.php:267
+msgid "Select Category To Show Posts"
+msgstr ""
+
+#: inc/meta-boxes/post-meta.php:44
+#: inc/custom-controller/alpha-color/class-alpha-color.php:110
+msgid "Select Color"
+msgstr ""
+
+#: inc/custom-controller/alpha-color/class-alpha-color.php:109
+msgid "Select default color"
+msgstr ""
+
+#: inc/customizer/home-page/featured-service.php:116
+msgid "Select from five different title styles"
+msgstr ""
+
+#: inc/customizer/home-page/our-service.php:135
+#: inc/customizer/home-page/about-us.php:112
+msgid "Select from four different layouts"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:194
+#: inc/custom-controller/background-control/background-control.php:199
+#: inc/custom-controller/repeater/class-repeater.php:125
+msgid "Select Image"
+msgstr ""
+
+#: inc/customizer/header-settings.php:81
+msgid "Select Menu"
+msgstr ""
+
+#: inc/customizer/customizer.php:98 inc/customizer/home-page/slider.php:106
+#: inc/customizer/home-page/our-service.php:85
+#: inc/customizer/home-page/featured-service.php:88
+#: inc/customizer/home-page/how-it-works.php:95
+#: inc/customizer/home-page/portfolio.php:83
+#: inc/customizer/home-page/highlight-service.php:98
+msgid "Select Page"
+msgstr ""
+
+#: inc/customizer/home-page/about-us.php:67
+msgid "Select Page "
+msgstr ""
+
+#: inc/customizer/home-page/product-type-settings.php:79
+msgid "Select Product Type"
+msgstr ""
+
+#: patterns/abouts/about-section-five.php:89 patterns/team/team-one.php:223
+#: patterns/team/team-three.php:105 patterns/team/team-two.php:119
+msgid "Senior Marketer"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:187
+msgid "SEO Friendly"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:188
+msgid ""
+"SEO refers to search engine optimization, or the process of optimizing a "
+"website so that people can easily find it via search engines like Google."
+msgstr ""
+
+#: inc/customizer/home-page/common-settings.php:174
+msgid "Service Box Color"
+msgstr ""
+
+#: patterns/services/fservice-section-four.php:13
+#: patterns/services/fservice-section-two.php:13
+#: patterns/services/fservice-section-one.php:13
+#: patterns/services/fservice-section-five.php:13
+msgid "Service We Provide"
+msgstr ""
+
+#: inc/customizer/home-page/featured-service.php:118
+msgid "Set column number"
+msgstr ""
+
+#: inc/customizer/home-page/highlight-service.php:141
+msgid "Set position of highlight image"
+msgstr ""
+
+#: inc/customizer/home-page/slider.php:160
+msgid "Set the type of silder animation"
+msgstr ""
+
+#: inc/customizer/header-settings.php:170
+msgid "Shop Now"
+msgstr ""
+
+#: inc/customizer/customizer.php:174 inc/customizer/customizer.php:191
+#: inc/customizer/customizer.php:208 inc/customizer/customizer.php:225
+#: inc/customizer/customizer.php:290
+msgid "Sidebar / Content"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:106
+msgid "Sidebar Layout Options"
+msgstr ""
+
+#: inc/meta-boxes/post-meta.php:15
+msgid "Sidebar Setting"
+msgstr ""
+
+#: inc/customizer/customizer.php:145
+msgid "Site Layout"
+msgstr ""
+
+#: inc/customizer/customizer.php:18
+msgid "Site Title Color"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:212
+msgid "Size"
+msgstr ""
+
+#: header.php:29
+msgid "Skip to content"
+msgstr ""
+
+#: inc/customizer/home-page/product-hotoffer.php:105
+#: inc/customizer/home-page/product-type-settings.php:121
+#: inc/customizer/home-page/product-category-settings.php:130
+msgid "Slider"
+msgstr ""
+
+#: inc/customizer/home-page/slider.php:311
+msgid "Slider Height"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:79
+msgid "Slider Type and Layout Options"
+msgstr ""
+
+#: patterns/portfolio/portfolio-three.php:71
+#: patterns/portfolio/portfolio-three.php:111
+#: patterns/portfolio/portfolio-three.php:183
+msgid "Somewhere on earth"
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: welcome/sections/footer.php:131
+msgid "Spa"
+msgstr ""
+
+#: welcome/sections/footer.php:118
+msgid "Spa Salon"
+msgstr ""
+
+#. Author of the theme
+#: inc/themes-functions.php:160
+msgid "Sparkle Themes"
+msgstr ""
+
+#: inc/customizer/header-settings.php:118
+msgid "Sticky"
+msgstr ""
+
+#: welcome/sections/support.php:14
+msgid ""
+"Still, having problems after reading all the documentation? No Problem!! "
+"Please create a support ticket. Our dedicated support team will help you to "
+"solve your problem."
+msgstr ""
+
+#: patterns/services/fservice-section-four.php:148
+#: patterns/services/fservice-section-one.php:148
+#: patterns/services/fservice-section-five.php:128
+msgid "Student Counseling"
+msgstr ""
+
+#: patterns/services/fservice-section-four.php:44
+#: patterns/services/fservice-section-one.php:44
+#: patterns/services/fservice-section-five.php:36
+msgid "Student Travel Insurance"
+msgstr ""
+
+#: inc/customizer/header-settings.php:58 inc/customizer/home-page/slider.php:61
+#: inc/customizer/home-page/our-service.php:39
+#: inc/customizer/home-page/featured-service.php:40
+#: inc/customizer/home-page/product-hotoffer.php:39
+#: inc/customizer/home-page/product-type-settings.php:39
+#: inc/customizer/home-page/how-it-works.php:38
+#: inc/customizer/home-page/cta.php:42
+#: inc/customizer/home-page/portfolio.php:38
+#: inc/customizer/home-page/highlight-service.php:39
+#: inc/customizer/home-page/product-category-settings.php:41
+#: inc/customizer/home-page/about-us.php:38
+msgid "Style"
+msgstr ""
+
+#: inc/customizer/home-page/product-category-settings.php:109
+msgid "Style Four"
+msgstr ""
+
+#: inc/customizer/home-page/product-type-settings.php:105
+#: inc/customizer/home-page/product-category-settings.php:106
+msgid "Style One"
+msgstr ""
+
+#: inc/customizer/home-page/product-type-settings.php:107
+#: inc/customizer/home-page/product-category-settings.php:108
+msgid "Style Three"
+msgstr ""
+
+#: inc/customizer/home-page/product-type-settings.php:106
+#: inc/customizer/home-page/product-category-settings.php:107
+msgid "Style Two"
+msgstr ""
+
+#: inc/customizer/home-page/common-settings.php:82
+msgid "Sub Title"
+msgstr ""
+
+#: patterns/how-it-works/how-it-work-two.php:102
+#: patterns/how-it-works/how-it-work-one.php:109
+msgid "Success Project"
+msgstr ""
+
+#: inc/customizer/home-page/common-settings.php:58
+msgid "Super Title"
+msgstr ""
+
+#: inc/customizer/home-page/common-settings.php:105
+msgid "Super Title Color"
+msgstr ""
+
+#: welcome/welcome.php:26
+msgid "Support"
+msgstr ""
+
+#: patterns/abouts/about-section-five.php:46
+#: patterns/abouts/about-section-one.php:37
+msgid "Support banking loan"
+msgstr ""
+
+#: inc/customizer/home-page/product-hotoffer.php:184
+#: inc/customizer/home-page/product-type-settings.php:188
+#: inc/customizer/home-page/how-it-works.php:121
+#: inc/customizer/home-page/cta.php:132
+#: inc/customizer/home-page/product-category-settings.php:175
+msgid "Switch between Color/Gradient/Image background"
+msgstr ""
+
+#: patterns/team/team-one.php:151 patterns/team/team-three.php:41
+#: patterns/team/team-two.php:157
+msgid "Team Leader"
+msgstr ""
+
+#: patterns/counter/counter-three.php:66
+msgid "Team Members"
+msgstr ""
+
+#: patterns/portfolio/portfolio-three.php:29
+#: patterns/portfolio/portfolio-three.php:123
+#: patterns/portfolio/portfolio-three.php:141
+#: patterns/portfolio/portfolio-three.php:195
+msgid "Team Work"
+msgstr ""
+
+#: patterns/testimonial/testimonial-one.php:14
+#: patterns/testimonial/testimonial-two.php:13
+msgid "Testimonials"
+msgstr ""
+
+#: inc/customizer/header-settings.php:306
+#: inc/customizer/header-settings.php:308
+#: inc/customizer/home-page/common-settings.php:191
+#: inc/customizer/home-page/common-settings.php:195
+msgid "Text Color"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:51
+msgid ""
+"The free version has a basic color option but the premium version has "
+"advanced color options that allow customizing the color theme primary colors."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:58
+msgid ""
+"The free version has a simple search option but the premium version has "
+"advanced search options ( with category, Ajax ) that allow to get better "
+"result."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:80
+msgid ""
+"The free version has a simple slider option but the premium version has "
+"advanced slider type and layout options that allow to get better website "
+"looks."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:93
+msgid ""
+"The premium version easily allows to remove or change the footer credit text."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:44
+msgid ""
+"The premium version gives the option to choose from 6 header layout. "
+"Additionally, it allows changing the header background color, text color, "
+"header height and more."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:137
+msgid ""
+"The premium version has custom team member with team detials like positions, "
+"social icon."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:129
+msgid ""
+"The premium Version has enhanced WooCommerce options like adding cart icon "
+"in the menu, product page settings, sidebar layout settings and more."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:100
+msgid ""
+"The premium version has the option to change the breadcrumb layout and "
+"options to change background image or background color and many more."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:107
+msgid ""
+"The premium version has the option to change the sidebar layout universally "
+"or change the sidebar for individual post/page. Moreover, it allows choosing "
+"the sidebar widgets for individual post/page."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:114
+msgid ""
+"The premium version has the option to change the website layout to be full "
+"width or boxed. Additionally, you can set the width of the website container."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:166
+msgid "The website shows good and runs smoothly in all major browsers."
+msgstr ""
+
+#: inc/customizer/customizer.php:62
+msgid "Theme Colors"
+msgstr ""
+
+#: inc/customizer/customizer.php:127
+msgid "Theme Options"
+msgstr ""
+
+#: inc/starter-content/about.php:7
+msgctxt "Theme starter content"
+msgid "About"
+msgstr ""
+
+#: inc/starter-content/blog.php:7
+msgctxt "Theme starter content"
+msgid "Blog"
+msgstr ""
+
+#: inc/starter-content/contact.php:7
+msgctxt "Theme starter content"
+msgid "Contact"
+msgstr ""
+
+#: inc/starter-content/home.php:16
+msgctxt "Theme starter content"
+msgid "Home"
+msgstr ""
+
+#: inc/starter-content/service.php:7
+msgctxt "Theme starter content"
+msgid "Service"
+msgstr ""
+
+#: inc/starter-content/team.php:7
+msgctxt "Theme starter content"
+msgid "Team"
+msgstr ""
+
+#: inc/customizer/home-page/portfolio.php:119
+msgid "Three Column"
+msgstr ""
+
+#: inc/customizer/home-page/highlight-service.php:142
+msgid "Three different layouts"
+msgstr ""
+
+#: inc/customizer/home-page/featured-service.php:120
+#: inc/customizer/home-page/about-us.php:113
+msgid "Three different types of background"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:228
+msgid "Tile"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:229
+msgid "Tile Horizontally"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:230
+msgid "Tile Vertically"
+msgstr ""
+
+#: inc/customizer/home-page/common-settings.php:70
+msgid "Title"
+msgstr ""
+
+#: inc/customizer/home-page/slider.php:190
+#: inc/customizer/home-page/common-settings.php:115
+#: inc/customizer/home-page/common-settings.php:190
+#: inc/customizer/home-page/common-settings.php:194
+msgid "Title Color"
+msgstr ""
+
+#: patterns/counter/counter-three.php:34
+msgid "Tons Of Customer"
+msgstr ""
+
+#: inc/meta-boxes/post-meta.php:56
+msgid "Top Bottom Margin"
+msgstr ""
+
+#: inc/meta-boxes/post-meta.php:62
+msgid "Top Bottom Padding"
+msgstr ""
+
+#: inc/starter-content/init.php:31
+msgid "Top Menu"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:150
+msgid "Translation Ready"
+msgstr ""
+
+#: patterns/services/fservice-section-four.php:216
+#: patterns/services/fservice-section-one.php:216
+#: patterns/services/fservice-section-five.php:188
+msgid "Travel Insurance"
+msgstr ""
+
+#: patterns/portfolio/portfolio-three.php:53
+#: patterns/portfolio/portfolio-three.php:93
+#: patterns/portfolio/portfolio-three.php:165
+msgid "Trust pays off"
+msgstr ""
+
+#: inc/customizer/home-page/portfolio.php:118
+msgid "Two Column"
+msgstr ""
+
+#: inc/custom-controller/font-awesome-icon/font-awesome-icon.php:52
+#: inc/custom-controller/repeater/class-repeater.php:228
+msgid "Type to filter"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:50
+msgid "Unlimited Color Options"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:8
+msgid "UNLIMITED DOMAIN LICENCE"
+msgstr ""
+
+#: welcome/sections/header.php:25
+msgid "Unlock all the possibilities with Appzend Pro"
+msgstr ""
+
+#: welcome/sections/header.php:26
+msgid "Upgrade for $59"
+msgstr ""
+
+#: welcome/sections/footer.php:160
+msgid "Upgrade Now"
+msgstr ""
+
+#: welcome/sections/footer.php:156
+msgid "Upgrade To Premium Version (14 Days Money Back Guarantee)"
+msgstr ""
+
+#: inc/custom-controller/customizer-pro/class-customize.php:77
+msgid "Upgrade To Pro"
+msgstr ""
+
+#: inc/customizer/custom-controller.php:916
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:21 welcome/sections/free_vs_pro.php:202
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:22 welcome/sections/free_vs_pro.php:203
+msgid "Upgrade to pro version for additional features and better supports."
+msgstr ""
+
+#: inc/customizer/customizer.php:246 inc/meta-boxes/post-meta.php:50
+#: inc/customizer/home-page/cta.php:65
+msgid "Upload Background Image"
+msgstr ""
+
+#: inc/customizer/home-page/portfolio.php:89
+msgid "Upload Project Logo"
+msgstr ""
+
+#: section/section-producttype.php:64
+#: inc/customizer/home-page/product-type-settings.php:82
+msgid "UpSell Product"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:9
+msgid "Use in as many websites as you need"
+msgstr ""
+
+#: inc/custom-controller/gradient/class-gradient.php:63
+msgid "Vertical Spread (Top to Bottom)"
+msgstr ""
+
+#: patterns/abouts/about-section-five.php:70
+#: patterns/abouts/about-section-four.php:37
+msgid "Video"
+msgstr ""
+
+#: inc/customizer/home-page/slider.php:163
+msgid "Video Banner Settings"
+msgstr ""
+
+#: functions.php:604
+msgid "Video Icon"
+msgstr ""
+
+#: inc/customizer/home-page/product-hotoffer.php:102
+#: inc/customizer/home-page/product-type-settings.php:118
+#: inc/customizer/home-page/product-category-settings.php:127
+msgid "View"
+msgstr ""
+
+#: inc/woocommerce.php:211
+msgid "View your shopping cart"
+msgstr ""
+
+#: patterns/testimonial/testimonial-three.php:50
+#: patterns/testimonial/testimonial-three.php:250
+msgid ""
+"We all have ourselves as one of the support pioneering agencies in the "
+"region. Our team members have worked with amazing brands Have a question? "
+"Our support team is ready to answer your questions."
+msgstr ""
+
+#: patterns/testimonial/testimonial-two.php:29
+#: patterns/testimonial/testimonial-two.php:169
+msgid ""
+"We all have ourselves as one of the support pioneering agencies in the "
+"region. Our team members have worked with amazing brands, Have a question? "
+"Our support team is ready to answer your questions."
+msgstr ""
+
+#: patterns/how-it-works/how-it-work-one.php:18
+msgid "We Are A Professional Best WordPress Theme Agency"
+msgstr ""
+
+#: patterns/hero/slider-one.php:16
+msgid "We Can Give You The Best Support"
+msgstr ""
+
+#: patterns/services/fservice-section-two.php:53
+#: patterns/services/fservice-section-two.php:245
+msgid ""
+"We have almost 35+ years of experience in providing consulting services "
+"solutions Many desktop publishing packages now."
+msgstr ""
+
+#: patterns/counter/counter-three.php:17
+msgid "We have over 25 years of experience in the industry"
+msgstr ""
+
+#: patterns/services/fservice-section-one.php:18
+msgid "We Provide all Kinds of Services in the Industry"
+msgstr ""
+
+#: patterns/team/team-one.php:77 patterns/team/team-three.php:171
+#: patterns/team/team-two.php:79
+msgid "Web Developer"
+msgstr ""
+
+#: inc/customizer/customizer.php:133
+msgid "Web Site Layout"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:113
+msgid "Website Layout (Fullwidth or Boxed)"
+msgstr ""
+
+#. Weekly archive title. %s is the week date format.
+#: inc/breadcrumbs.php:278
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:818
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: welcome/welcome.php:150
+msgid "Welcome"
+msgstr ""
+
+#. 1-theme name
+#: welcome/sections/header.php:13
+#, php-format
+msgid ""
+"Welcome and thank you for installing %1$s. Appzend is a clean, beautiful and "
+"fully customizable responsive modern free eCommerce/WooCommerce WordPress "
+"theme. And of course, the premium version for additional features and better "
+"supports."
+msgstr ""
+
+#: patterns/portfolio/portfolio-two.php:22
+msgid ""
+"Welcome and thank you for installing Business Roy is a clean, beautiful, and "
+"fully customizable responsive modern free WordPress business theme, "
+"especially for App-related landing pages."
+msgstr ""
+
+#: patterns/services/fservice-section-two.php:22
+#: patterns/services/fservice-section-one.php:22
+msgid ""
+"Welcome and thank you for installing Business Roy. Business Roy is a clean, "
+"beautiful, and fully customizable responsive modern free WordPress business "
+"theme, especially for App-related landing pages."
+msgstr ""
+
+#: patterns/client/client-one.php:22
+msgid ""
+"Welcome and thank you for installing Business Roy. Business Roy is a clean, "
+"beautiful, and fully customizable responsive modern free WordPress business "
+"theme, especially for App-related landing."
+msgstr ""
+
+#: patterns/testimonial/testimonial-three.php:23
+#: patterns/testimonial/testimonial-two.php:22
+msgid ""
+"Welcome and thank you for installing Business Roy. Business Roy is clean, "
+"beautiful, and fully customizable."
+msgstr ""
+
+#: patterns/abouts/about-section-three.php:56
+msgid "Welcome and thank you for installing Fitness Park Pro"
+msgstr ""
+
+#: patterns/services/fservice-section-four.php:22
+msgid ""
+"Welcome and thank you for installing Fitness Park. Fitness Park is a clean, "
+"beautiful, and fully customizable responsive modern free WordPress business "
+"theme, especially for App-related landing pages."
+msgstr ""
+
+#: patterns/how-it-works/how-it-work-two.php:22
+msgid ""
+"Welcome and thank you for installing theems. Construction is a clean, "
+"beautiful, and fully customizable responsive modern free WordPress business "
+"theme, especially for App-related landing pages."
+msgstr ""
+
+#: patterns/video-call-action/video-call-action-four.php:16
+#: patterns/video-call-action/video-call-action-three.php:16
+#: patterns/video-call-action/video-call-action-five.php:16
+#: patterns/video-call-action/video-call-section-one.php:16
+#: patterns/blog/blog-section-two.php:22 patterns/blog/blog-section-one.php:22
+#: patterns/team/team-three.php:22
+msgid ""
+"Welcome and thank you for installing themes. Business Roy is a clean, "
+"beautiful, and fully customizable responsive modern free WordPress business "
+"theme, especially for App-related landing pages."
+msgstr ""
+
+#: patterns/how-it-works/how-it-work-one.php:22 patterns/team/team-one.php:22
+msgid ""
+"Welcome and thank you for installing themes. Construction is a clean, "
+"beautiful, and fully customizable responsive modern free WordPress business "
+"theme, especially for App-related landing pages."
+msgstr ""
+
+#: patterns/abouts/about-section-one.php:23
+msgid ""
+"Welcome and thank you for installing, Fitness Park is a clean, beautiful, "
+"and fully customizable responsive modern free WordPress business theme, "
+"especially for App-related landing pages. And of course, the premium version "
+"for additional features and better support, Unlock all the possibilities "
+"with Business Roy."
+msgstr ""
+
+#: patterns/abouts/about-section-four.php:23
+msgid ""
+"Welcome and thank you for installing, Fitness Park is a clean, beautiful, "
+"and fully customizable responsive modern free WordPress business theme, "
+"especially for App-related landing pages. And of course, the premium version "
+"for additional features and better support, Unlock all the possibilities "
+"with Fitness Park, Have a question? Our professional support team are ready "
+"to answer your questions. All support requests will be replied in 24hrs or "
+"less."
+msgstr ""
+
+#: patterns/abouts/about-section-five.php:32
+msgid ""
+"Welcome and thank you for installing, Fitness Park is a clean, beautiful, "
+"and fully customizable responsive modern free WordPress business theme, "
+"especially for App-related landing pages. And of course, the premium version "
+"for additional features and better support, Unlock all the possibilities."
+msgstr ""
+
+#: patterns/abouts/about-section-three.php:21
+msgid ""
+"Welcome and thank you for installing, Fitness Park is a clean, beautiful, "
+"and fully customizable responsive modern free WordPress business theme, "
+"especially for App-related landing pages. And of course, the premium version "
+"for additional features and better support."
+msgstr ""
+
+#. 1-theme name, 2-theme version
+#: welcome/sections/header.php:6
+#, php-format
+msgid "Welcome to %1$s - Version %2$s"
+msgstr ""
+
+#: patterns/abouts/about-section-one.php:19
+msgid "Welcome To The Fitness Park"
+msgstr ""
+
+#: patterns/testimonial/testimonial-three.php:19
+#: patterns/testimonial/testimonial-two.php:18
+msgid "What They Say About US Honest Reviews"
+msgstr ""
+
+#: patterns/team/team-one.php:73 patterns/team/team-three.php:167
+#: patterns/team/team-two.php:75
+msgid "William Ross"
+msgstr ""
+
+#: welcome/sections/footer.php:157
+#, php-format
+msgid ""
+"With %s Pro theme you can create a beautiful website. Further if you want to "
+"unlock more possibilities then upgrade to the premium version, Try the "
+"Premium version and check if it fits your need or not. If not, we have 14 "
+"days money-back guarantee."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:36
+msgid ""
+"With one click demo-import, you can install the demo content with just one "
+"click."
+msgstr ""
+
+#: patterns/testimonial/testimonial-three.php:150
+#: patterns/testimonial/testimonial-three.php:200
+#: patterns/testimonial/testimonial-two.php:85
+#: patterns/testimonial/testimonial-two.php:141
+msgid ""
+"With over a decade of experience, we all have ourselves as one of the "
+"pioneering agencies in the region. Have a question? Our support team is "
+"ready to answer your every support quickly questions."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:128
+msgid "WooCommerce Compatible"
+msgstr ""
+
+#: patterns/abouts/about-section-four.php:33 patterns/hero/slider-one.php:27
+msgid "WordPress Themes"
+msgstr ""
+
+#: patterns/how-it-works/how-it-work-one.php:71
+msgid "Work Processing"
+msgstr ""
+
+#: patterns/services/fservice-section-four.php:112
+#: patterns/services/fservice-section-one.php:112
+#: patterns/services/fservice-section-five.php:96
+msgid "Working Environment"
+msgstr ""
+
+#: patterns/abouts/about-section-one.php:55
+msgid "Worldwide Coverage"
+msgstr ""
+
+#: patterns/abouts/about-section-one.php:41
+msgid "Worldwide coverage"
+msgstr ""
+
+#: patterns/contact/contact-section-three.php:45
+#: patterns/contact/contact-section-one.php:72
+#: patterns/contact/contact-section-two.php:71
+msgid "Write Us Email"
+msgstr ""
+
+#: inc/breadcrumbs.php:788 inc/breadcrumbs.php:817 inc/breadcrumbs.php:844
+#: inc/breadcrumbs.php:871 inc/breadcrumbs.php:1211
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/customizer/sanitize.php:30 inc/customizer/customizer.php:57
+#: inc/customizer/header-settings.php:102
+#: inc/customizer/header-settings.php:121
+#: inc/customizer/header-settings.php:162
+#: inc/customizer/home-page/slider.php:29
+#: inc/customizer/home-page/common-settings.php:34
+msgid "Yes"
+msgstr ""
+
+#: inc/customizer/home-page/slider.php:107
+msgid "You can edit page title and content from pages"
+msgstr ""
+
+#: welcome/sections/getting_started.php:5
+msgid ""
+"You can setup the home page sections either from Customizer Panel or from "
+"Elementor Pagebuilder"
+msgstr ""
+
+#: patterns/abouts/about-section-five.php:28
+msgid ""
+"“If you want real marketing that works and effective implementation thank "
+"you for installing business roy WordPress theme – Lifest got you covered.”"
+msgstr ""

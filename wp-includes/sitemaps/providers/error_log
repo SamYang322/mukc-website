@@ -1,0 +1,15 @@
+[20-Nov-2023 23:58:29 Australia/Sydney] PHP Fatal error:  Class 'WP_Sitemaps_Provider' not found in /home/mukcorga/public_html/wordpress/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[20-Nov-2023 23:58:30 Australia/Sydney] PHP Fatal error:  Class 'WP_Sitemaps_Provider' not found in /home/mukcorga/public_html/wordpress/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[20-Nov-2023 23:58:30 Australia/Sydney] PHP Fatal error:  Class 'WP_Sitemaps_Provider' not found in /home/mukcorga/public_html/wordpress/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[04-Dec-2025 07:55:25 Australia/Sydney] PHP Fatal error:  Class 'WP_Sitemaps_Provider' not found in /home/mukcorga/public_html/wordpress/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[04-Dec-2025 07:55:26 Australia/Sydney] PHP Fatal error:  Class 'WP_Sitemaps_Provider' not found in /home/mukcorga/public_html/wordpress/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[04-Dec-2025 07:55:26 Australia/Sydney] PHP Fatal error:  Class 'WP_Sitemaps_Provider' not found in /home/mukcorga/public_html/wordpress/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[05-Dec-2025 05:23:56 Australia/Sydney] PHP Fatal error:  Class 'WP_Sitemaps_Provider' not found in /home/mukcorga/public_html/wordpress/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[05-Dec-2025 05:23:56 Australia/Sydney] PHP Fatal error:  Class 'WP_Sitemaps_Provider' not found in /home/mukcorga/public_html/wordpress/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[05-Dec-2025 05:23:56 Australia/Sydney] PHP Fatal error:  Class 'WP_Sitemaps_Provider' not found in /home/mukcorga/public_html/wordpress/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[08-Dec-2025 16:13:43 Australia/Sydney] PHP Fatal error:  Class 'WP_Sitemaps_Provider' not found in /home/mukcorga/public_html/wordpress/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[08-Dec-2025 16:13:44 Australia/Sydney] PHP Fatal error:  Class 'WP_Sitemaps_Provider' not found in /home/mukcorga/public_html/wordpress/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[08-Dec-2025 16:13:44 Australia/Sydney] PHP Fatal error:  Class 'WP_Sitemaps_Provider' not found in /home/mukcorga/public_html/wordpress/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[09-Dec-2025 08:14:10 Australia/Sydney] PHP Fatal error:  Class 'WP_Sitemaps_Provider' not found in /home/mukcorga/public_html/wordpress/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[09-Dec-2025 08:14:10 Australia/Sydney] PHP Fatal error:  Class 'WP_Sitemaps_Provider' not found in /home/mukcorga/public_html/wordpress/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[09-Dec-2025 08:14:11 Australia/Sydney] PHP Fatal error:  Class 'WP_Sitemaps_Provider' not found in /home/mukcorga/public_html/wordpress/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17

@@ -1,0 +1,4 @@
+[17-Feb-2026 04:08:22 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/mukcorga/public_html/wordpress/wp-content/themes/twentytwentyfour/functions.php:147
+Stack trace:
+#0 {main}
+  thrown in /home/mukcorga/public_html/wordpress/wp-content/themes/twentytwentyfour/functions.php on line 147

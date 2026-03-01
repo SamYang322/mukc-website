@@ -1,0 +1,32 @@
+# WordPress Core
+wp-config.php
+wp-content/advanced-cache.php
+wp-content/backup-db/
+wp-content/backups/
+wp-content/blogs.dir/
+wp-content/cache/
+wp-content/upgrade/
+wp-content/uploads/
+!wp-content/uploads/2026/
+*.log
+.htaccess
+
+# Backups & Migration Plugins (Crucial for repo size)
+wp-content/ai1wm-backups/
+wp-content/plugins/all-in-one-wp-migration/
+wp-content/updraft/
+*.sql
+*.zip
+*.tar.gz
+*.wpress
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini

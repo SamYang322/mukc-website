@@ -1,0 +1,16 @@
+[04-Dec-2025 07:55:18 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/mukcorga/public_html/wordpress/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/mukcorga/public_html/wordpress/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[05-Dec-2025 05:23:07 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/mukcorga/public_html/wordpress/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/mukcorga/public_html/wordpress/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[08-Dec-2025 16:13:23 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/mukcorga/public_html/wordpress/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/mukcorga/public_html/wordpress/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[09-Dec-2025 08:13:48 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/mukcorga/public_html/wordpress/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/mukcorga/public_html/wordpress/wp-includes/sodium_compat/lib/ristretto255.php on line 6

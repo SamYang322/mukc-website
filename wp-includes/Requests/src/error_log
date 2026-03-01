@@ -1,0 +1,4 @@
+[04-Dec-2025 07:54:04 Australia/Sydney] PHP Fatal error:  Interface 'WpOrg\Requests\HookManager' not found in /home/mukcorga/public_html/wordpress/wp-includes/Requests/src/Hooks.php on line 19
+[05-Dec-2025 05:23:19 Australia/Sydney] PHP Fatal error:  Interface 'WpOrg\Requests\HookManager' not found in /home/mukcorga/public_html/wordpress/wp-includes/Requests/src/Hooks.php on line 19
+[08-Dec-2025 16:13:29 Australia/Sydney] PHP Fatal error:  Interface 'WpOrg\Requests\HookManager' not found in /home/mukcorga/public_html/wordpress/wp-includes/Requests/src/Hooks.php on line 19
+[09-Dec-2025 08:14:20 Australia/Sydney] PHP Fatal error:  Interface 'WpOrg\Requests\HookManager' not found in /home/mukcorga/public_html/wordpress/wp-includes/Requests/src/Hooks.php on line 19

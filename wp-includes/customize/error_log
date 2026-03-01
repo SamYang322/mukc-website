@@ -1,0 +1,206 @@
+[31-Jul-2020 09:46:37 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[31-Jul-2020 09:46:40 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[31-Jul-2020 09:46:44 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[31-Jul-2020 23:25:52 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[01-Aug-2020 05:17:13 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[02-Aug-2020 00:34:43 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[20-Nov-2023 23:55:15 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Image_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-background-image-control.php on line 17
+[20-Nov-2023 23:55:15 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Setting' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-background-image-setting.php on line 17
+[20-Nov-2023 23:55:15 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-background-position-control.php on line 17
+[20-Nov-2023 23:55:15 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-code-editor-control.php on line 17
+[20-Nov-2023 23:55:16 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-color-control.php on line 17
+[20-Nov-2023 23:55:16 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Image_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-cropped-image-control.php on line 17
+[20-Nov-2023 23:55:16 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Setting' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-custom-css-setting.php on line 19
+[20-Nov-2023 23:55:17 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-date-time-control.php on line 17
+[20-Nov-2023 23:55:17 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Setting' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-filter-setting.php on line 19
+[20-Nov-2023 23:55:17 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Image_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-header-image-control.php on line 17
+[20-Nov-2023 23:55:17 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Setting' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-header-image-setting.php on line 19
+[20-Nov-2023 23:55:18 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Upload_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-image-control.php on line 17
+[20-Nov-2023 23:55:18 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-media-control.php on line 17
+[20-Nov-2023 23:55:18 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php on line 17
+[20-Nov-2023 23:55:19 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-nav-menu-control.php on line 17
+[20-Nov-2023 23:55:19 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-nav-menu-item-control.php on line 17
+[20-Nov-2023 23:55:19 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Setting' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 20
+[20-Nov-2023 23:55:19 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-nav-menu-location-control.php on line 19
+[20-Nov-2023 23:55:20 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php on line 17
+[20-Nov-2023 23:55:20 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-nav-menu-name-control.php on line 17
+[20-Nov-2023 23:55:21 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Section' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-nav-menu-section.php on line 19
+[20-Nov-2023 23:55:22 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Setting' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-nav-menu-setting.php on line 21
+[20-Nov-2023 23:55:22 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Panel' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-nav-menus-panel.php on line 19
+[20-Nov-2023 23:55:22 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-new-menu-control.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-new-menu-control.php on line 11
+[20-Nov-2023 23:55:22 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-new-menu-section.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-new-menu-section.php on line 11
+[20-Nov-2023 23:55:23 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Section' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-sidebar-section.php on line 17
+[20-Nov-2023 23:55:23 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Cropped_Image_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-site-icon-control.php on line 19
+[20-Nov-2023 23:55:24 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[20-Nov-2023 23:55:24 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Panel' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-themes-panel.php on line 17
+[20-Nov-2023 23:55:24 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Section' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-themes-section.php on line 19
+[20-Nov-2023 23:55:25 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Media_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-upload-control.php on line 17
+[20-Nov-2023 23:55:25 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-sidebar-block-editor-control.php on line 18
+[20-Nov-2023 23:55:25 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-widget-area-customize-control.php on line 17
+[20-Nov-2023 23:55:25 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[04-Dec-2025 07:53:52 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Panel' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-nav-menus-panel.php on line 19
+[04-Dec-2025 07:53:52 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-sidebar-block-editor-control.php on line 18
+[04-Dec-2025 07:53:52 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Image_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-background-image-control.php on line 17
+[04-Dec-2025 07:53:53 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-nav-menu-location-control.php on line 19
+[04-Dec-2025 07:53:53 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-nav-menu-name-control.php on line 17
+[04-Dec-2025 07:53:53 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Setting' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 20
+[04-Dec-2025 07:53:53 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Setting' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-nav-menu-setting.php on line 21
+[04-Dec-2025 07:53:54 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php on line 17
+[04-Dec-2025 07:53:54 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-date-time-control.php on line 17
+[04-Dec-2025 07:53:54 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Image_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-cropped-image-control.php on line 17
+[04-Dec-2025 07:53:55 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[04-Dec-2025 07:53:55 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Section' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-themes-section.php on line 19
+[04-Dec-2025 07:53:55 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-new-menu-control.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-new-menu-control.php on line 11
+[04-Dec-2025 07:53:56 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-color-control.php on line 17
+[04-Dec-2025 07:53:56 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Panel' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-themes-panel.php on line 17
+[04-Dec-2025 07:53:56 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-widget-area-customize-control.php on line 17
+[04-Dec-2025 07:53:56 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Setting' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-header-image-setting.php on line 19
+[04-Dec-2025 07:53:57 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-nav-menu-control.php on line 17
+[04-Dec-2025 07:53:57 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-media-control.php on line 17
+[04-Dec-2025 07:53:57 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-new-menu-section.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-new-menu-section.php on line 11
+[04-Dec-2025 07:53:58 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Setting' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-filter-setting.php on line 19
+[04-Dec-2025 07:53:58 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[04-Dec-2025 07:53:58 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Image_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-header-image-control.php on line 17
+[04-Dec-2025 07:53:58 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Media_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-upload-control.php on line 17
+[04-Dec-2025 07:53:59 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Section' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-sidebar-section.php on line 17
+[04-Dec-2025 07:53:59 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-nav-menu-item-control.php on line 17
+[04-Dec-2025 07:53:59 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Cropped_Image_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-site-icon-control.php on line 19
+[04-Dec-2025 07:54:00 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-code-editor-control.php on line 17
+[04-Dec-2025 07:54:00 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Setting' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-background-image-setting.php on line 17
+[04-Dec-2025 07:54:01 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-background-position-control.php on line 17
+[04-Dec-2025 07:54:01 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Upload_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-image-control.php on line 17
+[04-Dec-2025 07:54:01 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Setting' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-custom-css-setting.php on line 19
+[04-Dec-2025 07:54:02 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php on line 17
+[04-Dec-2025 07:54:02 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Section' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-nav-menu-section.php on line 19
+[05-Dec-2025 05:23:37 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[05-Dec-2025 05:23:37 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Section' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-nav-menu-section.php on line 19
+[05-Dec-2025 05:23:37 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Image_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-cropped-image-control.php on line 17
+[05-Dec-2025 05:23:38 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Setting' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 20
+[05-Dec-2025 05:23:38 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php on line 17
+[05-Dec-2025 05:23:38 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-new-menu-section.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-new-menu-section.php on line 11
+[05-Dec-2025 05:23:38 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-sidebar-block-editor-control.php on line 18
+[05-Dec-2025 05:23:38 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Setting' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-custom-css-setting.php on line 19
+[05-Dec-2025 05:23:39 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Setting' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-background-image-setting.php on line 17
+[05-Dec-2025 05:23:39 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-date-time-control.php on line 17
+[05-Dec-2025 05:23:39 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Section' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-themes-section.php on line 19
+[05-Dec-2025 05:23:39 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-color-control.php on line 17
+[05-Dec-2025 05:23:39 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Upload_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-image-control.php on line 17
+[05-Dec-2025 05:23:40 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-nav-menu-location-control.php on line 19
+[05-Dec-2025 05:23:40 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Section' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-sidebar-section.php on line 17
+[05-Dec-2025 05:23:40 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Cropped_Image_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-site-icon-control.php on line 19
+[05-Dec-2025 05:23:40 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Setting' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-filter-setting.php on line 19
+[05-Dec-2025 05:23:40 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php on line 17
+[05-Dec-2025 05:23:40 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Media_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-upload-control.php on line 17
+[05-Dec-2025 05:23:41 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[05-Dec-2025 05:23:41 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Panel' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-themes-panel.php on line 17
+[05-Dec-2025 05:23:41 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Image_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-background-image-control.php on line 17
+[05-Dec-2025 05:23:41 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Image_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-header-image-control.php on line 17
+[05-Dec-2025 05:23:41 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-nav-menu-item-control.php on line 17
+[05-Dec-2025 05:23:41 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-code-editor-control.php on line 17
+[05-Dec-2025 05:23:42 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Setting' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-header-image-setting.php on line 19
+[05-Dec-2025 05:23:42 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-widget-area-customize-control.php on line 17
+[05-Dec-2025 05:23:42 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-nav-menu-control.php on line 17
+[05-Dec-2025 05:23:42 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-background-position-control.php on line 17
+[05-Dec-2025 05:23:42 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-nav-menu-name-control.php on line 17
+[05-Dec-2025 05:23:42 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Setting' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-nav-menu-setting.php on line 21
+[05-Dec-2025 05:23:43 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Panel' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-nav-menus-panel.php on line 19
+[05-Dec-2025 05:23:43 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-new-menu-control.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-new-menu-control.php on line 11
+[05-Dec-2025 05:23:43 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-media-control.php on line 17
+[08-Dec-2025 16:12:45 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Panel' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-nav-menus-panel.php on line 19
+[08-Dec-2025 16:12:45 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-date-time-control.php on line 17
+[08-Dec-2025 16:12:45 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-widget-area-customize-control.php on line 17
+[08-Dec-2025 16:12:45 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Section' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-sidebar-section.php on line 17
+[08-Dec-2025 16:12:46 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-nav-menu-name-control.php on line 17
+[08-Dec-2025 16:12:46 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Setting' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-background-image-setting.php on line 17
+[08-Dec-2025 16:12:46 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Section' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-nav-menu-section.php on line 19
+[08-Dec-2025 16:12:46 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Media_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-upload-control.php on line 17
+[08-Dec-2025 16:12:46 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Setting' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-header-image-setting.php on line 19
+[08-Dec-2025 16:12:46 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-sidebar-block-editor-control.php on line 18
+[08-Dec-2025 16:12:46 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-new-menu-control.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-new-menu-control.php on line 11
+[08-Dec-2025 16:12:47 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-color-control.php on line 17
+[08-Dec-2025 16:12:47 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[08-Dec-2025 16:12:47 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Setting' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 20
+[08-Dec-2025 16:12:47 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-nav-menu-control.php on line 17
+[08-Dec-2025 16:12:47 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php on line 17
+[08-Dec-2025 16:12:48 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Upload_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-image-control.php on line 17
+[08-Dec-2025 16:12:48 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-nav-menu-location-control.php on line 19
+[08-Dec-2025 16:12:48 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Setting' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-nav-menu-setting.php on line 21
+[08-Dec-2025 16:12:48 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Image_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-cropped-image-control.php on line 17
+[08-Dec-2025 16:12:48 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-media-control.php on line 17
+[08-Dec-2025 16:12:48 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-background-position-control.php on line 17
+[08-Dec-2025 16:12:49 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-nav-menu-item-control.php on line 17
+[08-Dec-2025 16:12:49 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Setting' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-filter-setting.php on line 19
+[08-Dec-2025 16:12:49 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Setting' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-custom-css-setting.php on line 19
+[08-Dec-2025 16:12:49 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Cropped_Image_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-site-icon-control.php on line 19
+[08-Dec-2025 16:12:49 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Panel' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-themes-panel.php on line 17
+[08-Dec-2025 16:12:49 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Image_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-background-image-control.php on line 17
+[08-Dec-2025 16:12:49 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php on line 17
+[08-Dec-2025 16:12:50 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Image_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-header-image-control.php on line 17
+[08-Dec-2025 16:12:50 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[08-Dec-2025 16:12:50 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-code-editor-control.php on line 17
+[08-Dec-2025 16:12:50 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-new-menu-section.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-new-menu-section.php on line 11
+[08-Dec-2025 16:12:50 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Section' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-themes-section.php on line 19
+[09-Dec-2025 08:14:11 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Setting' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-nav-menu-setting.php on line 21
+[09-Dec-2025 08:14:11 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-color-control.php on line 17
+[09-Dec-2025 08:14:11 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Section' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-nav-menu-section.php on line 19
+[09-Dec-2025 08:14:12 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Cropped_Image_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-site-icon-control.php on line 19
+[09-Dec-2025 08:14:12 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Section' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-themes-section.php on line 19
+[09-Dec-2025 08:14:12 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Setting' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-background-image-setting.php on line 17
+[09-Dec-2025 08:14:12 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Section' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-sidebar-section.php on line 17
+[09-Dec-2025 08:14:12 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-widget-area-customize-control.php on line 17
+[09-Dec-2025 08:14:13 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Image_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-cropped-image-control.php on line 17
+[09-Dec-2025 08:14:13 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Panel' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-themes-panel.php on line 17
+[09-Dec-2025 08:14:13 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Image_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-background-image-control.php on line 17
+[09-Dec-2025 08:14:13 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-date-time-control.php on line 17
+[09-Dec-2025 08:14:13 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-code-editor-control.php on line 17
+[09-Dec-2025 08:14:13 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Panel' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-nav-menus-panel.php on line 19
+[09-Dec-2025 08:14:14 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Media_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-upload-control.php on line 17
+[09-Dec-2025 08:14:14 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-nav-menu-location-control.php on line 19
+[09-Dec-2025 08:14:14 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-sidebar-block-editor-control.php on line 18
+[09-Dec-2025 08:14:14 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Setting' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-filter-setting.php on line 19
+[09-Dec-2025 08:14:14 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[09-Dec-2025 08:14:15 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-media-control.php on line 17
+[09-Dec-2025 08:14:15 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Setting' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-custom-css-setting.php on line 19
+[09-Dec-2025 08:14:15 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Setting' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 20
+[09-Dec-2025 08:14:15 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-nav-menu-name-control.php on line 17
+[09-Dec-2025 08:14:15 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-new-menu-section.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-new-menu-section.php on line 11
+[09-Dec-2025 08:14:15 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-nav-menu-item-control.php on line 17
+[09-Dec-2025 08:14:16 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-new-menu-control.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-new-menu-control.php on line 11
+[09-Dec-2025 08:14:16 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Image_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-header-image-control.php on line 17
+[09-Dec-2025 08:14:16 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-nav-menu-control.php on line 17
+[09-Dec-2025 08:14:16 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php on line 17
+[09-Dec-2025 08:14:16 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php on line 17
+[09-Dec-2025 08:14:16 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Setting' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-header-image-setting.php on line 19
+[09-Dec-2025 08:14:17 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[09-Dec-2025 08:14:17 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Upload_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-image-control.php on line 17
+[09-Dec-2025 08:14:17 Australia/Sydney] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/mukcorga/public_html/wordpress/wp-includes/customize/class-wp-customize-background-position-control.php on line 17

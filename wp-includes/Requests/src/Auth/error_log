@@ -1,0 +1,4 @@
+[04-Dec-2025 07:54:22 Australia/Sydney] PHP Fatal error:  Interface 'WpOrg\Requests\Auth' not found in /home/mukcorga/public_html/wordpress/wp-includes/Requests/src/Auth/Basic.php on line 23
+[05-Dec-2025 05:23:35 Australia/Sydney] PHP Fatal error:  Interface 'WpOrg\Requests\Auth' not found in /home/mukcorga/public_html/wordpress/wp-includes/Requests/src/Auth/Basic.php on line 23
+[08-Dec-2025 16:13:38 Australia/Sydney] PHP Fatal error:  Interface 'WpOrg\Requests\Auth' not found in /home/mukcorga/public_html/wordpress/wp-includes/Requests/src/Auth/Basic.php on line 23
+[09-Dec-2025 08:14:29 Australia/Sydney] PHP Fatal error:  Interface 'WpOrg\Requests\Auth' not found in /home/mukcorga/public_html/wordpress/wp-includes/Requests/src/Auth/Basic.php on line 23

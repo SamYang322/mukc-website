@@ -1,0 +1,140 @@
+[17-Oct-2021 07:40:38 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-grid-posts.php on line 9
+[17-Oct-2021 07:40:43 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[17-Oct-2021 07:40:48 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-medium-posts.php on line 9
+[17-Oct-2021 07:40:55 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-offset-posts.php on line 9
+[17-Oct-2021 07:41:00 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-small-posts.php on line 9
+[17-Oct-2021 07:41:06 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-standard-posts.php on line 9
+[17-Oct-2021 07:41:11 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[04-Dec-2025 07:53:01 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-medium-posts.php on line 9
+[04-Dec-2025 07:53:01 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[04-Dec-2025 07:53:02 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-grid-posts.php on line 9
+[04-Dec-2025 07:53:02 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-standard-posts.php on line 9
+[04-Dec-2025 07:53:02 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[04-Dec-2025 07:53:03 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-small-posts.php on line 9
+[04-Dec-2025 07:53:03 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-offset-posts.php on line 9
+[05-Dec-2025 05:23:48 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-standard-posts.php on line 9
+[05-Dec-2025 05:23:49 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-grid-posts.php on line 9
+[05-Dec-2025 05:23:49 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[05-Dec-2025 05:23:49 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-offset-posts.php on line 9
+[05-Dec-2025 05:23:49 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-medium-posts.php on line 9
+[05-Dec-2025 05:23:49 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[05-Dec-2025 05:23:49 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-small-posts.php on line 9
+[08-Dec-2025 16:13:39 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-medium-posts.php on line 9
+[08-Dec-2025 16:13:39 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-small-posts.php on line 9
+[08-Dec-2025 16:13:40 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[08-Dec-2025 16:13:40 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-offset-posts.php on line 9
+[08-Dec-2025 16:13:40 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-standard-posts.php on line 9
+[08-Dec-2025 16:13:40 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-grid-posts.php on line 9
+[08-Dec-2025 16:13:40 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[09-Dec-2025 08:13:13 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-standard-posts.php on line 9
+[09-Dec-2025 08:13:13 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[09-Dec-2025 08:13:13 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-offset-posts.php on line 9
+[09-Dec-2025 08:13:13 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-grid-posts.php on line 9
+[09-Dec-2025 08:13:13 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-small-posts.php on line 9
+[09-Dec-2025 08:13:13 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[09-Dec-2025 08:13:14 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mukcorga/public_html/wordpress/wp-includes/block-patterns/query-medium-posts.php on line 9

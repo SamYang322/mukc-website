@@ -1,0 +1,4 @@
+[04-Dec-2025 07:53:44 Australia/Sydney] PHP Fatal error:  Class 'WP_HTML_Tag_Processor' not found in /home/mukcorga/public_html/wordpress/wp-includes/html-api/class-wp-html-processor.php on line 131
+[05-Dec-2025 05:22:31 Australia/Sydney] PHP Fatal error:  Class 'WP_HTML_Tag_Processor' not found in /home/mukcorga/public_html/wordpress/wp-includes/html-api/class-wp-html-processor.php on line 131
+[08-Dec-2025 16:13:41 Australia/Sydney] PHP Fatal error:  Class 'WP_HTML_Tag_Processor' not found in /home/mukcorga/public_html/wordpress/wp-includes/html-api/class-wp-html-processor.php on line 131
+[09-Dec-2025 08:13:43 Australia/Sydney] PHP Fatal error:  Class 'WP_HTML_Tag_Processor' not found in /home/mukcorga/public_html/wordpress/wp-includes/html-api/class-wp-html-processor.php on line 131

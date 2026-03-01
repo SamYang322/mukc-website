@@ -1,0 +1,4 @@
+[04-Dec-2025 07:54:24 Australia/Sydney] PHP Fatal error:  Interface 'WpOrg\Requests\Proxy' not found in /home/mukcorga/public_html/wordpress/wp-includes/Requests/src/Proxy/Http.php on line 24
+[05-Dec-2025 05:23:24 Australia/Sydney] PHP Fatal error:  Interface 'WpOrg\Requests\Proxy' not found in /home/mukcorga/public_html/wordpress/wp-includes/Requests/src/Proxy/Http.php on line 24
+[08-Dec-2025 16:13:31 Australia/Sydney] PHP Fatal error:  Interface 'WpOrg\Requests\Proxy' not found in /home/mukcorga/public_html/wordpress/wp-includes/Requests/src/Proxy/Http.php on line 24
+[09-Dec-2025 08:14:29 Australia/Sydney] PHP Fatal error:  Interface 'WpOrg\Requests\Proxy' not found in /home/mukcorga/public_html/wordpress/wp-includes/Requests/src/Proxy/Http.php on line 24

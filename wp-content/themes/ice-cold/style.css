@@ -1,0 +1,87 @@
+/*
+Theme Name: Ice Cold
+Theme URI: https://github.com/triopsi/ice-cold
+Author: triopsi
+Author URI: https://wiki.profoxi.de/ueber-mich/
+Description: A simple WordPress Theme. This Theme are full responsive and are maked with the popular Bootstrap library. Flexible sidebars and footers. Perfect for a blog, portfolio or a frontpage. With parallax effects on frontpage.This theme support WooCommerce.
+Version: 1.0.8
+Requires at least: 5.0
+Requires PHP: 5.6
+Tested up to: 5.7
+License: GNU General Public License v3 or later
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: ice-cold
+Tags: one-column, two-columns, right-sidebar, flexible-header, custom-colors, custom-header, custom-background, featured-images, custom-menu, custom-logo, editor-style, footer-widgets, sticky-post, theme-options, threaded-comments, translation-ready, blog, portfolio, e-commerce
+
+Ice Cold WordPress Theme, Copyright 2020 Triopsi
+Ice Cold is distributed under the terms of the GNU GPL
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 2 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+Resources
+
+Bootstrap
+Bootstrap v4.6.0 (https://getbootstrap.com/)
+Copyright 2011-2020 The Bootstrap Authors
+Copyright 2011-2020 Twitter, Inc.
+Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+
+Font Awesome
+Font Awesome Free 5.15.1 by @fontawesome - https://fontawesome.com
+License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+Font Awesome Icons — CC BY 4.0 License (see https://fontawesome.com/license/free)
+Font Awesome Fonts — SIL OFL 1.1 License (see https://fontawesome.com/license/free)
+Font Awesome Code — MIT License (see https://fontawesome.com/license/free)
+
+animate
+animate.css - 4.1.1 - https://animate.style/
+Licensed under the MIT license - http://opensource.org/licenses/MIT
+
+Bundled header images
+License: CC0 1.0 Universal (CC0 1.0)
+Default images from https://pickupimage.com
+
+Name: snow-winter.jpg
+URL: https://pickupimage.com/download-photos/Fantastic-winter-landscape/2330479
+License: CC0 1.0 Universal (CC0 1.0)
+
+Name: winter-road.jpg
+URL: https://pickupimage.com/download-photos/Winter-Snow-Road-Central-Park-New-York/2321738
+License: CC0 1.0 Universal (CC0 1.0)
+
+Name: road-snow.jpg
+URL: https://pickupimage.com/download-photos/winter-trees-on-snow/2324165
+License: CC0 1.0 Universal (CC0 1.0)
+
+Name: train-snow.jpg
+URL: https://pickupimage.com/download-photos/Snow-covered-train-station-in-Watlington-railway-station/2329145
+License: CC0 1.0 Universal (CC0 1.0)
+
+Name: computer-office.jpg
+URL: https://pickupimage.com/download-photos/Black-framed-upside-down-glasses-on-the-computer-keyboard/2338711
+License: CC0 1.0 Universal (CC0 1.0)
+
+Name: fog-landscape.jpg
+URL: https://pickupimage.com/download-photos/Tundra-Wilderness-Alaska/2324539
+License: CC0 1.0 Universal (CC0 1.0)
+
+Name: loader-blue.gif
+self-made picture by @triopsi
+License: CC0 1.0 Universal (CC0 1.0)
+
+Name: grid-mask.png
+self-made picture by @triopsi
+License: CC0 1.0 Universal (CC0 1.0)
+
+Attention!!!
+This css file a placeholder! The right css file find you under assets/css/site-css.css!!!!
+DO NOT TOUCH THIS CSS FILE!!!
+*/

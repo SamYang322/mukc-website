@@ -1,0 +1,1 @@
+[20-Nov-2023 23:55:04 Australia/Sydney] PHP Fatal error:  Interface 'Requests_Hooker' not found in /home/mukcorga/public_html/wordpress/wp-includes/Requests/Hooks.php on line 15

@@ -1,0 +1,8 @@
+[04-Dec-2025 07:54:52 Australia/Sydney] PHP Fatal error:  Class 'ParagonIE_Sodium_Core32_Util' not found in /home/mukcorga/public_html/wordpress/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[04-Dec-2025 07:54:52 Australia/Sydney] PHP Fatal error:  Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/mukcorga/public_html/wordpress/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10
+[05-Dec-2025 05:22:56 Australia/Sydney] PHP Fatal error:  Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/mukcorga/public_html/wordpress/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10
+[05-Dec-2025 05:22:56 Australia/Sydney] PHP Fatal error:  Class 'ParagonIE_Sodium_Core32_Util' not found in /home/mukcorga/public_html/wordpress/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[08-Dec-2025 16:13:16 Australia/Sydney] PHP Fatal error:  Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/mukcorga/public_html/wordpress/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10
+[08-Dec-2025 16:13:17 Australia/Sydney] PHP Fatal error:  Class 'ParagonIE_Sodium_Core32_Util' not found in /home/mukcorga/public_html/wordpress/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[09-Dec-2025 08:14:08 Australia/Sydney] PHP Fatal error:  Class 'ParagonIE_Sodium_Core32_Util' not found in /home/mukcorga/public_html/wordpress/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[09-Dec-2025 08:14:08 Australia/Sydney] PHP Fatal error:  Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/mukcorga/public_html/wordpress/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10

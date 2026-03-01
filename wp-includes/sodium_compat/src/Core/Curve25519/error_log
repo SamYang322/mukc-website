@@ -1,0 +1,4 @@
+[04-Dec-2025 07:55:05 Australia/Sydney] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_Util' not found in /home/mukcorga/public_html/wordpress/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[05-Dec-2025 05:23:04 Australia/Sydney] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_Util' not found in /home/mukcorga/public_html/wordpress/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[08-Dec-2025 16:13:20 Australia/Sydney] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_Util' not found in /home/mukcorga/public_html/wordpress/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[09-Dec-2025 08:14:01 Australia/Sydney] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_Util' not found in /home/mukcorga/public_html/wordpress/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
