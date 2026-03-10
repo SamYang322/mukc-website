@@ -30,7 +30,7 @@ if ($custom_logo_id) {
 <head>
     <meta charset="<?php bloginfo('charset'); ?>">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Gears – <?php echo esc_html($site_name); ?></title>
+    <title>Gear – <?php echo esc_html($site_name); ?></title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link
@@ -520,7 +520,7 @@ if ($custom_logo_id) {
             <li><a href="<?php echo esc_url(home_url('/about-mukc/')); ?>">About MUKC</a></li>
             <li><a href="<?php echo esc_url(home_url('/our-people/')); ?>">Our People</a></li>
             <li><a href="<?php echo esc_url(home_url('/journey/')); ?>">Journeys</a></li>
-            <li class="is-current"><a href="<?php echo esc_url(home_url('/gears/')); ?>">Gears</a></li>
+            <li class="is-current"><a href="<?php echo esc_url(home_url('/gear/')); ?>">Gear</a></li>
             <li><a href="<?php echo esc_url(home_url('/contact/')); ?>">Contact Us</a></li>
         </ul>
         <button class="mukc-nav__burger" aria-label="Toggle navigation" id="mukcBurger">
@@ -531,7 +531,7 @@ if ($custom_logo_id) {
     <section class="gears-hero">
         <div class="gears-hero__bg"></div>
         <div class="gears-hero__content">
-            <h1 class="products-title">Gears</h1>
+            <h1 class="products-title">Gear</h1>
             <p class="products-subtitle">Pack it up</p>
         </div>
     </section>

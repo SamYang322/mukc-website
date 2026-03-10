@@ -921,7 +921,7 @@ $jie_img = content_url('uploads/2026/02/FB_IMG_1740290134515.jpg');
                 <li><a href="<?php echo esc_url(home_url('/about-mukc/')); ?>">About MUKC</a></li>
                 <li><a href="<?php echo esc_url(home_url('/our-people/')); ?>">Our People</a></li>
                 <li><a href="<?php echo esc_url(home_url('/journey/')); ?>">Journeys</a></li>
-                <li><a href="<?php echo esc_url(home_url('/gears/')); ?>">Gears</a></li>
+                <li><a href="<?php echo esc_url(home_url('/gear/')); ?>">Gear</a></li>
                 <li><a href="<?php echo esc_url(home_url('/contact/')); ?>">Contact Us</a></li>
             </ul>
 

@@ -1004,7 +1004,7 @@ if ($custom_logo_id) {
             <li><a href="<?php echo esc_url(home_url('/about-mukc/')); ?>">About MUKC</a></li>
             <li><a href="<?php echo esc_url(home_url('/our-people/')); ?>">Our People</a></li>
             <li><a href="<?php echo esc_url(home_url('/journey/')); ?>">Journeys</a></li>
-            <li><a href="<?php echo esc_url(home_url('/gears/')); ?>">Gears</a></li>
+            <li><a href="<?php echo esc_url(home_url('/gear/')); ?>">Gear</a></li>
             <li><a href="<?php echo esc_url(home_url('/contact/')); ?>">Contact Us</a></li>
         </ul>
         <!-- Mobile burger (Updated with animation) -->

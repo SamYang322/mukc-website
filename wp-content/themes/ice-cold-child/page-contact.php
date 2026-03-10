@@ -21,37 +21,79 @@ $form_success = false;
 $form_error = '';
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['mukc_contact_nonce'])) {
-    // Basic SPAM protection: Honeypot
-    if (!empty($_POST['mukc_hp_field'])) {
-        // Bot filled the hidden field, just ignore/exit
+
+    // 1. WordPress nonce verification
+    if (!wp_verify_nonce($_POST['mukc_contact_nonce'], 'mukc_contact_form')) {
+        $form_error = 'Security check failed. Please refresh the page and try again.';
+    }
+
+    // 2. Honeypot — bot filled the hidden field
+    if (!$form_error && !empty($_POST['mukc_hp_field'])) {
         exit;
     }
 
-    $name    = sanitize_text_field($_POST['mukc_name']);
-    $email   = sanitize_email($_POST['mukc_email']);
-    $message = sanitize_textarea_field($_POST['mukc_message']);
+    // 3. Time-based check — reject if submitted in under 3 seconds (bot speed)
+    if (!$form_error && isset($_POST['mukc_ts'])) {
+        $elapsed = time() - intval($_POST['mukc_ts']);
+        if ($elapsed < 3) {
+            $form_error = 'That was a bit too fast. Please take a moment and try again.';
+        }
+    }
 
-    if (empty($name) || empty($email) || empty($message)) {
-        $form_error = 'Please fill out all required fields.';
-    } elseif (!is_email($email)) {
-        $form_error = 'Please provide a valid email address.';
-    } else {
-        $to = 'melbourneunikarateclub@gmail.com';
-        $subject = 'MUKC Contact Form: ' . $name;
-        $body = "Name: $name\nEmail: $email\n\nMessage:\n$message";
-        
-        // Use a generic 'From' address that matches the domain to prevent spoofing blocks
-        // and put the user's email in 'Reply-To' so you can still hit reply.
-        $headers = array(
-            'Content-Type: text/plain; charset=UTF-8',
-            'From: MUKC Website <noreply@mukc.org.au>',
-            'Reply-To: ' . $name . ' <' . $email . '>'
-        );
+    if (!$form_error) {
+        $name    = sanitize_text_field($_POST['mukc_name']);
+        $email   = sanitize_email($_POST['mukc_email']);
+        $message = sanitize_textarea_field($_POST['mukc_message']);
+        $js_check = sanitize_text_field($_POST['mukc_js'] ?? '');
 
-        if (wp_mail($to, $subject, $body, $headers)) {
-            $form_success = true;
-        } else {
-            $form_error = 'There was an error sending your message. Please try again or contact us directly via email.';
+        // 4. Basic field validation
+        if (empty($name) || empty($email) || empty($message)) {
+            $form_error = 'Please fill out all required fields.';
+        } elseif (!is_email($email)) {
+            $form_error = 'Please provide a valid email address.';
+        }
+
+        // 5. JS verification — bots that don't run JavaScript won't have this value
+        if (!$form_error && $js_check !== 'oss') {
+            $form_error = 'Verification failed. Please ensure JavaScript is enabled and try again.';
+        }
+
+        // 6. Content spam filter — block messages stuffed with URLs or promo keywords
+        if (!$form_error) {
+            $url_count = preg_match_all('/https?:\/\//i', $message, $matches);
+            $spam_words = array('buy now', 'click here', 'limited offer', 'act now', 'free money',
+                'casino', 'forex', 'crypto trading', 'viagra', 'SEO services', 'web traffic',
+                'earn money', 'make money online', 'work from home', 'bitcoin profit');
+            $msg_lower = strtolower($message . ' ' . $name);
+            $spam_hit = false;
+            foreach ($spam_words as $word) {
+                if (strpos($msg_lower, $word) !== false) {
+                    $spam_hit = true;
+                    break;
+                }
+            }
+            if ($url_count >= 2 || $spam_hit) {
+                $form_error = 'Your message was flagged as spam. If this is a mistake, please email us directly.';
+            }
+        }
+
+        // 7. Send email
+        if (!$form_error) {
+            $to = 'melbourneunikarateclub@gmail.com';
+            $subject = 'MUKC Contact Form: ' . $name;
+            $body = "Name: $name\nEmail: $email\n\nMessage:\n$message";
+
+            $headers = array(
+                'Content-Type: text/plain; charset=UTF-8',
+                'From: MUKC Website <noreply@mukc.org.au>',
+                'Reply-To: ' . $name . ' <' . $email . '>'
+            );
+
+            if (wp_mail($to, $subject, $body, $headers)) {
+                $form_success = true;
+            } else {
+                $form_error = 'There was an error sending your message. Please try again or contact us directly via email.';
+            }
         }
     }
 }
@@ -519,7 +561,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['mukc_contact_nonce'])
             <li><a href="<?php echo esc_url(home_url('/about-mukc/')); ?>">About MUKC</a></li>
             <li><a href="<?php echo esc_url(home_url('/our-people/')); ?>">Our People</a></li>
             <li><a href="<?php echo esc_url(home_url('/journey/')); ?>">Journeys</a></li>
-            <li><a href="<?php echo esc_url(home_url('/gears/')); ?>">Gears</a></li>
+            <li><a href="<?php echo esc_url(home_url('/gear/')); ?>">Gear</a></li>
             <li class="is-current"><a href="<?php echo esc_url(home_url('/contact/')); ?>">Contact Us</a></li>
         </ul>
         <button class="mukc-nav__burger" aria-label="Toggle navigation" id="mukcBurger">
@@ -558,9 +600,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['mukc_contact_nonce'])
                 <?php endif; ?>
 
                 <form class="contact-form" action="" method="post">
-                    <input type="hidden" name="mukc_contact_nonce" value="1">
-                    <div style="display:none;">
-                        <input type="text" name="mukc_hp_field" value="">
+                    <?php wp_nonce_field('mukc_contact_form', 'mukc_contact_nonce'); ?>
+                    <input type="hidden" name="mukc_ts" value="<?php echo esc_attr(time()); ?>">
+                    <div style="position:absolute;left:-9999px;" aria-hidden="true">
+                        <input type="text" name="mukc_hp_field" value="" tabindex="-1" autocomplete="off">
                     </div>
 
                     <div class="form-group">
@@ -577,6 +620,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['mukc_contact_nonce'])
                         <label>Your message <span>(required)</span></label>
                         <textarea name="mukc_message" class="form-textarea" placeholder="How can we help?" required></textarea>
                     </div>
+
+                    <input type="hidden" name="mukc_js" id="mukcJs" value="">
 
                     <button type="submit" class="submit-btn">Submit</button>
                 </form>
@@ -630,6 +675,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['mukc_contact_nonce'])
             const nav = document.querySelector('.mukc-nav');
             const burger = document.getElementById('mukcBurger');
             const menu = document.querySelector('.mukc-nav__menu');
+
+            // JS bot check — set hidden field value (bots without JS won't have this)
+            var jsField = document.getElementById('mukcJs');
+            if (jsField) jsField.value = 'oss';
 
             // Scroll Logic
             const handleScroll = () => {
