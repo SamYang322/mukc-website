@@ -1085,6 +1085,11 @@ $jie_img = content_url('uploads/2026/02/FB_IMG_1740290134515.jpg');
                         Don&rsquo;t miss this opportunity to grow stronger &mdash; as martial artists
                         and as a&nbsp;community.
                     </p>
+                    <p>
+                        <a href="https://forms.gle/YoazBbPkdhb9nR7cA" target="_blank" style="color:#ffffff; font-weight:600; text-decoration:underline;">
+                            Register for the Easter Camp here →
+                        </a>
+                    </p>
                 </div>
                 <p class="mukc-whatson__cta mukc-reveal" data-delay="1">Become part of the<br>MUKC community.</p>
             </div>
