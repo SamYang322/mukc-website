@@ -950,26 +950,21 @@ if ($custom_logo_id) {
         <div class="mukc-container">
             <div class="wwp-grid">
                 <div class="mukc-text-block">
-                    <h1 class="mukc-heading">What We Practice</h1>
+                    <h1 class="mukc-heading">A Modern Evolution of Traditional Karate</h1>
                     <p class="mukc-lead">
-                        At Melbourne University Karate Club, we practice karate inspired by traditional Okinawan roots,
-                        combining <strong>Shotokan fundamentals</strong> with a unique, modern sparring approach.
+                        At MUKC, we practice a style rooted in Shotokan and Okinawan traditions, refined through modern
+                        training methods and practical self-defense. Our approach moves beyond rigid, repetitive basics
+                        to offer a multi-style curriculum that incorporates elements of Jujitsu, Savate, Kyusho
+                        (pressure points), and modern mixed martial arts.
                     </p>
                     <p class="mukc-body">
-                        Our training covers <strong>Kata, Bunkai, Kumite, and Weapons</strong>. Helping members build
-                        strong
-                        foundations, coordination, and confidence. Classes are suitable for complete beginners through
-                        to advanced students, with experienced instructors providing clear guidance
-                        and&nbsp;individual&nbsp;feedback.
-                    </p>
-                    <p class="mukc-body">
-                        We value discipline, respect, and continuous self-improvement, both inside and
-                        outside&nbsp;the&nbsp;dojo.
+                        From day one, you will learn the practical applications (Bunkai) behind every movement, ensuring
+                        that your training is both functional and disciplined.
                     </p>
                     <p class="mukc-body">
                         Alongside training, we foster a strong sense of community through gradings, tournaments, and
-                        social events, making the club a place to grow, challenge yourself, and
-                        train&nbsp;with&nbsp;friends.
+                        social events, making the club a place where you can grow, challenge yourself, and train with
+                        friends.
                     </p>
                 </div>
                 <!-- Right: Shotokan symbol (uploaded image) -->
