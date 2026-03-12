@@ -950,7 +950,10 @@ if ($custom_logo_id) {
         <div class="mukc-container">
             <div class="wwp-grid">
                 <div class="mukc-text-block">
-                    <h1 class="mukc-heading">A Modern Evolution of Traditional Karate</h1>
+                    <h1 class="mukc-heading">What We Practice</h1>
+                    <h2 class="mukc-body" style="font-size: 1.25rem; font-weight: 600; color: #ffffff; margin-bottom: 24px;">
+                        A Modern Evolution of Traditional Karate
+                    </h2>
                     <p class="mukc-lead">
                         At MUKC, we practice a style rooted in Shotokan and Okinawan traditions, refined through modern
                         training methods and practical self-defense. Our approach moves beyond rigid, repetitive basics
