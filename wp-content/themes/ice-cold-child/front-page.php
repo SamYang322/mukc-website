@@ -533,7 +533,7 @@ $jie_img = content_url('uploads/2026/02/FB_IMG_1740290134515.jpg');
 
         .mukc-fees__header {
             display: grid;
-            grid-template-columns: 2fr 1.5fr 1fr;
+            grid-template-columns: 2fr 1fr 1fr;
             gap: 20px;
             padding: 0 20px 12px;
             border-bottom: 2px solid #e0e0e0;
@@ -546,7 +546,7 @@ $jie_img = content_url('uploads/2026/02/FB_IMG_1740290134515.jpg');
 
         .mukc-fees__row {
             display: grid;
-            grid-template-columns: 2fr 1.5fr 1fr;
+            grid-template-columns: 2fr 1fr 1fr;
             gap: 20px;
             padding: 24px 20px;
             border-bottom: 1px solid #f0f0f0;
@@ -1102,73 +1102,35 @@ $jie_img = content_url('uploads/2026/02/FB_IMG_1740290134515.jpg');
             <div class="mukc-fees__list mukc-reveal" data-delay="1">
 
                 <div class="mukc-fees__header">
-                    <div>Membership Type</div>
                     <div>Duration</div>
-                    <div style="text-align: right;">Cost</div>
+                    <div style="text-align: right;">Student Fee</div>
+                    <div style="text-align: right;">Non-Student Fee</div>
                 </div>
 
-                <!-- Student Membership -->
+                <!-- Single Semester -->
                 <div class="mukc-fees__row mukc-row-alt">
                     <div class="mukc-fees__type">
-                        <div class="mukc-fees__type-text">Student <span>(Includes Non-Melbourne Uni student)</span>
-                        </div>
-                    </div>
-                    <div class="mukc-fees__duration">
-                        <div>Single Semester</div>
+                        <div class="mukc-fees__type-text">Single Semester <span>(Includes Non-Melbourne Uni student)</span></div>
                     </div>
                     <div class="mukc-fees__cost"><span>$</span>100</div>
-                </div>
-
-                <div class="mukc-fees__row">
-                    <div class="mukc-fees__type">
-                        <div class="mukc-fees__type-text">Student <span>(Includes Non-Melbourne Uni student)</span>
-                        </div>
-                    </div>
-                    <div class="mukc-fees__duration">
-                        <div>Full Year</div>
-                    </div>
-                    <div class="mukc-fees__cost"><span>$</span>175</div>
-                </div>
-
-                <div class="mukc-fees__row mukc-row-alt">
-                    <div class="mukc-fees__type">
-                        <div class="mukc-fees__type-text">Student <span>(Includes Non-Melbourne Uni student)</span>
-                        </div>
-                    </div>
-                    <div class="mukc-fees__duration">
-                        <div>Single Session</div>
-                    </div>
-                    <div class="mukc-fees__cost"><span>$</span>15</div>
-                </div>
-
-                <!-- Non-Student Membership -->
-                <div class="mukc-fees__row">
-                    <div class="mukc-fees__type">
-                        <div class="mukc-fees__type-text">Non-Student</div>
-                    </div>
-                    <div class="mukc-fees__duration">
-                        <div>Single Semester</div>
-                    </div>
                     <div class="mukc-fees__cost"><span>$</span>140</div>
                 </div>
 
-                <div class="mukc-fees__row mukc-row-alt">
+                <!-- Full Year -->
+                <div class="mukc-fees__row">
                     <div class="mukc-fees__type">
-                        <div class="mukc-fees__type-text">Non-Student</div>
+                        <div class="mukc-fees__type-text">Full Year</div>
                     </div>
-                    <div class="mukc-fees__duration">
-                        <div>Full Year</div>
-                    </div>
+                    <div class="mukc-fees__cost"><span>$</span>175</div>
                     <div class="mukc-fees__cost"><span>$</span>255</div>
                 </div>
 
-                <div class="mukc-fees__row">
+                <!-- Single Session -->
+                <div class="mukc-fees__row mukc-row-alt">
                     <div class="mukc-fees__type">
-                        <div class="mukc-fees__type-text">Non-Student</div>
+                        <div class="mukc-fees__type-text">Single Session</div>
                     </div>
-                    <div class="mukc-fees__duration">
-                        <div>Single Session</div>
-                    </div>
+                    <div class="mukc-fees__cost"><span>$</span>15</div>
                     <div class="mukc-fees__cost"><span>$</span>25</div>
                 </div>
 
