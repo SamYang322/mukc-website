@@ -283,6 +283,29 @@ if ($custom_logo_id) {
             font-weight: 500;
         }
 
+        .journey-btn {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            background: transparent;
+            color: #ffffff;
+            border: 1px solid rgba(255, 255, 255, 0.4);
+            font-size: 0.85rem;
+            font-weight: 500;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 4px;
+            transition: all 0.2s ease;
+            margin-top: 10px;
+            width: fit-content;
+        }
+
+        .journey-btn:hover {
+            background: #ffffff;
+            color: #111111;
+            border-color: #ffffff;
+        }
+
         /* ── FOOTER ───────────────────────────────────── */
         .mukc-footer {
             background: #d9d8d0;
@@ -458,6 +481,7 @@ if ($custom_logo_id) {
                             <a href="#">Melbourne University Rhee Taekwondo</a> and
                             <a href="#">Melbourne University Wushu Kung Fu</a> clubs.
                         </p>
+                        <a href="https://forms.gle/YoazBbPkdhb9nR7cA" target="_blank" class="journey-btn">Register for Camp &rarr;</a>
                     </div>
                 </div>
 
@@ -472,6 +496,7 @@ if ($custom_logo_id) {
                             Each August, our club participates in the Lion Bushido Karate Tournament,
                             an opportunity to put our skills and the lessons from the past year to the test.
                         </p>
+                        <a href="#" class="journey-btn">Learn More &rarr;</a>
                     </div>
                 </div>
 
@@ -486,20 +511,22 @@ if ($custom_logo_id) {
                             We celebrate the Lunar New Year with dynamic karate demonstrations,
                             showcasing traditional kata and powerful techniques to the university community.
                         </p>
+                        <a href="#" class="journey-btn">Watch Highlights &rarr;</a>
                     </div>
                 </div>
 
                 <!-- Clubs Day -->
                 <div class="event-card">
-                    <div class="event-img-wrap">
-                        <img class="event-img" src="<?php echo esc_url($clubs_img); ?>" alt="Clubs Day">
-                    </div>
                     <div class="event-info">
+                        <div class="event-img-wrap">
+                            <img class="event-img" src="<?php echo esc_url($clubs_img); ?>" alt="Clubs Day">
+                        </div>
                         <h3 class="event-name">Clubs day</h3>
                         <p class="event-desc">
                             Every semester, we welcome new students at Clubs Day. It's the perfect
                             opportunity to meet the team, ask questions, and start your karate journey with us.
                         </p>
+                        <a href="/contact" class="journey-btn">How to Join &rarr;</a>
                     </div>
                 </div>
             </div>
@@ -521,7 +548,8 @@ if ($custom_logo_id) {
             </div>
         </div>
         <div class="mukc-footer__bottom">
-            <div class="mukc-footer__copy">&copy; 1997&ndash;2026 Melbourne University Karate Club<br>Reg. No. A0035839X<br>ABN 20 213 278 331</div>
+            <div class="mukc-footer__copy">&copy; 1997&ndash;2026 Melbourne University Karate Club<br>Reg. No.
+                A0035839X<br>ABN 20 213 278 331</div>
             <div class="mukc-footer__social">
                 <a href="https://www.youtube.com/@melbourneuniversitykarate" target="_blank" rel="noopener"
                     aria-label="YouTube">

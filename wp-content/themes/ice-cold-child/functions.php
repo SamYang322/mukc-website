@@ -38,7 +38,7 @@ add_action('wp_enqueue_scripts', 'mukc_front_page_nuke_assets', 9999);
 function mukc_front_page_nuke_assets()
 {
     // Runs on any MUKC custom page that manages its own styles
-    $is_custom_page = is_front_page() || is_page('about-mukc') || is_page('our-people');
+    $is_custom_page = is_front_page() || is_page('about-mukc') || is_page('our-people') || is_page('journey') || is_page('gear') || is_page('contact');
     if (!$is_custom_page) {
         return;
     }
