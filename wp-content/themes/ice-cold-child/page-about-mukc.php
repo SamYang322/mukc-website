@@ -665,8 +665,7 @@ if ($custom_logo_id) {
             content: '';
             position: absolute;
             top: 0;
-            left: 50%;
-            transform: translateX(-50%);
+            right: 4px;
             width: 6px;
             height: 100%;
             background: var(--stripe);
@@ -1204,7 +1203,7 @@ if ($custom_logo_id) {
 
                 <div class="mukc-grading__row">
                     <div class="mukc-grading__rank">
-                        <div class="mukc-grading__belt" style="--belt: #f1c40f; --stripe: #ffffff;"></div>
+                        <div class="mukc-grading__belt" style="--belt: #f1c40f; --stripe: #e67e22;"></div>
                         <div class="mukc-grading__rank-text">9th Kyu <span>Yellow Belt (Stripe)</span></div>
                     </div>
                     <div class="mukc-grading__criteria">
@@ -1229,7 +1228,7 @@ if ($custom_logo_id) {
 
                 <div class="mukc-grading__row">
                     <div class="mukc-grading__rank">
-                        <div class="mukc-grading__belt" style="--belt: #e67e22; --stripe: #ffffff;"></div>
+                        <div class="mukc-grading__belt" style="--belt: #e67e22; --stripe: #2ecc71;"></div>
                         <div class="mukc-grading__rank-text">7th Kyu <span>Orange Belt (Stripe)</span></div>
                     </div>
                     <div class="mukc-grading__criteria">
@@ -1256,7 +1255,7 @@ if ($custom_logo_id) {
 
                     <div class="mukc-grading__row">
                         <div class="mukc-grading__rank">
-                            <div class="mukc-grading__belt" style="--belt: #2ecc71; --stripe: #ffffff;"></div>
+                            <div class="mukc-grading__belt" style="--belt: #2ecc71; --stripe: #3498db;"></div>
                             <div class="mukc-grading__rank-text">5th Kyu <span>Green Belt (Stripe)</span></div>
                         </div>
                         <div class="mukc-grading__criteria">
@@ -1280,7 +1279,7 @@ if ($custom_logo_id) {
 
                     <div class="mukc-grading__row">
                         <div class="mukc-grading__rank">
-                            <div class="mukc-grading__belt" style="--belt: #3498db; --stripe: #ffffff;"></div>
+                            <div class="mukc-grading__belt" style="--belt: #3498db; --stripe: #8b4513;"></div>
                             <div class="mukc-grading__rank-text">3rd Kyu <span>Blue Belt (Stripe)</span></div>
                         </div>
                         <div class="mukc-grading__criteria">
@@ -1304,7 +1303,7 @@ if ($custom_logo_id) {
 
                     <div class="mukc-grading__row">
                         <div class="mukc-grading__rank">
-                            <div class="mukc-grading__belt" style="--belt: #8b4513; --stripe: #ffffff;"></div>
+                            <div class="mukc-grading__belt" style="--belt: #8b4513; --stripe: #111111;"></div>
                             <div class="mukc-grading__rank-text">1st Kyu <span>Brown Belt (Stripe)</span></div>
                         </div>
                         <div class="mukc-grading__criteria">
