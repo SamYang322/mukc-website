@@ -875,6 +875,27 @@ $jie_img = content_url('uploads/2026/02/FB_IMG_1740290134515.jpg');
             color: #ffffff;
         }
 
+        .mukc-whatson__btn {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            background: #ffffff;
+            color: #111111;
+            font-size: 0.95rem;
+            font-weight: 600;
+            padding: 14px 28px;
+            text-decoration: none;
+            border-radius: 4px;
+            transition: background 0.2s ease, transform 0.2s ease;
+            margin-top: 8px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+        }
+
+        .mukc-whatson__btn:hover {
+            background: #f0f0f0;
+            cursor: pointer;
+        }
+
         .mukc-whatson__cta {
             flex-shrink: 0;
             font-size: 1.8rem;
@@ -1155,7 +1176,7 @@ $jie_img = content_url('uploads/2026/02/FB_IMG_1740290134515.jpg');
             </div>
 
             <!-- Grading Fees Link -->
-            <div style="text-align: center; margin-top: 16px; margin-bottom: 32px;" class="mukc-reveal" data-delay="1">
+            <div style="text-align: left; margin-top: 16px; margin-bottom: 32px;" class="mukc-reveal" data-delay="1">
                 <a href="<?php echo esc_url(site_url('/about-mukc/#grading')); ?>" class="mukc-fees__btn">
                     View Grading Fees &rarr;
                 </a>
@@ -1184,10 +1205,9 @@ $jie_img = content_url('uploads/2026/02/FB_IMG_1740290134515.jpg');
                         Don&rsquo;t miss this opportunity to grow stronger &mdash; as martial artists
                         and as a&nbsp;community.
                     </p>
-                    <p>
-                        <a href="https://forms.gle/YoazBbPkdhb9nR7cA" target="_blank"
-                            style="color:#ffffff; font-weight:600; text-decoration:underline;">
-                            Register for the Easter Camp here →
+                    <p style="margin-top: 24px;">
+                        <a href="https://forms.gle/YoazBbPkdhb9nR7cA" target="_blank" class="mukc-whatson__btn">
+                            Register for the Easter Camp &rarr;
                         </a>
                     </p>
                 </div>
