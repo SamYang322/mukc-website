@@ -635,7 +635,7 @@ if ($custom_logo_id) {
             color: #ffffff;
             line-height: 1.4;
         }
-        
+
         .mukc-grading__rank span {
             display: block;
             font-size: 0.85rem;
@@ -653,7 +653,7 @@ if ($custom_logo_id) {
         .mukc-grading__criteria div {
             margin-bottom: 4px;
         }
-        
+
         .mukc-grading__criteria div:last-child {
             margin-bottom: 0;
         }
@@ -664,12 +664,63 @@ if ($custom_logo_id) {
             color: #ffffff;
             text-align: right;
         }
-        
+
         .mukc-grading__cost span {
             font-size: 0.8rem;
             font-weight: 400;
             color: rgba(255, 255, 255, 0.5);
             margin-right: 6px;
+        }
+
+        .mukc-grading__more {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+            max-height: 0;
+            overflow: hidden;
+            opacity: 0;
+            transition: max-height 0.6s ease, opacity 0.6s ease, padding 0.6s ease;
+        }
+
+        .mukc-grading__more.is-expanded {
+            max-height: 2500px;
+            opacity: 1;
+            padding-top: 12px;
+        }
+
+        .mukc-grading__toggle {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            color: #ffffff;
+            font-family: inherit;
+            font-size: 0.95rem;
+            font-weight: 600;
+            cursor: pointer;
+            padding: 14px 24px;
+            margin: 20px auto 0;
+            border-radius: 4px;
+            transition: all 0.2s ease;
+            width: 100%;
+            max-width: 300px;
+        }
+
+        .mukc-grading__toggle:hover {
+            background: rgba(255, 255, 255, 0.1);
+        }
+
+        .mukc-grading__toggle svg {
+            width: 20px;
+            height: 20px;
+            fill: currentColor;
+            transition: transform 0.3s ease;
+        }
+
+        .mukc-grading__toggle[aria-expanded="true"] svg {
+            transform: rotate(180deg);
         }
 
         .mukc-grading__note {
@@ -683,19 +734,23 @@ if ($custom_logo_id) {
             .mukc-grading__header {
                 display: none;
             }
+
             .mukc-grading__row {
                 grid-template-columns: 1fr;
                 gap: 16px;
                 padding: 24px;
             }
+
             .mukc-grading__cost {
                 text-align: left;
                 padding-top: 12px;
-                border-top: 1px solid rgba(255,255,255,0.05);
+                border-top: 1px solid rgba(255, 255, 255, 0.05);
             }
+
             .mukc-grading__cost span {
                 display: none;
             }
+
             .mukc-grading__cost::before {
                 content: 'Fee: $';
                 font-size: 1.15rem;
@@ -1088,16 +1143,18 @@ if ($custom_logo_id) {
      ══════════════════════════════════════════════ -->
     <section class="mukc-section" style="background: #111111;">
         <div class="mukc-container">
-            <div class="mukc-text-block">
+            <div class="mukc-text-block" style="max-width: 800px; margin-bottom: 40px;">
                 <h2 class="mukc-heading">Grading</h2>
-                <p class="mukc-body" style="font-size: 1rem; margin-bottom: 12px;">
-                    Gradings are held to assess students' progress and award new ranks.
+                <p class="mukc-body" style="font-size: 0.95rem; line-height: 1.7; margin-bottom: 12px;">
+                    Gradings are held to assess students' progress and award new ranks.<br>
+                    The specific requirements for each belt level differ, however, for all gradings it is expected you
+                    perform kata and applications (bunkai).<br>
                     Below are the criteria and fees for each grade.
                 </p>
             </div>
 
             <div class="mukc-grading__list">
-                
+
                 <div class="mukc-grading__header">
                     <div>Rank</div>
                     <div>Criteria</div>
@@ -1126,7 +1183,8 @@ if ($custom_logo_id) {
                     <div class="mukc-grading__rank">8th Kyu <span>Orange Belt</span></div>
                     <div class="mukc-grading__criteria">
                         <div><strong>Kata:</strong> 5th &amp; 6th Kata Taikyokyu</div>
-                        <div><strong>Bunkai:</strong> 4 applications from each kata + continuous free flow of 6th kata applications</div>
+                        <div><strong>Bunkai:</strong> 4 applications from each kata + continuous free flow of 6th kata
+                            applications</div>
                     </div>
                     <div class="mukc-grading__cost"><span>$</span>55</div>
                 </div>
@@ -1140,70 +1198,82 @@ if ($custom_logo_id) {
                     <div class="mukc-grading__cost"><span>$</span>60</div>
                 </div>
 
-                <div class="mukc-grading__row">
-                    <div class="mukc-grading__rank">6th Kyu <span>Green Belt</span></div>
-                    <div class="mukc-grading__criteria">
-                        <div><strong>Kata:</strong> Pinan 1 (sho)</div>
-                        <div><strong>Bunkai:</strong> 8 applications from the kata + continuous free flow</div>
-                    </div>
-                    <div class="mukc-grading__cost"><span>$</span>65</div>
-                </div>
+                <!-- Hidden Ranks Wrapper -->
+                <div class="mukc-grading__more" id="gradingMore">
 
-                <div class="mukc-grading__row">
-                    <div class="mukc-grading__rank">5th Kyu <span>Green Belt (Stripe)</span></div>
-                    <div class="mukc-grading__criteria">
-                        <div><strong>Kata:</strong> Tensho</div>
-                        <div><strong>Bunkai:</strong> 8 applications from the kata + continuous free flow</div>
+                    <div class="mukc-grading__row">
+                        <div class="mukc-grading__rank">6th Kyu <span>Green Belt</span></div>
+                        <div class="mukc-grading__criteria">
+                            <div><strong>Kata:</strong> Pinan 1 (sho)</div>
+                            <div><strong>Bunkai:</strong> 8 applications from the kata + continuous free flow</div>
+                        </div>
+                        <div class="mukc-grading__cost"><span>$</span>65</div>
                     </div>
-                    <div class="mukc-grading__cost"><span>$</span>70</div>
-                </div>
 
-                <div class="mukc-grading__row">
-                    <div class="mukc-grading__rank">4th Kyu <span>Blue Belt</span></div>
-                    <div class="mukc-grading__criteria">
-                        <div><strong>Kata:</strong> Pinan 3 (sandan)</div>
-                        <div><strong>Bunkai:</strong> 8 applications from the kata + continuous free flow</div>
+                    <div class="mukc-grading__row">
+                        <div class="mukc-grading__rank">5th Kyu <span>Green Belt (Stripe)</span></div>
+                        <div class="mukc-grading__criteria">
+                            <div><strong>Kata:</strong> Tensho</div>
+                            <div><strong>Bunkai:</strong> 8 applications from the kata + continuous free flow</div>
+                        </div>
+                        <div class="mukc-grading__cost"><span>$</span>70</div>
                     </div>
-                    <div class="mukc-grading__cost"><span>$</span>75</div>
-                </div>
 
-                <div class="mukc-grading__row">
-                    <div class="mukc-grading__rank">3rd Kyu <span>Blue Belt (Stripe)</span></div>
-                    <div class="mukc-grading__criteria">
-                        <div><strong>Kata:</strong> Pinan 4 (yondan)</div>
-                        <div><strong>Bunkai:</strong> 8 applications from the kata + continuous free flow</div>
+                    <div class="mukc-grading__row">
+                        <div class="mukc-grading__rank">4th Kyu <span>Blue Belt</span></div>
+                        <div class="mukc-grading__criteria">
+                            <div><strong>Kata:</strong> Pinan 3 (sandan)</div>
+                            <div><strong>Bunkai:</strong> 8 applications from the kata + continuous free flow</div>
+                        </div>
+                        <div class="mukc-grading__cost"><span>$</span>75</div>
                     </div>
-                    <div class="mukc-grading__cost"><span>$</span>80</div>
-                </div>
 
-                <div class="mukc-grading__row">
-                    <div class="mukc-grading__rank">2nd Kyu <span>Brown Belt</span></div>
-                    <div class="mukc-grading__criteria">
-                        <div><strong>Kata:</strong> Pinan 5 (godan)</div>
-                        <div><strong>Bunkai:</strong> 8 applications from the kata + continuous free flow</div>
+                    <div class="mukc-grading__row">
+                        <div class="mukc-grading__rank">3rd Kyu <span>Blue Belt (Stripe)</span></div>
+                        <div class="mukc-grading__criteria">
+                            <div><strong>Kata:</strong> Pinan 4 (yondan)</div>
+                            <div><strong>Bunkai:</strong> 8 applications from the kata + continuous free flow</div>
+                        </div>
+                        <div class="mukc-grading__cost"><span>$</span>80</div>
                     </div>
-                    <div class="mukc-grading__cost"><span>$</span>85</div>
-                </div>
 
-                <div class="mukc-grading__row">
-                    <div class="mukc-grading__rank">1st Kyu <span>Brown Belt (Stripe)</span></div>
-                    <div class="mukc-grading__criteria">
-                        <div><strong>Kata:</strong> Naifanchi 1</div>
-                        <div><strong>Bunkai:</strong> 8 applications from the kata + continuous free flow</div>
+                    <div class="mukc-grading__row">
+                        <div class="mukc-grading__rank">2nd Kyu <span>Brown Belt</span></div>
+                        <div class="mukc-grading__criteria">
+                            <div><strong>Kata:</strong> Pinan 5 (godan)</div>
+                            <div><strong>Bunkai:</strong> 8 applications from the kata + continuous free flow</div>
+                        </div>
+                        <div class="mukc-grading__cost"><span>$</span>85</div>
                     </div>
-                    <div class="mukc-grading__cost"><span>$</span>90</div>
-                </div>
 
-                <div class="mukc-grading__row">
-                    <div class="mukc-grading__rank">1st Dan <span>Black Belt *</span></div>
-                    <div class="mukc-grading__criteria">
-                        <div><strong>Kata:</strong> All previous kata</div>
-                        <div><strong>Bunkai:</strong> Applications from each kata</div>
+                    <div class="mukc-grading__row">
+                        <div class="mukc-grading__rank">1st Kyu <span>Brown Belt (Stripe)</span></div>
+                        <div class="mukc-grading__criteria">
+                            <div><strong>Kata:</strong> Naifanchi 1</div>
+                            <div><strong>Bunkai:</strong> 8 applications from the kata + continuous free flow</div>
+                        </div>
+                        <div class="mukc-grading__cost"><span>$</span>90</div>
                     </div>
-                    <div class="mukc-grading__cost"><span>$</span>95</div>
-                </div>
+
+                    <div class="mukc-grading__row">
+                        <div class="mukc-grading__rank">1st Dan <span>Black Belt *</span></div>
+                        <div class="mukc-grading__criteria">
+                            <div><strong>Kata:</strong> All previous kata</div>
+                            <div><strong>Bunkai:</strong> Applications from each kata</div>
+                        </div>
+                        <div class="mukc-grading__cost"><span>$</span>95</div>
+                    </div>
+
+                </div> <!-- End Hidden Ranks Wrapper -->
 
             </div>
+
+            <button class="mukc-grading__toggle" id="gradingToggle" aria-expanded="false" aria-controls="gradingMore">
+                <span>Show all ranks</span>
+                <svg viewBox="0 0 24 24">
+                    <path d="M7 10l5 5 5-5z" />
+                </svg>
+            </button>
 
             <p class="mukc-grading__note">
                 * Note: For Black Belt, there is an additional assessment such as sparring.
@@ -1315,20 +1385,34 @@ if ($custom_logo_id) {
 
             if (historyToggle && historyMore) {
                 historyToggle.addEventListener('click', function () {
-                    const isExpanded = historyToggle.classList.contains('is-expanded');
+                    const isExpanded = historyToggle.getAttribute('aria-expanded') === 'true';
+                    historyToggle.setAttribute('aria-expanded', !isExpanded);
+                    historyMore.classList.toggle('is-expanded');
 
+                    const span = historyToggle.querySelector('span');
                     if (isExpanded) {
-                        // Collapse
-                        historyToggle.classList.remove('is-expanded');
-                        historyMore.classList.remove('is-expanded');
-                        historyToggle.setAttribute('aria-expanded', 'false');
-                        historyToggle.querySelector('span').textContent = 'Read more';
+                        span.textContent = 'Read more';
                     } else {
-                        // Expand
-                        historyToggle.classList.add('is-expanded');
-                        historyMore.classList.add('is-expanded');
-                        historyToggle.setAttribute('aria-expanded', 'true');
-                        historyToggle.querySelector('span').textContent = 'Read less';
+                        span.textContent = 'Show less';
+                    }
+                });
+            }
+
+            // Grading Toggle Logic
+            const gradingToggle = document.getElementById('gradingToggle');
+            const gradingMore = document.getElementById('gradingMore');
+
+            if (gradingToggle && gradingMore) {
+                gradingToggle.addEventListener('click', function () {
+                    const isExpanded = gradingToggle.getAttribute('aria-expanded') === 'true';
+                    gradingToggle.setAttribute('aria-expanded', !isExpanded);
+                    gradingMore.classList.toggle('is-expanded');
+
+                    const span = gradingToggle.querySelector('span');
+                    if (isExpanded) {
+                        span.textContent = 'Show all ranks';
+                    } else {
+                        span.textContent = 'Show less';
                     }
                 });
             }
