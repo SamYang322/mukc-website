@@ -525,32 +525,78 @@ $jie_img = content_url('uploads/2026/02/FB_IMG_1740290134515.jpg');
             letter-spacing: -0.01em;
         }
 
-        .mukc-fees__grid {
+        .mukc-fees__list {
+            display: flex;
+            flex-direction: column;
+            width: 100%;
+        }
+
+        .mukc-fees__header {
             display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            gap: 40px;
-        }
-
-        .mukc-fees__col h3 {
-            font-size: 1rem;
+            grid-template-columns: 2fr 1.5fr 1fr;
+            gap: 20px;
+            padding: 0 20px 12px;
+            border-bottom: 2px solid #e0e0e0;
+            font-size: 0.85rem;
             font-weight: 700;
-            color: #111111;
-            margin-bottom: 16px;
-        }
-
-        .mukc-fees__col p {
-            font-size: 0.9rem;
-            color: #333333;
-            line-height: 1.75;
-        }
-
-        .mukc-fees__col p strong {
-            font-weight: 700;
-            color: #111111;
-        }
-
-        .mukc-fees__col p .sub {
             color: #555555;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        .mukc-fees__row {
+            display: grid;
+            grid-template-columns: 2fr 1.5fr 1fr;
+            gap: 20px;
+            padding: 24px 20px;
+            border-bottom: 1px solid #f0f0f0;
+            align-items: center;
+            transition: background 0.2s ease;
+        }
+
+        .mukc-fees__row.mukc-row-alt {
+            background: #fafafa;
+        }
+
+        .mukc-fees__row:hover {
+            background: #f4f4f4;
+        }
+
+        .mukc-fees__type-text {
+            font-size: 1.1rem;
+            font-weight: 700;
+            color: #111111;
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+        }
+
+        .mukc-fees__type-text span {
+            font-size: 0.8rem;
+            font-weight: 400;
+            color: #666666;
+        }
+
+        .mukc-fees__duration {
+            font-size: 0.95rem;
+            color: #333333;
+            font-weight: 500;
+        }
+
+        .mukc-fees__cost {
+            font-size: 1.4rem;
+            font-weight: 800;
+            color: #111111;
+            text-align: right;
+            font-feature-settings: "tnum";
+            font-variant-numeric: tabular-nums;
+        }
+
+        .mukc-fees__cost span {
+            font-size: 0.9rem;
+            color: #666666;
+            margin-right: 2px;
+            vertical-align: super;
         }
 
         /* Responsive for new sections */
@@ -566,9 +612,20 @@ $jie_img = content_url('uploads/2026/02/FB_IMG_1740290134515.jpg');
                 gap: 32px;
             }
 
-            .mukc-fees__grid {
+            .mukc-fees__header {
+                display: none;
+            }
+
+            .mukc-fees__row {
                 grid-template-columns: 1fr;
-                gap: 28px;
+                gap: 12px;
+                padding: 20px 16px;
+            }
+
+            .mukc-fees__cost {
+                text-align: left;
+                font-size: 1.2rem;
+                margin-top: 4px;
             }
         }
 
@@ -1042,34 +1099,77 @@ $jie_img = content_url('uploads/2026/02/FB_IMG_1740290134515.jpg');
         <div class="mukc-fees__inner">
             <h2 class="mukc-reveal">Membership fees</h2>
 
-            <div class="mukc-fees__grid">
+            <div class="mukc-fees__list mukc-reveal" data-delay="1">
 
-                <!-- Single Semester -->
-                <div class="mukc-fees__col mukc-reveal" data-delay="1">
-                    <h3>Single Semester</h3>
-                    <p>
-                        <strong>$100</strong> – Student Membership<br>
-                        <span class="sub">(Includes Non-Melbourne Uni student)</span><br>
-                        <strong>$140</strong> – Non-student Membership
-                    </p>
+                <div class="mukc-fees__header">
+                    <div>Membership Type</div>
+                    <div>Duration</div>
+                    <div style="text-align: right;">Cost</div>
                 </div>
 
-                <!-- Full Year -->
-                <div class="mukc-fees__col mukc-reveal" data-delay="2">
-                    <h3>Full Year</h3>
-                    <p>
-                        <strong>$175</strong> – Student Membership<br>
-                        <strong>$255</strong> – Non-student Membership
-                    </p>
+                <!-- Student Membership -->
+                <div class="mukc-fees__row mukc-row-alt">
+                    <div class="mukc-fees__type">
+                        <div class="mukc-fees__type-text">Student <span>(Includes Non-Melbourne Uni student)</span>
+                        </div>
+                    </div>
+                    <div class="mukc-fees__duration">
+                        <div>Single Semester</div>
+                    </div>
+                    <div class="mukc-fees__cost"><span>$</span>100</div>
                 </div>
 
-                <!-- Single Session -->
-                <div class="mukc-fees__col mukc-reveal" data-delay="3">
-                    <h3>Single Session</h3>
-                    <p>
-                        <strong>$15</strong> – Student Membership<br>
-                        <strong>$25</strong> – Non-student Membership
-                    </p>
+                <div class="mukc-fees__row">
+                    <div class="mukc-fees__type">
+                        <div class="mukc-fees__type-text">Student <span>(Includes Non-Melbourne Uni student)</span>
+                        </div>
+                    </div>
+                    <div class="mukc-fees__duration">
+                        <div>Full Year</div>
+                    </div>
+                    <div class="mukc-fees__cost"><span>$</span>175</div>
+                </div>
+
+                <div class="mukc-fees__row mukc-row-alt">
+                    <div class="mukc-fees__type">
+                        <div class="mukc-fees__type-text">Student <span>(Includes Non-Melbourne Uni student)</span>
+                        </div>
+                    </div>
+                    <div class="mukc-fees__duration">
+                        <div>Single Session</div>
+                    </div>
+                    <div class="mukc-fees__cost"><span>$</span>15</div>
+                </div>
+
+                <!-- Non-Student Membership -->
+                <div class="mukc-fees__row">
+                    <div class="mukc-fees__type">
+                        <div class="mukc-fees__type-text">Non-Student</div>
+                    </div>
+                    <div class="mukc-fees__duration">
+                        <div>Single Semester</div>
+                    </div>
+                    <div class="mukc-fees__cost"><span>$</span>140</div>
+                </div>
+
+                <div class="mukc-fees__row mukc-row-alt">
+                    <div class="mukc-fees__type">
+                        <div class="mukc-fees__type-text">Non-Student</div>
+                    </div>
+                    <div class="mukc-fees__duration">
+                        <div>Full Year</div>
+                    </div>
+                    <div class="mukc-fees__cost"><span>$</span>255</div>
+                </div>
+
+                <div class="mukc-fees__row">
+                    <div class="mukc-fees__type">
+                        <div class="mukc-fees__type-text">Non-Student</div>
+                    </div>
+                    <div class="mukc-fees__duration">
+                        <div>Single Session</div>
+                    </div>
+                    <div class="mukc-fees__cost"><span>$</span>25</div>
                 </div>
 
             </div>
