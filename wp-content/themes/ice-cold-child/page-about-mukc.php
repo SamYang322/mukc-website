@@ -630,18 +630,47 @@ if ($custom_logo_id) {
         }
 
         .mukc-grading__rank {
+            display: flex;
+            align-items: flex-start;
+            gap: 16px;
+        }
+
+        .mukc-grading__rank-text {
             font-size: 1.1rem;
             font-weight: 700;
             color: #ffffff;
             line-height: 1.4;
         }
 
-        .mukc-grading__rank span {
+        .mukc-grading__rank-text span {
             display: block;
             font-size: 0.85rem;
             color: rgba(255, 255, 255, 0.6);
             font-weight: 400;
             margin-top: 4px;
+        }
+
+        .mukc-grading__belt {
+            width: 28px;
+            height: 16px;
+            background: var(--belt);
+            border-radius: 2px;
+            position: relative;
+            margin-top: 4px;
+            flex-shrink: 0;
+            box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.15);
+        }
+
+        .mukc-grading__belt::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 6px;
+            height: 100%;
+            background: var(--stripe);
+            display: block;
         }
 
         .mukc-grading__criteria {
@@ -1162,7 +1191,10 @@ if ($custom_logo_id) {
                 </div>
 
                 <div class="mukc-grading__row">
-                    <div class="mukc-grading__rank">10th Kyu <span>Yellow Belt</span></div>
+                    <div class="mukc-grading__rank">
+                        <div class="mukc-grading__belt" style="--belt: #f1c40f; --stripe: transparent;"></div>
+                        <div class="mukc-grading__rank-text">10th Kyu <span>Yellow Belt</span></div>
+                    </div>
                     <div class="mukc-grading__criteria">
                         <div><strong>Kata:</strong> 1st &amp; 2nd Kata Taikyokyu</div>
                         <div><strong>Bunkai:</strong> 2 applications from each kata</div>
@@ -1171,7 +1203,10 @@ if ($custom_logo_id) {
                 </div>
 
                 <div class="mukc-grading__row">
-                    <div class="mukc-grading__rank">9th Kyu <span>Yellow Belt (Stripe)</span></div>
+                    <div class="mukc-grading__rank">
+                        <div class="mukc-grading__belt" style="--belt: #f1c40f; --stripe: #ffffff;"></div>
+                        <div class="mukc-grading__rank-text">9th Kyu <span>Yellow Belt (Stripe)</span></div>
+                    </div>
                     <div class="mukc-grading__criteria">
                         <div><strong>Kata:</strong> 3rd &amp; 4th Kata Taikyokyu</div>
                         <div><strong>Bunkai:</strong> 4 applications from each kata</div>
@@ -1180,7 +1215,10 @@ if ($custom_logo_id) {
                 </div>
 
                 <div class="mukc-grading__row">
-                    <div class="mukc-grading__rank">8th Kyu <span>Orange Belt</span></div>
+                    <div class="mukc-grading__rank">
+                        <div class="mukc-grading__belt" style="--belt: #e67e22; --stripe: transparent;"></div>
+                        <div class="mukc-grading__rank-text">8th Kyu <span>Orange Belt</span></div>
+                    </div>
                     <div class="mukc-grading__criteria">
                         <div><strong>Kata:</strong> 5th &amp; 6th Kata Taikyokyu</div>
                         <div><strong>Bunkai:</strong> 4 applications from each kata + continuous free flow of 6th kata
@@ -1190,7 +1228,10 @@ if ($custom_logo_id) {
                 </div>
 
                 <div class="mukc-grading__row">
-                    <div class="mukc-grading__rank">7th Kyu <span>Orange Belt (Stripe)</span></div>
+                    <div class="mukc-grading__rank">
+                        <div class="mukc-grading__belt" style="--belt: #e67e22; --stripe: #ffffff;"></div>
+                        <div class="mukc-grading__rank-text">7th Kyu <span>Orange Belt (Stripe)</span></div>
+                    </div>
                     <div class="mukc-grading__criteria">
                         <div><strong>Kata:</strong> Pinan 2 (ni)</div>
                         <div><strong>Bunkai:</strong> 8 applications from the kata + continuous free flow</div>
@@ -1202,7 +1243,10 @@ if ($custom_logo_id) {
                 <div class="mukc-grading__more" id="gradingMore">
 
                     <div class="mukc-grading__row">
-                        <div class="mukc-grading__rank">6th Kyu <span>Green Belt</span></div>
+                        <div class="mukc-grading__rank">
+                            <div class="mukc-grading__belt" style="--belt: #2ecc71; --stripe: transparent;"></div>
+                            <div class="mukc-grading__rank-text">6th Kyu <span>Green Belt</span></div>
+                        </div>
                         <div class="mukc-grading__criteria">
                             <div><strong>Kata:</strong> Pinan 1 (sho)</div>
                             <div><strong>Bunkai:</strong> 8 applications from the kata + continuous free flow</div>
@@ -1211,7 +1255,10 @@ if ($custom_logo_id) {
                     </div>
 
                     <div class="mukc-grading__row">
-                        <div class="mukc-grading__rank">5th Kyu <span>Green Belt (Stripe)</span></div>
+                        <div class="mukc-grading__rank">
+                            <div class="mukc-grading__belt" style="--belt: #2ecc71; --stripe: #ffffff;"></div>
+                            <div class="mukc-grading__rank-text">5th Kyu <span>Green Belt (Stripe)</span></div>
+                        </div>
                         <div class="mukc-grading__criteria">
                             <div><strong>Kata:</strong> Tensho</div>
                             <div><strong>Bunkai:</strong> 8 applications from the kata + continuous free flow</div>
@@ -1220,7 +1267,10 @@ if ($custom_logo_id) {
                     </div>
 
                     <div class="mukc-grading__row">
-                        <div class="mukc-grading__rank">4th Kyu <span>Blue Belt</span></div>
+                        <div class="mukc-grading__rank">
+                            <div class="mukc-grading__belt" style="--belt: #3498db; --stripe: transparent;"></div>
+                            <div class="mukc-grading__rank-text">4th Kyu <span>Blue Belt</span></div>
+                        </div>
                         <div class="mukc-grading__criteria">
                             <div><strong>Kata:</strong> Pinan 3 (sandan)</div>
                             <div><strong>Bunkai:</strong> 8 applications from the kata + continuous free flow</div>
@@ -1229,7 +1279,10 @@ if ($custom_logo_id) {
                     </div>
 
                     <div class="mukc-grading__row">
-                        <div class="mukc-grading__rank">3rd Kyu <span>Blue Belt (Stripe)</span></div>
+                        <div class="mukc-grading__rank">
+                            <div class="mukc-grading__belt" style="--belt: #3498db; --stripe: #ffffff;"></div>
+                            <div class="mukc-grading__rank-text">3rd Kyu <span>Blue Belt (Stripe)</span></div>
+                        </div>
                         <div class="mukc-grading__criteria">
                             <div><strong>Kata:</strong> Pinan 4 (yondan)</div>
                             <div><strong>Bunkai:</strong> 8 applications from the kata + continuous free flow</div>
@@ -1238,7 +1291,10 @@ if ($custom_logo_id) {
                     </div>
 
                     <div class="mukc-grading__row">
-                        <div class="mukc-grading__rank">2nd Kyu <span>Brown Belt</span></div>
+                        <div class="mukc-grading__rank">
+                            <div class="mukc-grading__belt" style="--belt: #8b4513; --stripe: transparent;"></div>
+                            <div class="mukc-grading__rank-text">2nd Kyu <span>Brown Belt</span></div>
+                        </div>
                         <div class="mukc-grading__criteria">
                             <div><strong>Kata:</strong> Pinan 5 (godan)</div>
                             <div><strong>Bunkai:</strong> 8 applications from the kata + continuous free flow</div>
@@ -1247,7 +1303,10 @@ if ($custom_logo_id) {
                     </div>
 
                     <div class="mukc-grading__row">
-                        <div class="mukc-grading__rank">1st Kyu <span>Brown Belt (Stripe)</span></div>
+                        <div class="mukc-grading__rank">
+                            <div class="mukc-grading__belt" style="--belt: #8b4513; --stripe: #ffffff;"></div>
+                            <div class="mukc-grading__rank-text">1st Kyu <span>Brown Belt (Stripe)</span></div>
+                        </div>
                         <div class="mukc-grading__criteria">
                             <div><strong>Kata:</strong> Naifanchi 1</div>
                             <div><strong>Bunkai:</strong> 8 applications from the kata + continuous free flow</div>
@@ -1256,10 +1315,16 @@ if ($custom_logo_id) {
                     </div>
 
                     <div class="mukc-grading__row">
-                        <div class="mukc-grading__rank">1st Dan <span>Black Belt *</span></div>
+                        <div class="mukc-grading__rank">
+                            <div class="mukc-grading__belt" style="--belt: #111111; --stripe: transparent;"></div>
+                            <div class="mukc-grading__rank-text">1st Dan <span>Black Belt</span></div>
+                        </div>
                         <div class="mukc-grading__criteria">
                             <div><strong>Kata:</strong> All previous kata</div>
                             <div><strong>Bunkai:</strong> Applications from each kata</div>
+                            <div style="margin-top: 12px; font-size: 0.85rem; color: rgba(255, 255, 255, 0.6);">
+                                * Note: For Black Belt, there is an additional assessment such as sparring.
+                            </div>
                         </div>
                         <div class="mukc-grading__cost"><span>$</span>95</div>
                     </div>
@@ -1274,10 +1339,6 @@ if ($custom_logo_id) {
                     <path d="M7 10l5 5 5-5z" />
                 </svg>
             </button>
-
-            <p class="mukc-grading__note">
-                * Note: For Black Belt, there is an additional assessment such as sparring.
-            </p>
 
         </div>
     </section>
