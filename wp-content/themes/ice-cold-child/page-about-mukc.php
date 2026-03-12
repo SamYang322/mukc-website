@@ -951,7 +951,8 @@ if ($custom_logo_id) {
             <div class="wwp-grid">
                 <div class="mukc-text-block">
                     <h1 class="mukc-heading">What We Practice</h1>
-                    <h2 class="mukc-body" style="font-size: 1.25rem; font-weight: 600; color: #ffffff; margin-bottom: 24px;">
+                    <h2
+                        style="font-size: 1.3rem; font-weight: 600; color: #ffffff; border-left: 4px solid #ffffff; padding-left: 20px; margin-bottom: 32px; line-height: 1.3;">
                         A Modern Evolution of Traditional Karate
                     </h2>
                     <p class="mukc-lead">
