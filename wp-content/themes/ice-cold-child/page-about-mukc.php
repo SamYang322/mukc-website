@@ -301,6 +301,33 @@ if ($custom_logo_id) {
             color: #ffffff;
         }
 
+        .mukc-jump-btn {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+            padding: 14px 28px;
+            background: #ffffff;
+            color: #111111;
+            font-size: 0.95rem;
+            font-weight: 700;
+            text-decoration: none;
+            border-radius: 4px;
+            margin-top: 24px;
+            transition: all 0.3s ease;
+        }
+
+        .mukc-jump-btn:hover {
+            background: #e0e0e0;
+            transform: translateY(-2px);
+        }
+        
+        .mukc-jump-btn svg {
+            width: 16px;
+            height: 16px;
+            fill: currentColor;
+        }
+
         /* ── HISTORY TOGGLE ─────────────────────────── */
         .history-more-content {
             display: none;
@@ -971,6 +998,10 @@ if ($custom_logo_id) {
                         social events, making the club a place to grow, challenge yourself, and
                         train&nbsp;with&nbsp;friends.
                     </p>
+                    <a href="#grading" class="mukc-jump-btn">
+                        Skip to Grading &amp; Fees
+                        <svg viewBox="0 0 24 24"><path d="M12 16l-6-6h12z"/></svg>
+                    </a>
                 </div>
                 <!-- Right: Shotokan symbol (uploaded image) -->
                 <div class="wwp-symbol">
@@ -1167,9 +1198,9 @@ if ($custom_logo_id) {
     </section>
 
     <!-- ══════════════════════════════════════════════
-     SECTION 6 — GRADING
+     SECTION 6: GRADING
      ══════════════════════════════════════════════ -->
-    <section class="mukc-section" style="background: #111111;">
+    <section class="mukc-section" style="background: #111111;" id="grading">
         <div class="mukc-container">
             <div class="mukc-text-block" style="max-width: 800px; margin-bottom: 40px;">
                 <h2 class="mukc-heading">Grading</h2>
