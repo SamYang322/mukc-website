@@ -1174,9 +1174,9 @@ if ($custom_logo_id) {
             <div class="mukc-text-block" style="max-width: 800px; margin-bottom: 40px;">
                 <h2 class="mukc-heading">Grading</h2>
                 <p class="mukc-body" style="font-size: 0.95rem; line-height: 1.7; margin-bottom: 12px;">
-                    Gradings are held to assess students' progress and award new ranks.<br>
-                    The specific requirements for each belt level differ, however, for all gradings it is expected you
-                    perform kata and applications (bunkai).<br>
+                    Gradings are held to assess students' progress and award new ranks. The specific requirements for
+                    each belt level differ, however, for all gradings it is expected you perform kata and applications
+                    (bunkai).<br>
                     Below are the criteria and fees for each grade.
                 </p>
             </div>
