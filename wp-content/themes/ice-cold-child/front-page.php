@@ -879,20 +879,21 @@ $jie_img = content_url('uploads/2026/02/FB_IMG_1740290134515.jpg');
             display: inline-flex;
             align-items: center;
             justify-content: center;
-            background: #ffffff;
-            color: #111111;
+            background: transparent;
+            color: #ffffff;
+            border: 2px solid #ffffff;
             font-size: 0.95rem;
             font-weight: 600;
-            padding: 14px 28px;
+            padding: 12px 26px;
             text-decoration: none;
             border-radius: 4px;
-            transition: background 0.2s ease, transform 0.2s ease;
+            transition: all 0.2s ease;
             margin-top: 8px;
-            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
         }
 
         .mukc-whatson__btn:hover {
-            background: #f0f0f0;
+            background: #ffffff;
+            color: #111111;
             cursor: pointer;
         }
 
