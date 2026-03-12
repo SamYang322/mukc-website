@@ -603,6 +603,28 @@ $jie_img = content_url('uploads/2026/02/FB_IMG_1740290134515.jpg');
             line-height: 1.75;
         }
 
+        .mukc-fees__btn {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            background: #111111;
+            color: #ffffff;
+            font-size: 0.95rem;
+            font-weight: 600;
+            padding: 14px 28px;
+            text-decoration: none;
+            border-radius: 4px;
+            transition: background 0.2s ease;
+            margin-top: 24px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+        }
+
+        .mukc-fees__btn:hover {
+            background: #333333;
+            color: #ffffff;
+            cursor: pointer;
+        }
+
         .mukc-welcome__cta {
             font-size: 1.3rem;
             font-weight: 600;
@@ -748,12 +770,10 @@ $jie_img = content_url('uploads/2026/02/FB_IMG_1740290134515.jpg');
         .mukc-whatson__overlay {
             position: absolute;
             inset: 0;
-            background: linear-gradient(
-                to right,
-                rgba(0, 0, 0, 0.65) 0%,
-                rgba(0, 0, 0, 0.30) 55%,
-                rgba(0, 0, 0, 0.05) 100%
-            );
+            background: linear-gradient(to right,
+                    rgba(0, 0, 0, 0.65) 0%,
+                    rgba(0, 0, 0, 0.30) 55%,
+                    rgba(0, 0, 0, 0.05) 100%);
         }
 
         .mukc-whatson__inner {
@@ -866,6 +886,7 @@ $jie_img = content_url('uploads/2026/02/FB_IMG_1740290134515.jpg');
                 text-align: left;
             }
         }
+
         /* ================================================
            SCROLL FADE-IN
            ================================================ */
@@ -881,9 +902,17 @@ $jie_img = content_url('uploads/2026/02/FB_IMG_1740290134515.jpg');
         }
 
         /* Stagger children within a section */
-        .mukc-reveal[data-delay="1"] { transition-delay: 0.12s; }
-        .mukc-reveal[data-delay="2"] { transition-delay: 0.24s; }
-        .mukc-reveal[data-delay="3"] { transition-delay: 0.36s; }
+        .mukc-reveal[data-delay="1"] {
+            transition-delay: 0.12s;
+        }
+
+        .mukc-reveal[data-delay="2"] {
+            transition-delay: 0.24s;
+        }
+
+        .mukc-reveal[data-delay="3"] {
+            transition-delay: 0.36s;
+        }
 
         /* Respect reduced motion preference */
         @media (prefers-reduced-motion: reduce) {
@@ -1053,13 +1082,21 @@ $jie_img = content_url('uploads/2026/02/FB_IMG_1740290134515.jpg');
                         <strong>You belong here.</strong><br>
                         Our doors are open to everyone.
                     </p>
-                    <p class="mukc-welcome__cta">Come along and try it out. Your first two lessons will be&nbsp;free!</p>
+                    <p class="mukc-welcome__cta">Come along and try it out. Your first two lessons will be&nbsp;free!
+                    </p>
                 </div>
                 <div class="mukc-welcome__bank">
                     <strong>Melbourne University Karate Club</strong>
                     BSB: 083-170<br>
                     ACC: 51-561-4159
                 </div>
+            </div>
+
+            <!-- Grading Fees Link -->
+            <div style="text-align: center; margin-top: 16px; margin-bottom: 32px;" class="mukc-reveal" data-delay="1">
+                <a href="<?php echo esc_url(site_url('/about-mukc/#grading')); ?>" class="mukc-fees__btn">
+                    View Grading Fees &rarr;
+                </a>
             </div>
 
         </div>
@@ -1086,7 +1123,8 @@ $jie_img = content_url('uploads/2026/02/FB_IMG_1740290134515.jpg');
                         and as a&nbsp;community.
                     </p>
                     <p>
-                        <a href="https://forms.gle/YoazBbPkdhb9nR7cA" target="_blank" style="color:#ffffff; font-weight:600; text-decoration:underline;">
+                        <a href="https://forms.gle/YoazBbPkdhb9nR7cA" target="_blank"
+                            style="color:#ffffff; font-weight:600; text-decoration:underline;">
                             Register for the Easter Camp here →
                         </a>
                     </p>
@@ -1126,7 +1164,8 @@ $jie_img = content_url('uploads/2026/02/FB_IMG_1740290134515.jpg');
         </div>
 
         <div class="mukc-footer__bottom">
-            <span class="mukc-footer__copy">&copy; 1997&ndash;2026 Melbourne University Karate Club<br>Reg. No. A0035839X<br>ABN 20 213 278 331</span>
+            <span class="mukc-footer__copy">&copy; 1997&ndash;2026 Melbourne University Karate Club<br>Reg. No.
+                A0035839X<br>ABN 20 213 278 331</span>
 
             <div class="mukc-footer__social">
                 <!-- YouTube -->

@@ -1169,7 +1169,7 @@ if ($custom_logo_id) {
     <!-- ══════════════════════════════════════════════
      SECTION 6 — GRADING
      ══════════════════════════════════════════════ -->
-    <section class="mukc-section" style="background: #111111;">
+    <section class="mukc-section" id="grading" style="background: #111111;">
         <div class="mukc-container">
             <div class="mukc-text-block" style="max-width: 800px; margin-bottom: 40px;">
                 <h2 class="mukc-heading">Grading</h2>
