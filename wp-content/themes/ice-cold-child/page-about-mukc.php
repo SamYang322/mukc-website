@@ -590,6 +590,53 @@ if ($custom_logo_id) {
             color: #ffffff;
         }
 
+        /* ── SECTION 6: GRADING ──────────────────────── */
+        .mukc-grading__grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 48px 40px;
+            margin-top: 40px;
+            margin-bottom: 32px;
+        }
+
+        .mukc-grading__col h3 {
+            font-size: 1.1rem;
+            font-weight: 700;
+            color: #ffffff;
+            margin-bottom: 16px;
+        }
+
+        .mukc-grading__col p {
+            font-size: 0.9rem;
+            color: rgba(255, 255, 255, 0.85);
+            line-height: 1.75;
+            margin-bottom: 0;
+        }
+
+        .mukc-grading__col p strong {
+            font-weight: 700;
+            color: #ffffff;
+        }
+
+        .mukc-grading__note {
+            font-size: 0.85rem;
+            color: rgba(255, 255, 255, 0.6);
+            margin-top: 32px;
+            text-align: center;
+        }
+
+        @media (max-width: 900px) {
+            .mukc-grading__grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+
+        @media (max-width: 600px) {
+            .mukc-grading__grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
         /* ── BANNER IMAGES ───────────────────────────── */
         .mukc-banner {
             width: 100%;
@@ -966,6 +1013,130 @@ if ($custom_logo_id) {
             </div>
             <img class="mukc-banner" src="<?php echo esc_url(content_url('uploads/2026/02/Weapon.jpg')); ?>"
                 alt="MUKC Weapons training">
+        </div>
+    </section>
+
+    <!-- ══════════════════════════════════════════════
+     SECTION 6 — GRADING
+     ══════════════════════════════════════════════ -->
+    <section class="mukc-section" style="background: #111111;">
+        <div class="mukc-container">
+            <div class="mukc-text-block">
+                <h2 class="mukc-heading">Grading</h2>
+                <p class="mukc-body" style="font-size: 1rem; margin-bottom: 12px;">
+                    Gradings are held to assess students' progress and award new ranks.
+                    Below are the criteria and fees for each grade.
+                </p>
+            </div>
+
+            <div class="mukc-grading__grid">
+
+                <div class="mukc-grading__col">
+                    <h3>10th Kyu — Yellow Belt</h3>
+                    <p>
+                        <strong>$45</strong> – Grading Fee<br>
+                        <strong>Kata:</strong> 1st &amp; 2nd Kata Taikyokyu<br>
+                        <strong>Bunkai:</strong> 2 applications from each kata
+                    </p>
+                </div>
+
+                <div class="mukc-grading__col">
+                    <h3>9th Kyu — Yellow Belt (Stripe)</h3>
+                    <p>
+                        <strong>$50</strong> – Grading Fee<br>
+                        <strong>Kata:</strong> 3rd &amp; 4th Kata Taikyokyu<br>
+                        <strong>Bunkai:</strong> 4 applications from each kata
+                    </p>
+                </div>
+
+                <div class="mukc-grading__col">
+                    <h3>8th Kyu — Orange Belt</h3>
+                    <p>
+                        <strong>$55</strong> – Grading Fee<br>
+                        <strong>Kata:</strong> 5th &amp; 6th Kata Taikyokyu<br>
+                        <strong>Bunkai:</strong> 4 applications from each kata + continuous free flow of 6th kata
+                        applications
+                    </p>
+                </div>
+
+                <div class="mukc-grading__col">
+                    <h3>7th Kyu — Orange Belt (Stripe)</h3>
+                    <p>
+                        <strong>$60</strong> – Grading Fee<br>
+                        <strong>Kata:</strong> Pinan 2 (ni)<br>
+                        <strong>Bunkai:</strong> 8 applications from the kata + continuous free flow
+                    </p>
+                </div>
+
+                <div class="mukc-grading__col">
+                    <h3>6th Kyu — Green Belt</h3>
+                    <p>
+                        <strong>$65</strong> – Grading Fee<br>
+                        <strong>Kata:</strong> Pinan 1 (sho)<br>
+                        <strong>Bunkai:</strong> 8 applications from the kata + continuous free flow
+                    </p>
+                </div>
+
+                <div class="mukc-grading__col">
+                    <h3>5th Kyu — Green Belt (Stripe)</h3>
+                    <p>
+                        <strong>$70</strong> – Grading Fee<br>
+                        <strong>Kata:</strong> Tensho<br>
+                        <strong>Bunkai:</strong> 8 applications from the kata + continuous free flow
+                    </p>
+                </div>
+
+                <div class="mukc-grading__col">
+                    <h3>4th Kyu — Blue Belt</h3>
+                    <p>
+                        <strong>$75</strong> – Grading Fee<br>
+                        <strong>Kata:</strong> Pinan 3 (sandan)<br>
+                        <strong>Bunkai:</strong> 8 applications from the kata + continuous free flow
+                    </p>
+                </div>
+
+                <div class="mukc-grading__col">
+                    <h3>3rd Kyu — Blue Belt (Stripe)</h3>
+                    <p>
+                        <strong>$80</strong> – Grading Fee<br>
+                        <strong>Kata:</strong> Pinan 4 (yondan)<br>
+                        <strong>Bunkai:</strong> 8 applications from the kata + continuous free flow
+                    </p>
+                </div>
+
+                <div class="mukc-grading__col">
+                    <h3>2nd Kyu — Brown Belt</h3>
+                    <p>
+                        <strong>$85</strong> – Grading Fee<br>
+                        <strong>Kata:</strong> Pinan 5 (godan)<br>
+                        <strong>Bunkai:</strong> 8 applications from the kata + continuous free flow
+                    </p>
+                </div>
+
+                <div class="mukc-grading__col">
+                    <h3>1st Kyu — Brown Belt (Stripe)</h3>
+                    <p>
+                        <strong>$90</strong> – Grading Fee<br>
+                        <strong>Kata:</strong> Naifanchi 1<br>
+                        <strong>Bunkai:</strong> 8 applications from the kata + continuous free flow
+                    </p>
+                </div>
+
+                <div class="mukc-grading__col">
+                    <h3>1st Dan — Black Belt *</h3>
+                    <p>
+                        <strong>$95</strong> – Grading Fee<br>
+                        <strong>Kata:</strong> All previous kata<br>
+                        <strong>Bunkai:</strong> Applications from each kata
+                    </p>
+                </div>
+
+            </div>
+
+            <p class="mukc-grading__note">
+                * Note: For Black Belt, there is an additional assessment such as sparring.
+            </p>
+
         </div>
     </section>
 
