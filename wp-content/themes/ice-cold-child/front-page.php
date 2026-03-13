@@ -596,7 +596,15 @@ $jie_img = content_url('uploads/2026/02/FB_IMG_1740290134515.jpg');
             font-size: 0.9rem;
             color: #666666;
             margin-right: 2px;
-            vertical-align: super;
+        }
+
+        .mukc-fees__cost-note {
+            display: block;
+            font-size: 0.75rem;
+            font-weight: 400;
+            color: #666666;
+            line-height: 1.2;
+            margin-top: 4px;
         }
 
         /* Responsive for new sections */
@@ -629,6 +637,7 @@ $jie_img = content_url('uploads/2026/02/FB_IMG_1740290134515.jpg');
 
             .mukc-fees__cost {
                 display: flex;
+                flex-wrap: wrap;
                 justify-content: space-between;
                 align-items: center;
                 text-align: left;
@@ -636,6 +645,12 @@ $jie_img = content_url('uploads/2026/02/FB_IMG_1740290134515.jpg');
                 margin-top: 0;
                 padding-top: 12px;
                 border-top: 1px solid rgba(0, 0, 0, 0.05);
+            }
+
+            .mukc-fees__cost-note {
+                flex-basis: 100%;
+                margin-top: 6px;
+                text-align: right;
             }
 
             .mukc-fees__cost::before {
@@ -1151,9 +1166,12 @@ $jie_img = content_url('uploads/2026/02/FB_IMG_1740290134515.jpg');
                 <!-- Single Semester -->
                 <div class="mukc-fees__row mukc-row-alt">
                     <div class="mukc-fees__type">
-                        <div class="mukc-fees__type-text">Single Semester <span>(Includes Non-Melbourne Uni student)</span></div>
+                        <div class="mukc-fees__type-text">Single Semester</div>
                     </div>
-                    <div class="mukc-fees__cost" data-label="Student Fee"><span>$</span>100</div>
+                    <div class="mukc-fees__cost" data-label="Student Fee">
+                        <span>$</span>100
+                        <div class="mukc-fees__cost-note">(Includes Non-Melbourne Uni student)</div>
+                    </div>
                     <div class="mukc-fees__cost" data-label="Non-Student Fee"><span>$</span>140</div>
                 </div>
 
