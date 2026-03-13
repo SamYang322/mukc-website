@@ -596,15 +596,17 @@ $jie_img = content_url('uploads/2026/02/FB_IMG_1740290134515.jpg');
             font-size: 0.9rem;
             color: #666666;
             margin-right: 2px;
+            vertical-align: super;
+        }
+
+        .mukc-fees__price-wrap {
+            display: inline-flex;
+            align-items: baseline;
+            gap: 2px;
         }
 
         .mukc-fees__cost-note {
-            display: block;
-            font-size: 0.75rem;
-            font-weight: 400;
-            color: #666666;
-            line-height: 1.2;
-            margin-top: 4px;
+            display: none;
         }
 
         /* Responsive for new sections */
@@ -647,12 +649,6 @@ $jie_img = content_url('uploads/2026/02/FB_IMG_1740290134515.jpg');
                 border-top: 1px solid rgba(0, 0, 0, 0.05);
             }
 
-            .mukc-fees__cost-note {
-                flex-basis: 100%;
-                margin-top: 6px;
-                text-align: right;
-            }
-
             .mukc-fees__cost::before {
                 content: attr(data-label);
                 font-size: 0.85rem;
@@ -660,6 +656,18 @@ $jie_img = content_url('uploads/2026/02/FB_IMG_1740290134515.jpg');
                 color: #666666;
                 text-transform: uppercase;
                 letter-spacing: 0.05em;
+            }
+
+            .mukc-fees__cost-note {
+                display: block;
+                width: 100%;
+                font-size: 0.8rem;
+                color: #666666;
+                margin-top: 6px;
+                font-weight: 400;
+                text-transform: none;
+                letter-spacing: normal;
+                line-height: 1.4;
             }
         }
 
@@ -1169,10 +1177,12 @@ $jie_img = content_url('uploads/2026/02/FB_IMG_1740290134515.jpg');
                         <div class="mukc-fees__type-text">Single Semester</div>
                     </div>
                     <div class="mukc-fees__cost" data-label="Student Fee">
-                        <span>$</span>100
+                        <span class="mukc-fees__price-wrap"><span>$</span>100</span>
                         <div class="mukc-fees__cost-note">(Includes Non-Melbourne Uni student)</div>
                     </div>
-                    <div class="mukc-fees__cost" data-label="Non-Student Fee"><span>$</span>140</div>
+                    <div class="mukc-fees__cost" data-label="Non-Student Fee">
+                        <span class="mukc-fees__price-wrap"><span>$</span>140</span>
+                    </div>
                 </div>
 
                 <!-- Full Year -->
@@ -1180,8 +1190,12 @@ $jie_img = content_url('uploads/2026/02/FB_IMG_1740290134515.jpg');
                     <div class="mukc-fees__type">
                         <div class="mukc-fees__type-text">Full Year</div>
                     </div>
-                    <div class="mukc-fees__cost" data-label="Student Fee"><span>$</span>175</div>
-                    <div class="mukc-fees__cost" data-label="Non-Student Fee"><span>$</span>255</div>
+                    <div class="mukc-fees__cost" data-label="Student Fee">
+                        <span class="mukc-fees__price-wrap"><span>$</span>175</span>
+                    </div>
+                    <div class="mukc-fees__cost" data-label="Non-Student Fee">
+                        <span class="mukc-fees__price-wrap"><span>$</span>255</span>
+                    </div>
                 </div>
 
                 <!-- Single Session -->
@@ -1189,8 +1203,12 @@ $jie_img = content_url('uploads/2026/02/FB_IMG_1740290134515.jpg');
                     <div class="mukc-fees__type">
                         <div class="mukc-fees__type-text">Single Session</div>
                     </div>
-                    <div class="mukc-fees__cost" data-label="Student Fee"><span>$</span>15</div>
-                    <div class="mukc-fees__cost" data-label="Non-Student Fee"><span>$</span>25</div>
+                    <div class="mukc-fees__cost" data-label="Student Fee">
+                        <span class="mukc-fees__price-wrap"><span>$</span>15</span>
+                    </div>
+                    <div class="mukc-fees__cost" data-label="Non-Student Fee">
+                        <span class="mukc-fees__price-wrap"><span>$</span>25</span>
+                    </div>
                 </div>
 
             </div>
