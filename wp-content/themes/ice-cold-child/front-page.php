@@ -1232,9 +1232,12 @@ $jie_img = content_url('uploads/2026/02/FB_IMG_1740290134515.jpg');
                 </div>
             </div>
 
-            <!-- Grading Fees Link -->
-            <div style="text-align: left; margin-top: 16px; margin-bottom: 32px;" class="mukc-reveal" data-delay="1">
-                <a href="<?php echo esc_url(site_url('/about-mukc/#grading')); ?>" class="mukc-fees__btn">
+            <!-- Registration + Grading Fees Links -->
+            <div style="text-align: left; margin-top: 16px; margin-bottom: 32px; display: flex; gap: 20px; flex-wrap: wrap;" class="mukc-reveal" data-delay="1">
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSekzkpS5rESymDeYg_qCwXWUOLXW0iEU1CtDFXgVuKTDt3BIg/viewform" target="_blank" rel="noopener" class="mukc-fees__btn">
+                    Register Now &rarr;
+                </a>
+                <a href="<?php echo esc_url(site_url('/about-mukc/#grading')); ?>" class="mukc-fees__btn" style="background: transparent; color: #111111; border: 1px solid #111111; box-shadow: none;">
                     View Grading Fees &rarr;
                 </a>
             </div>
