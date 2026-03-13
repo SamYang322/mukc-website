@@ -606,7 +606,14 @@ $jie_img = content_url('uploads/2026/02/FB_IMG_1740290134515.jpg');
         }
 
         .mukc-fees__cost-note {
-            display: none;
+            display: block;
+            font-size: 0.75rem;
+            color: #666666;
+            margin-top: 4px;
+            font-weight: 400;
+            text-transform: none;
+            letter-spacing: normal;
+            line-height: 1.4;
         }
 
         /* Responsive for new sections */
@@ -659,15 +666,9 @@ $jie_img = content_url('uploads/2026/02/FB_IMG_1740290134515.jpg');
             }
 
             .mukc-fees__cost-note {
-                display: block;
                 width: 100%;
                 font-size: 0.8rem;
-                color: #666666;
                 margin-top: 6px;
-                font-weight: 400;
-                text-transform: none;
-                letter-spacing: normal;
-                line-height: 1.4;
             }
         }
 
